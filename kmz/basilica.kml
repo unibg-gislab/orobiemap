@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>basilica</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/basilica.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/basilica.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 418 ">
+		<name>CLUSONE - Basilica di S. Maria Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/basiliche/418_BasilicadiSMariaAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La basilica di Santa Maria Assunta di Clusone è un edificio monumentale del XVIII secolo, la cui maestosità richiama il ruolo urbano del centro. Posta in una posizione elevata, con un'importante scalinata sul lato meridionale, è decorata da grandi statue degli evangelisti e da balaustre. A oriente della chiesa si erge il campanile, costruito qualche decennio prima della Basilica e ben visibile dell'altopiano di Clusone, mentre dal lato occidentale si affaccia sull'Oratorio dei Disciplini. L'interno della basilica custodisce opere d'arte di diversi pittori e scultori bergamaschi. 
+<br><br>
+<b>Indirizzo: </b>Via Brasi 11 - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.949116999999999,45.891435,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

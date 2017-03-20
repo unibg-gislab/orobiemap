@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>pitture_pedagogiche</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>0.933333</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/pitture_pedagogichenew.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/pitture_pedagogichenew.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark id=" 356 ">
+		<name>AVERARA - Chiesa San Giacomo Maggiore</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/356_ChiesaSanGiacomoMaggiore.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sotto il porticato della Chiesa di San Giacomo Maggiore situata nella parte centrale del paese di Averara, si può ammirare un antico affresco, risalente al 1446, che raffigura la "Torre della Sapienza". Si tratta di uno schema mnemo-tecnico che collega concetti e nozioni a immagini facili da ricordare, con lo scopo di diffondere principi morali e regole di convivenza civile e religiosa.
+
+<br><br>
+<b>Indirizzo: </b>Piazza della Chiesa - Averara, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.630153,45.987609,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 376 ">
+		<name>CASSIGLIO - Danza Macabra - Casa Milesi (facciata)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/danza_macabra/376_casamilesi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Si tratta di una danza macabra che mostra un giovane veneziano che per corteggiare una fanciulla ha ingaggiato dei suonatori. Tale immagine festosa è contrapposta a quella maligna della Morte, posta alle sue spalle e pronta a scoccare il suo dardo.<br><br>
+<b>Indirizzo: </b>Strada provinciale - Cassiglio, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href=" www.altobrembo.it"> www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.612628000000001,45.966732,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 381 ">
+		<name>CLUSONE - Danza Macabra - Oratorio dei Disciplini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/danza_macabra/381_OratorioSanBernardino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Oratorio dei Disciplini è stato edificato tra il 1336 e il 1350. Sulla parete esterna si trova un grande affresco chiamato "Danza macabra", anche se i temi del dipinto sono tre: il Trionfo della morte, la Danza macabra, l'Inferno e il Paradiso. Nell'affresco, gli scheletri - allegoria della morte - danzano con diversi personaggi; questo tema iconografico tardomedievale nasce con l'intenzione di rivolgere un messaggio ai posteri come monito.<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.artesacraclusone.it">www.artesacraclusone.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.94835,45.89146,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

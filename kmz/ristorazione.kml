@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ristorazione</name>
+	<Style id="s_ylw-pushpin_hl39">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/ristorazione.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 53 ">
+		<name>SANTA BRIGIDA - Azienda Agricola Goglio Donato</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/53_AziendaAgricolaGoglioRenato.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'azienda agricola, situata nel territorio di Santa Brigida, si caratterizza per la produzione di formaggi tipici della tradizione locale, tra cui il Branzi, e burro. <br><br>
+<b>Indirizzo: </b>Via Caprile inferiore 4 - Santa Brigida, BG<br>
+<b>Telefono: </b>3386265641; 3462190148<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.628389,46.00163199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 127 ">
+		<name>SAN PELLEGRINO TERME - Ristorante Cafè Liberty</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/127_RistoranteCafeLiberty.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Ristorante Cafè Liberty si trova nel cuore di San Pellegrino Terme, importante centro termale della Valle Brembana, caratterizzato da un'architettura in stile liberty. La cucina propone piatti della tradizione bergamasca. La struttura possiede il marchio "Ristorante dei Mille Sapori" (cucina bergamasca di qualità).<br><br>
+<b>Indirizzo: </b>Via Cesare Mazzoni 13 - 24016 San Pellegrino Terme, BG<br>
+<b>Telefono: </b>0345 67987; cell. 3483301462<br>
+<b>Mail: </b>info@cafeliberty.it<br>
+<b> Sito internet: </b><a href="www.cafeliberty.it">www.cafeliberty.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.664795,45.841206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 128 ">
+		<name>SAN PELLEGRINO TERME - Birrificio Via Priula</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/128_BirrificioViaPriula.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Birrificio Via Priula è situato in pieno centro di San Pellegrino Terme, nell'edificio storico dei "Portici Colleoni", realizzazione del 1930. Il Birrificio e l'annessa Birreria propongono birre artigianali, premiate in diversi concorsi nazionali.<br><br>
+<b>Indirizzo: </b>Via Matteotti, Portici Colleoni - San Pellegrino Terme, BG<br>
+<b>Telefono: </b>Tel. Birreria 338 6438705 - Tel. Birrificio 333 1883129<br>
+<b>Mail: </b>locale@birrificioviapriula.it  info@birrificioviapriula.it<br>
+<b> Sito internet: </b><a href="www.birrificioviapriula.it">www.birrificioviapriula.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.664892999999999,45.839764,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 129 ">
+		<name>DOSSENA - Agriturismo Al Sass</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/129_AgriturismoAlSass.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Al Sass nasce dalla ristrutturazione di una vecchia cascina di montagna dismessa, posizionata in un punto panoramico nel territorio di Dossena, in Valle Brembana. L'azienda agricola, legata all'agriturismo, svolge un importante servizio di tutela e salvaguardia dell'ambiente, occupandosi del taglio della legna e del fieno, oltre che della coltivazione di piante da frutto e ortaggi e dell'allevamento di diversi animali. <br><br>
+<b>Indirizzo: </b>Via Provinciale 20 - Dossena, BG<br>
+<b>Telefono: </b>3331139815<br>
+<b>Mail: </b>sgriturismo.alsass@libero.it<br>
+<b> Sito internet: </b><a href="www.agriturismoalsass.com">www.agriturismoalsass.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.692914,45.875711,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 131 ">
+		<name>SAN GIOVANNI BIANCO - Taverna di Arlecchino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/131_TavernadiArlecchino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il ristorante Taverna di Arlecchino è situato nella frazione Oneta, di San Giovanni Bianco, un piccolo borgo medievale. La struttura è stata ricavata nella parte che anticamente era la scuderia della casa di Arlecchino, oggi museo. Posta al centro della Via Mercatorum, che collegava i Grigioni alla città di Bergamo, il borgo era importante crocevia di scambi commerciali. Il ristorante propone piatti della tradizione bergamasca, realizzati con i prodotti locali. <br><br>
+<b>Indirizzo: </b>Via Oneta - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>034542458; cell. 3387600882 <br>
+<b>Mail: </b>tavernadiarlecchino@gmail.com <br>
+<b> Sito internet: </b><a href="www.tavernadiarlecchino.it">www.tavernadiarlecchino.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.651021999999999,45.882091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 134 ">
+		<name>VILMINORE DI SCALVE - Latteria Montana di Scalve</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/134_LatteriasocialemontanadiScalve.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Latteria Sociale Montana di Scalve, nata nel 1958, riunisce oggi circa una ventina di allevatori della zona. Il caseificio produce lavorati lattiero-caseari prodotti da mucche alimentate quasi esclusivamente a fieno. I formaggi vengono prodotti secondo tecniche di lavorazione tradizionali.<br><br>
+<b>Indirizzo: </b>Via Provinciale 61  21, Vilmaggiore - Vilminore di Scalve, BG<br>
+<b>Telefono: </b>034651131<br>
+<b>Mail: </b>info@latteriasocialediscalve.it<br>
+<b> Sito internet: </b><a href="www.latteriasocialediscalve.it">www.latteriasocialediscalve.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.113671,46.005108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 135 ">
+		<name>SCHILPARIO - Agricampeggio Alpen</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/135_AgricampeggioAlpen.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Immerso nel verde della Val di Scalve, il primo Agricampeggio della Bergamasca attende gli amanti della natura e del relax e rappresenta un ideale punto di soggiorno per gli amanti delle Mountain Bike, del trekking, per gli arrampicatori e per le famiglie che vogliono godere di tranquille passeggiate.<br><br>
+<b>Indirizzo: </b>Via Lesa 10 - Schilpario, BG<br>
+<b>Telefono: </b>034656051; cell. 3495839052<br>
+<b>Mail: </b>info@alpencamping.it<br>
+<b> Sito internet: </b><a href="www.alpencamping.it">www.alpencamping.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.143498,46.00908,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 136 ">
+		<name>SAN GIOVANNI BIANCO - Agriturismo Casa Eden</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/136_agriturismocasaeden.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Casa Eden si trova in media Valle Brembana, dove gode di un panorama unico, dall'Alta Valle sulle Alpi Orobie Bergamasche, alla bassa Val Brembana. L'Agriturismo propone prodotti caseari prodotti nel caseificio aziendale offrendo una vasta gamma di formaggi di capra cercando di valorizzarne i caratteri organolettici tipici ottenuti anche dalla combinazione del formaggio con altri ingredienti ed essenze aromatiche varie.
+<br><br>
+<b>Indirizzo: </b>Via Eden 1, Cornalita - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>3318757007 <br>
+ 
+<b> Sito internet: </b><a href="www.casaeden.info">www.casaeden.info</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.638423,45.869008,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 138 ">
+		<name>VALBONDIONE - Agriturismo Stala di Mostacc</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/138_AgriturismoStaladiMostacc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Stala di Mostacc è per Valbondione punto di riferimento ed esempio della tradizione e della civiltà contadina del territorio. Nell'azienda agricola di famiglia vengono allevati diversi tipi di animali secondo modalità tradizionali. Questi vengono portati durante il periodo estivo all'alpeggio Grabiasca, e utilizzati per la produzione di salumi e formaggi locali.
+<br><br>
+<b>Indirizzo: </b>Via Mostacc 9, Fiumenero - Valbondione, BG<br>
+<b>Telefono: </b>034644113<br>
+<b>Mail: </b>staladimustacc@email.it<br>
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.960193,46.023476,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 139 ">
+		<name>CASTIONE DELLA PRESOLANA - Agriturismo Prato Alto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/139_PratoAlto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Prato Alto è situato nel territorio di Onore, in Alta Val Seriana, ai piedi della Presolana, in una tipica cascina bergamasca ristrutturata. La struttura, situata in un ambiente montano particolarmente stimolante, consente di organizzare attività di educazione ambientale e conoscenza del territorio. 
+<br><br>
+<b>Indirizzo: </b>Via Rizzi, Prato Alto - Onore, BG<br>
+<b>Telefono: </b>034661122<br>
+<b>Mail: </b> info@pratoalto.it <br>
+<b> Sito internet: </b><a href="www.pratoalto.it">www.pratoalto.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.01857,45.89651,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 141 ">
+		<name>SERINA - Ca&apos; del Mans</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/141_CadelMans.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Cooperativa Sociale Ca' del Mans svolge attività di formazione nell'ambito sociale, rivolto in particolare al disagio giovanile, mediante attività lavorative nel campo agricolo. I prodotti dell'azienda agricola sono controllati e certificati da I.C.E.A. (Istituto di Controllo dell'Etica Ambientale), organismo che ne garantisce la qualità. <br><br>
+<b>Indirizzo: </b>Valle del Manzo - Serina, BG<br>
+<b>Telefono: </b>034566152; cell. 3280483548 o 3206829704<br>
+<b>Mail: </b>ca.aldelmans@alice.it alessio.aldo.carrara@gmail.com<br>
+<b> Sito internet: </b><a href="www.caaldelmans.com">www.caaldelmans.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.721117,45.867429,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 142 ">
+		<name>ARDESIO - Prosciutto Cà del Botto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/142_ProsciuttoC%C3%A0delBotto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Prosciutto Cà del Botto viene prodotto ad Ardesio, in Alta Val Seriana, secondo un'antica ricetta che, oltre all'uso di carni di maiale allevato allo stato brado, utilizzava il fieno nella fase di maturazione, recuperata agli inizi degli anni Novanta dello scorso secolo da Ezio Chiesa, titolare del salumificio del gruppo Ibs, particolarmente legato alle più antiche tradizioni della cultura rurale bergamasca. Questa produzione ha ricevuto il marchio della Camera di Commercio di Bergamo "Bergamo Città dei Mille sapori".
+<br><br>
+<b>Indirizzo: </b>Via Cunella 10 - Ardesio, BG<br>
+<b>Telefono: </b>034633733; fax. 0346/34272 <br>
+<b>Mail: </b>info@cadelbotto.it<br>
+<b> Sito internet: </b><a href="www.cadelbotto.it">www.cadelbotto.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.926905,45.924232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 144 ">
+		<name>COLERE - Casa Cantoniera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/144_CasaCantoniera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>All'interno dell'ex Casa Cantoniera, ora Infopoint di Scalve, si trova il "Canyon di Scalve", un luogo che permette di gustare i sapori tipici seriani e scalvini. Le degustazioni organizzate dalla struttura hanno come obiettivo il recupero delle tradizioni locali e la valorizzazione dei prodotti della zona.<br><br>
+<b>Indirizzo: </b>Cantoniera 294, Via Mala - Colere, BG<br>
+<b>Telefono: </b>3497581578<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.10441,45.947631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 145 ">
+		<name>BRANZI - Latteria Sociale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/145_Latteria%20Sociale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Latteria Sociale di Branzi nasce nel 1953 con l'obiettivo di produrre tutto l'anno un formaggio di alta qualità, garantito dall'impiego delle tecniche tradizionali utilizzate in alpeggio e dal latte prodotto in valle. L'attività casearia ha costituito nel passato una importante attività economica, grazie ai legami con la Pianura Padana, dove le mandrie si dirigevano dopo il periodo passato in alpeggio, per fertilizzare i campi, e i mandriani commercializzavano i propri prodotti. <br><br>
+<b>Indirizzo: </b>Via S. Rocco 41/B - Branzi, BG<br>
+<b>Telefono: </b>034571074<br>
+<b>Mail: </b>info@formaggiobranzi.com<br>
+<b> Sito internet: </b><a href="www.formaggiobranzi.com">www.formaggiobranzi.com</a><br>
+ 
+<b>Info: </b>Via San Rocco, 41, 24010 Branzi Bergamo<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.757123,45.999005,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 146 ">
+		<name>BRANZI - Agriturismo alle Baite</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/146_AgriturismoalleBaite.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Alle Baite sorge su un verde altopiano coltivato a prato/pascolo e circondato da boschi di conifere all'imbocco del paese di Branzi, a circa 800 m di altitudine. La struttura propone piatti della tradizione, realizzati con i prodotti della propria azienda agricola o di altre aziende agricole, garantendo l'uso di prodotti locali.<br><br>
+<b>Indirizzo: </b>Via Rivioni - Branzi, BG<br>
+<b>Telefono: </b>3382113930<br>
+<b>Mail: </b>info@agriturismoallebaite.com<br>
+<b> Sito internet: </b><a href="www.agriturismoallebaite.com">www.agriturismoallebaite.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.751246,45.990813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 147 ">
+		<name>VALTORTA - Latteria Sociale di Valtorta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/147_LatteriaSocialediValtorta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Latteria sociale di Valtorta fu istituita nel 1954. Il principale prodotto realizzato è il Formai dè Mut DOP. Questo è uno dei molti formaggi della tradizione casearia della Valle Brembana, che ha costituito nel passato un'importante attività economica, grazie ai legami con la Pianura Padana, dove le mandrie si dirigevano dopo il periodo passato in alpeggio per fertilizzare i campi e i mandriani commercializzavano i propri prodotti. Inoltre, l'attività dei pastori ha contribuito a salvaguardare l'ambiente montano, grazie alla costante opera di sfalcio dell'erba, ripulitura del sottobosco, taglio degli alberi morti, conservazione delle aree pascolive ecc.<br><br>
+<b>Indirizzo: </b>Via Roma 5 - Valtorta, BG<br>
+<b>Telefono: </b>034587770<br>
+<b>Mail: </b>latteriavaltorta@gmail.com<br>
+ 
+ 
+<b>Info: </b>Via Roma 5, 24010 Valtorta Bergamo<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.534967999999999,45.977668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 148 ">
+		<name>GROMO - Agriturismo Visini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/148_AgriturismoVisini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Tipica azienda della realtà montana orobica, l´azienda Visini si dedica all´allevamento di bovine da latte e alla produzione di formaggio. La gestione familiare dell´azienda garantisce un'ospitalità attenta ed accogliente. 
+<br><br>
+<b>Indirizzo: </b>Via Ripa Alta - Gromo, BG<br>
+<b>Telefono: </b>034641392<br>
+ 
+<b> Sito internet: </b><a href="www.terranostra.it">www.terranostra.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.931245000000001,45.978404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 149 ">
+		<name>GANDELLINO - Agriturismo Agri Giò</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/149_AgriturismoAgriGi%C3%B2.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Agri Giò, situata i località Tezzi Alti a Gandellino, è una azienda agricola dedita alla coltivazione biologica e trasformazione di frutti di bosco. Inoltre, vengono allevate api, trote e animali di bassa corte. I campi sono in una posizione ben soleggiata e ventilata, favorita da un microclima ideale per ottenere prodotti di alta qualità. Tutta la produzione viene venduta direttamente in loco e per questo motivo è raccolta e lavorata solo al giusto momento di maturazione. L'agriturismo propone una cucina tradizionale e casalinga, con piatti quali i Capù Bergamaschi avvolti in foglie di Romice o verze, casoncei e polenta. 
+<br><br>
+<b>Indirizzo: </b>Tezzi Alti - Gandellino, BG<br>
+<b>Telefono: </b>3479024317<br>
+<b>Mail: </b>sabini.giovanna@libero.it<br>
+<b> Sito internet: </b><a href="www.agri-gio.it">www.agri-gio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.95472,45.995442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 150 ">
+		<name>GANDELLINO - Agriturismo Il Ronchello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/150_AgriturismoIlRonchello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Azienda Agricola Ronchello è localizzata nel piccolo comune montano di Gandellino, nel cuore dell'Alta Val Seriana, una zona caratterizzata da pascoli, conifere, frassini, castagni e faggi. L'azienda è specializzata nella produzione di miele, attività iniziata in modo amatoriale circa venti anni fa, fino a divenire dal 2010 azienda agricola. La produzione di diverse varietà di miele (millefiori, castagno e robinia, Robinia pseudoacacia) si avvale anche della pratica del nomadismo, che si svolge in zone limitrofe con caratteristiche ambientali analoghe a quelle dell'azienda. In particolare il miele millefiori è prodotto in Gandellino, le altre varietà provengono prevalentemente dagli alveari collocati durante il periodo di fioritura nel comune di Pian Camuno di Valcamonica, sulle pendici di Montecampione, ricche di boschi di castagno e di macchie di robinia.<br><br>
+<b>Indirizzo: </b>Via Tezzi Bassi 8 - Gandellino, BG<br>
+<b>Telefono: </b>034648448<br>
+<b>Mail: </b>info@mieleronchello.com<br>
+<b> Sito internet: </b><a href="www.mieleronchello.com">www.mieleronchello.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.948362,45.993413,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 151 ">
+		<name>GANDELLINO - Formaggella della Val Seriana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/151_FormagelladellaValSeriana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La formaggella è una tipica produzione casearia della collina e della montagna bergamasca, inserita nell' elenco nazionale dei prodotti tradizionali. Per la produzione della formaggella il latte viene lavorato appena munto, conservando così la sua freschezza e gli aromi delle essenze dei pascoli montani, che danno a questo formaggio il suo caratteristico sapore. La formaggella è un formaggio grasso a pasta semicotta, a media-lunga stagionatura fino 1 anno, la forma è cilindrica a scalzo convesso e presenta un diametro di 18-20 cm con scalzo diritto di 6 cm. La pasta è di consistenza morbida, compatta e uniforme di un colore bianco-paglierino con occhiatura variegata non uniforme, la crosta si presenta liscia e sottile, a volte friabile color giallognola. Con la stagionatura risulta essere compatta, spessa e assume una colorazione più scura. Il sapore è dolce e aromatico, più intenso con la stagionatura, mentre l'odore presenta un aroma delicato, con venatura acidula che si trova con più intensità nella produzione estiva.<br><br>
+<b>Indirizzo: </b>Gandellino, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.952577,46.01433,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 152 ">
+		<name>CLUSONE - Pasticceria Trussardi - Biscotto di Clusone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/152_PasticceriaTrussardiBiscotto%20di%20Clusone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Pasticceria Trussardi nasce negli anni Ottanta, nel cuore del borgo di Clusone. Nel locale è possibile acquistare il Biscotto di Clusone, un prodotto elaborato e lanciato dal pasticcere Giuseppe Mantegazza che nel 1920 depositò il marchio e la ricetta, iniziando nella sua pasticceria la produzione del dolce. La produzione durò fino agli anni Cinquanta dello scorso secolo, quando Mantegazza cessò l'attività e abbandonò la Valle Seriana.
+Qualche anno fa l'Amministrazione comunale, in accordo con Emma Mantegazza - figlia del pasticcere che ha concesso l'uso dell'antica ricetta - e con la collaborazione della pasticceria Trussardi, ha riscoperto e riproposto il Biscotto Clusone che ha subito riscosso un enorme successo.<br><br>
+<b>Indirizzo: </b>P.zza della Rocca, 2 - Clusone, BG<br>
+<b>Telefono: </b>034623835<br>
+<b>Mail: </b>info@biscottoclusone.it<br>
+<b> Sito internet: </b><a href="www.biscottoclusone.it">www.biscottoclusone.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.958190999999999,45.889957,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 154 ">
+		<name>SAN GIOVANNI BIANCO - Cascina Gervasoni</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/154_CascinaGervasoni.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'azienda agricola Cascina Gervasoni e l'agriturismo occupano due cascine di fine '800 e inizio '900, immerse nel bosco con un panorama incantevole del comune di San Giovanni Bianco. La struttura fa parte del Progetto Cascina Gervasoni che ha sede in Bergamo città e diffusione in città e provincia; esso aderisce ad una rete bergamasca più ampia denominata Ecosostenibilità&Benessere. Scopo del progetto è diffondere valori legati all'ecosostenibilità e all'etica ambientale partendo dai soci e dall'attenzione al loro benessere. Grazie alla creazione del Centro di Etica ed Educazione Ambientale vengono organizzate attività didattico-culturali di Fattoria didattica presso l'agriturismo riconosciuto Fattoria del Panda. Nell'azienda agricola i prodotti vengono coltivati seguendo pratiche agricole tradizionali dettate dai ritmi della terra, utilizzando soltanto metodologie e prodotti concessi in agricoltura biologica, sinergica e biodinamica.
+<br><br>
+<b>Indirizzo: </b>Frazione Foppe di San Gallo 11 - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>034543149; cell. 3382677703<br>
+<b>Mail: </b>info@cascinagervasoni.it<br>
+<b> Sito internet: </b><a href="www.cascinagervasoni.it">www.cascinagervasoni.it</a><br>
+ 
+<b>Info: </b>Fattoria del Panda<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.675058999999999,45.864653,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 155 ">
+		<name>VEDESETA - Cooperativa Agricola Sant&apos;Antonio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/155_CooperativaSantAntonio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Cooperativa Agricola S. Antonio è una piccola realtà collocata nel cuore della Valle Taleggio. Sorta alcuni anni fa con il preciso intento di valorizzare e sostenere alcuni mestieri duri e desueti in zone montane, come quello dell'allevatore e del casaro, grazie alla volontà della Comunità Montana Valle Brembana e dei Comuni di Taleggio e Vedeseta oggi riveste un ruolo centrale nell'economia della valle. La Cooperativa è stabilmente impegnata a ritirare esclusivamente il latte di vacche di razza Bruna Alpina degli allevatori della zona, per la produzione di Taleggio a Latte Crudo, che ha avuto origine proprio in questa valle.
+Inoltre, sono stati riscoperti altri formaggi di alta qualità quali lo Strachìtunt Valtaleggio, il Branzi, il formaggio Alben e il burro, tutti prodotti con metodi tradizionali. La sede della cooperativa è a Taleggio, mentre il caseificio si trova a Vedeseta dove è possibile acquistare i prodotti presso lo spaccio.
+<br><br>
+<b>Indirizzo: </b>Caseificio e spaccio: Fraz. Reggetto - Vedeseta, BG. Sede: Fraz. Sottochiesa - Taleggio BG<br>
+<b>Telefono: </b>034547467<br>
+<b>Mail: </b>sca.santonio@virgilio.it<br>
+<b> Sito internet: </b><a href="www.santantoniovaltaleggio.com">www.santantoniovaltaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.552495,45.896817,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 156 ">
+		<name>TALEGGIO - Agriturismo Il Pavone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/156_AgriturismoIlPavone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L´agriturismo Il Pavone, situato nella soleggiata Val Taleggio, dà la possibilità di degustare prodotti nostrani in un ambiente incontaminato. E´ possibile apprezzare una semplice ma curata cucina casalinga, basata su ricette e sapori di un tempo. In azienda si allevano asini e capre di razze selezionate, che durante la stagione estiva pascolano liberamente nei prati circostanti. Il latte di capra viene lavorato e trasformato in formaggio, venduto direttamente al pubblico. 
+<br><br>
+<b>Indirizzo: </b>Sentiero Caraver 286, Fraz. Pizzino, Località Roncall - Taleggio, BG<br>
+<b>Telefono: </b>034547510<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.563727999999999,45.90136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 157 ">
+		<name>GORNO - Fattoria dell&apos;Ariete</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/157_FattoriedellAriete.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Fattoria Ariete, inserita nell'Ecomuseo delle miniere di Gorno, è immersa nella Val del Riso. La struttura, oltre a prevedere possibilità di alloggio con formula b&b, promuove ed organizza percorsi di visita guidati alla riscoperta e conoscenza della storia e della natura della Valle. Offre attività di fattoria didattica con un percorso che si snoda lungo il fiume Riso, in riva allo stagno e attraverso una florida pineta dove sono ospitati gli animali (caprette, pecore, asini, pavoni, oche, galline di varie razze, conigli, maiali). L'attività di Fattoria Ariete comprende anche la cura del territorio e la valorizzazione della storia plurimillenaria della valle.<br><br>
+<b>Indirizzo: </b>via Ceruti 3a - Gorno, BG<br>
+<b>Telefono: </b>3473240391; fax. 035707320<br>
+<b>Mail: </b>info@fattoriaariete.it<br>
+<b> Sito internet: </b><a href="www.fattoriaariete.it">www.fattoriaariete.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.832974,45.86426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 541 ">
+		<name>CASTIONE DELLA PRESOLANA - Malga Cornetto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/541_MalgaCornetto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Malga Cornetto è situata a 1.526 m sul soleggiato versante sud del Monte Cornetto, nel territorio di Castione della Presolana. Raggiungibile con una passeggiata che inizia poco prima del Passo della Presolana, la baita gode di un panorama su tutta l'Alta Valle Seriana. La costruzione di questa struttura risale alla fine del 1800 quando la pastorizia e la transumanza erano uno dei mezzi di sostentamento della popolazione bresciana e bergamasca. Con l'intento di tenere vivo il ricordo di questa cultura in via di estinzione, l'Associazione Antincendio Presolana all'inizio degli anni Novanta ha promosso la ristrutturazione della Baita Cornetto. Nei giorni festivi è possibile usufruire di un servizio ristoro. Inoltre, il sentiero che conduce alla Malga è conosciuto anche come "Sentiero degli alberi parlanti", poiché lungo il percorso il Consorzio Forestale Presolana ha realizzato un itinerario che consente di conoscere i nomi e una breve storia delle principali tipologie di alberi del territorio montano. 
+<br><br>
+<b>Indirizzo: </b>Monte Cornetto - Castione della Presolana, BG<br>
+<b>Telefono: </b>3492820563<br>
+<b>Mail: </b>info@baitacornetto.it<br>
+<b> Sito internet: </b><a href="www.baitacornetto.it">www.baitacornetto.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.035859,45.90789699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 542 ">
+		<name>CASTIONE DELLA PRESOLANA - Malga Corzene</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/542_MalgaCorzene.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Malga Corzene è situata nel territorio del comune di Castione della Presolana (1400 mt.) nell'ampia conca della Valle Campello e confina a nord con l'alpe Cassinelli, ad est con l'alpe Prada ed a ovest con l'alpe Campo. Il pascolo si sviluppa tra i 1.250 m e i 2.010 m di cima Corzene. La baita, recentemente ristrutturata dal Consorzio Forestale Presolana, è composta da diversi locali tra cui: un locale di accesso al piano rialzato con il deposito latte sulla destra, di fronte l'ampio caseificio, a sinistra una grande cucina con accesso al bagno e alla camera. Al piano interrato è presente una grande casera per la stagionatura e il deposito dei formaggi. Sul lato nord, adiacente alla baita, si trova una grande cisterna per la raccolta dell'acqua, portata all'interno con pompa di aspirazione e impianto idrico. <br><br>
+<b>Indirizzo: </b>Pizzo Corzene - Castione della Presolana, BG<br>
+<b>Telefono: </b>Unione Presolana tel. 034662474<br>
+<b>Mail: </b>info@cfpresolana.it<br>
+<b> Sito internet: </b><a href="www.unionepresolana.bg.it">www.unionepresolana.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.035859,45.90789699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 543 ">
+		<name>AZZONE - Malga del Negrino e Baita Bassa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/543_MalgadelNegrinoeBaitaBassa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'alpe del Negrino è sita nel bacino del torrente Eles. Esiste una vasta area pianeggiante, al confine con il Piano di Ballarino, che introduce all'aspro paesaggio del Pizzo Camino. In questa zona sorgono tre baite attrezzate: Baita bassa, a 1.540 m; Baita di mezzo, a 1.631 m e Baita alta a 1.890 m, in convenzione con il CAI. Nell'area è possibile fare interessanti escursioni e in inverno attività di sci alpinismo.<br><br>
+<b>Indirizzo: </b>Azzone, BG<br>
+<b>Telefono: </b>Comune Azzone tel. 034654001<br>
+<b>Mail: </b>info@comune.azzone.bg.it<br>
+<b> Sito internet: </b><a href="www.comune.azzone.bg.it">www.comune.azzone.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.112551,45.97856800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 544 ">
+		<name>ROVETTA - Malga Fogarolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/544_MalgaFogarolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Alpe Fogarolo si trova sul territorio del comune di Rovetta tra la Valle Faccanoni e la Val Rinata sulla catena montuosa che separa la Val Borlezza dalla Val Gandino. 
+L'area confina ad est con l'alpe Lusù, a sud con l'alpe Campo D'Avena e l'alpe Montagnina. Il pascolo si sviluppa tra i 1.100 e i 1.500 m. Qui si trova un'unica baita a quota 1.410 m in ottimo stato, ristrutturata nel 1985 e ulteriormente negli anni 2005 e 2006 per gli adeguamenti sanitari ai fini della caseificazione.
+<br><br>
+<b>Indirizzo: </b>Rovetta, BG<br>
+<b>Telefono: </b>Unione Presolana tel. 034662474<br>
+<b>Mail: </b>info@cfpresolana.it<br>
+<b> Sito internet: </b><a href="www.unionepresolana.gov.it">www.unionepresolana.gov.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.985855000000001,45.891036,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 545 ">
+		<name>CASTIONE DELLA PRESOLANA - Malga Presolana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/545_MalgaPresolana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Malga Presolana è situata a circa 1.500 m, sul sentiero n. 318 che da Rusio, caratteristica frazione del comune di Castione della Presolana, sale lungo la Valle dei Mulini. La malga è una delle molte strutture ancora oggi presenti sugli alpeggi della Valle Seriana, a testimonianza della lunga tradizione nella pratica dell'allevamento che caratterizza questa area. La baita è attrezzata con uno spazio per la caseificazione.<br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+<b>Telefono: </b>Unione Presolana tel. 034662474<br>
+<b>Mail: </b>info@cfpresolana.it<br>
+<b> Sito internet: </b><a href="www.unionepresolana.gov.it">www.unionepresolana.gov.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.090998,45.88641199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 546 ">
+		<name>CASTIONE DELLA PRESOLANA - Malga Zò</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/546_MalgaZo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Malga Zò è situata a circa 1.800 m, sul sentiero che da Rusio, caratteristica frazione del comune di Castione della Presolana, sale verso il Monte Campo. La malga è una delle molte strutture ancora oggi presenti sugli alpeggi della Valle Seriana, a testimonianza della lunga tradizione nella pratica dell'allevamento che caratterizza questa area. <br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+<b>Telefono: </b>Unione Presolana tel. 034662474<br>
+<b>Mail: </b>info@cfpresolana.it<br>
+<b> Sito internet: </b><a href="www.unionepresolana.gov.it">www.unionepresolana.gov.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.035859,45.90789699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 547 ">
+		<name>AVERARA - Azienda  Soluna/Altobrembo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/547_Percorsogastronomicosulle%20erbe%20naturaliAziendaSoluna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Azienda Soluna da oltre 25 anni si occupa di piante officinali. Gli operatori illustrano le fasi di lavorazione di erbe e fiori: coltivazione, raccolta, essiccazione e prodotto finale.  L'uso delle erbe naturali viene introdotto nella gastronomia promuovendo eventi e assaggi di piatti realizzati a base di erbe.<br><br>
+<b>Indirizzo: </b>Via Valtomasa 1b - Averara, BG<br>
+<b>Telefono: </b>34580107<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.631335999999999,45.99021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 548 ">
+		<name>ORNICA - Percorso gastronomico sulle erbe naturali</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/548_erbe_ornica.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nell'ambito del progetto Albergo diffuso di Ornica, in Alta Valle Brembana, è nata l'associazione Donne di Montagna, un gruppo di donne del paese che accoglie e accompagna i turisti nel cuore del borgo per respirare appieno l'atmosfera agricola, la storia, la cultura a contatto con i residenti e per sentirsi parte della comunità, condividendone costumi e tradizioni. Tra le attività svolte dall'Associazione vi è il percorso delle erbe naturali, un itinerario olfattivo che parte dalla raccolta delle buone erbe che crescono naturali, fino ad arrivare al loro utilizzo e trasformazione in cucina, recuperando i saperi locali. <br><br>
+<b>Indirizzo: </b>Via F.lli Calvi 82 - Ornica, BG<br>
+<b>Telefono: </b>3454108538<br>
+ 
+<b> Sito internet: </b><a href="www.albergodiffusoornica.it/ornica.html">www.albergodiffusoornica.it/ornica.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.579485999999999,45.98888199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 549 ">
+		<name>PARRE - Scarpinocc - Ravioli tradizionali di Parre</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/549_Scarpinocc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gli Scarpinocc sono ravioli dal ripieno "povero" costituito prevalentemente da formaggio, pan grattato e spezie. Il loro nome deriva dalla somiglianza della forma del raviolo con le tradizionali calzature indossate nei tempi antichi dagli abitanti del paese di Parre. Secondo tradizione il condimento preferito è con burro fuso e salvia, a piacere si può aggiungere anche pancetta e una classica spolverata di grana.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.890067999999999,45.875622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 550 ">
+		<name>BRANZI - Società agricola Monaci Sebastiano e F.lli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/550_Societ%C3%A0agricolaMonaciSebastianoefratelli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Società Agricola Monaci Sebastiano e Fratelli, avente sede nel territorio di Branzi, nasce dalla passione per la produzione del formaggio "Branzi" di Giovanni Monaci, che con il padre intraprese la vita da casaro e successivamente con i fratelli fondò il Caseificio Monaci, continuando così l'antica tradizione dei suoi avi che fin dal secolo scorso erano conosciuti per l'attività scolta soprattutto in alpeggio. 
+L'azienda produce in modo artigianale formaggi tipici Bergamaschi quali: Formai de Mut dell'Alta Valle Brembana DOP, Branzi, Formaggelle, Stracchini, Ricotta, Primo sale, ecc.  Il latte viene prodotto da vacche "Brune" che durante il periodo primaverile/estivo vengono portate in alpeggio, mentre in inverno vengono tenute al riparo ed in stabulazione libera presso la stalla a Branzi. L'Azienda fa parte del consorzio produttori "Formai de Mut".
+<br><br>
+<b>Indirizzo: </b>Via Gardata 3 -  Branzi, BG<br>
+<b>Telefono: </b>034571190; cell. 3473029514 <br>
+<b>Mail: </b>agrifrenci@tiscali.it<br>
+<b> Sito internet: </b><a href="www.monaciformaggitipici.it">www.monaciformaggitipici.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.760897999999999,46.005851,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 567 ">
+		<name>VALBONDIONE - Agriturismo Salvasecca</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/567_AgriturismoSalvaseccadiRodigariSteven.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'azienda agricola "Baita Salvasecca" è nata nel '93 ed è orientata all'allevamento di caprini. Nel 2000 è stata avviata un'attività agrituristica integrativa a quella agricola, che propone un modo alternativo di "assaporare" la cultura rurale montana. La struttura è situata su di un pianoro che sovrasta il paese di Valbondione a 1027 metri, raggiungibile esclusivamente a piedi, in 15-20 minuti. Le attività ricettive svolte sono principalmente la ristorazione, l'autogestione e fattoria didattica.<br><br>
+<b>Indirizzo: </b>via San Lorenzo 25 - Valbondione, BG<br>
+<b>Telefono: </b>034644585 ; cell. 3389337686<br>
+<b>Mail: </b>salvasecca@tiscali.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.999561999999999,46.033618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 571 ">
+		<name>GANDELLINO - Azienda Agriturismo Ronchello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/571_AziendaAgriturismoRonchello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'azienda Agricola Ronchello si trova nel piccolo comune montano di Gandellino, nel cuore dell'alta Val Seriana, una zona ricca di pascoli, conifere, frassini, castagni e faggi.<br><br>
+<b>Indirizzo: </b>Via Tezzi Bassi 8 - Gandellino, BG<br>
+<b>Telefono: </b>34648448<br>
+<b>Mail: </b>info@mieleronchello.com<br>
+<b> Sito internet: </b><a href="www.mieleronchello.com">www.mieleronchello.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.947758,45.994023,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 572 ">
+		<name>ARDESIO - Azienda Agricola Prat di Bus di Delbono</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/572_AziendaAgricolaPratdiBusdiDelbono.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Azienda Agricola Prat di Bus, nasce dall'ampliamento della piccola attività famigliare da parte degli attuali proprietari. Vengono allevate Capre Saanen, vacche da latte (pezzate rosse e brune alpine) e maiali. In primavera ed estate il bestiame pascola libero nei prati circostanti, mentre durante l'Inverno è alimentato prevalentemente con il fieno e il foraggio proveniente dai pascoli aziendali. Nel caseificio interno si producono diversi tipi di formaggi tra cui il "Bernardo", ottenuto secondo un'antica ricetta di Clusone a base di latte di mucca, latte di capra e zafferano. Inoltre, vengono prodotti salumi tipici Bergamaschi.<br><br>
+<b>Indirizzo: </b>via Prat di Bus - Ardesio, BG<br>
+<b>Telefono: </b>3497555451<br>
+<b>Mail: </b>delbononik@gmail.com <br>
+<b> Sito internet: </b><a href="www.pratdibus.it">www.pratdibus.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.931005000000001,45.9382001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 573 ">
+		<name>SAN GIOVANNI BIANCO - Azienda di Fabio Bonzi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/573_AziendadiFabioBonzi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Azienda di Fabio Bonzi di caratterizza per l'allevamento delle capre camosciate e la produzione di squisiti formaggi di capra seguendo le ricette tradizionali e allo stesso tempo sostenibilità e innovazione. Il visitatore può assaggiare le diverse tipologie di formaggio direttamente nello spaccio aziendale.<br><br>
+<b>Indirizzo: </b>Via Piazzegotto 7 - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>3387617921<br>
+ 
+<b> Sito internet: </b><a href="www.bonzifabio.it">www.bonzifabio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.685447,45.864048,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 574 ">
+		<name>RONCOBELLO - Azienda di Gervasoni Erminio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/574_AziendadiGervasoniEmilio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'azienda agricola Gervasoni Erminio è specializzata nella tradizionale apicultura annessa alla produzione di prodotti derivati, frutto di conoscenze e di tradizioni secolari.<br><br>
+<b>Indirizzo: </b>Via Stella Alpina 6 - Fraz. Baresi, -Roncobello, BG<br>
+<b>Telefono: </b>034584152<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.729107000000001,45.95193399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 580 ">
+		<name>CASTIONE DELLA PRESOLANA - Baita</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/580_Baitainautogestione.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Baita in autogestione a un'ora di cammino dalla località Rusio. Baita Campo - Struttura che può ospitare fino a 20 persone.<br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+<b>Telefono: </b>034662474 <br>
+<b>Mail: </b>info@cfpresolana.it<br>
+<b> Sito internet: </b><a href="www.unionepresolana.bg.it">www.unionepresolana.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>10.035859,45.90789699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 583 ">
+		<name>ROVETTA - Bertù - Ravioli tipici di San Lorenzo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/583_Bert%C3%B9.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>I Bertù di San Lorenzo (Frazione del comune di Rovetta) sono ravioli tipici di questa zona. Il nome deriva dalla parola "bertole" che, in "gaì" - il dialetto dei pastori - significa "orecchie d'asino"; la forma alle estremità del bertù ricorda, infatti, due orecchie. La pasta che riveste il ripieno è preparata utilizzando una farina integrale e poche uova. L'ingrediente che caratterizza il ripieno è il cotechino bergamasco di produzione artigianale. I Bertù sono sempre stati il piatto tipico della tradizionale festa de "La Mare" che si svolge a San Lorenzo di Rovetta il 7 di ottobre in ringraziamento alla Madonna del Rosario.<br><br>
+<b>Indirizzo: </b>Rovetta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocorovetta.it/Ristoranti.htm">www.prolocorovetta.it/Ristoranti.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin40</styleUrl>
+		<Point>
+			<coordinates>9.985855000000001,45.891036,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

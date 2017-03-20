@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>infopoint</name>
+	<Style id="s_ylw-pushpin_hl190">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/infopoint.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin190">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin190</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin190">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/infopoint.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 144 ">
+		<name>COLERE - Casa Cantoniera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/144_CasaCantoniera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'ex Casa Cantoniera di Colere, situata lungo la via Mala - strada panoramica che collega Angolo Terme in Valle Camonica alla Valle di Scalve - è oggi luogo di promozione turistica e culturale della valle, grazie alla presenza dell'Infopoint Canyon Di Scalve (Gestito da Promoserio), punto informativo anche dell'Ecomuseo Parco delle Orobie Bergamasche e del Parco delle Orobie. <br><br>
+<b>Indirizzo: </b>Cantoniera 294, Via Mala - Colere, BG<br>
+<b>Telefono: </b>3497581578<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>10.10441,45.947631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 232 ">
+		<name>OLMO AL BREMBO - Info-Point AltoBrembo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/232_infopointaltobrembo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sull'argine del fiume Brembo, alle soglie del nucleo storico antico di Olmo Portici, lungo il tracciato dell'antica via Priula, si trova l'Infopoint AltoBrembo, punto di promozione turistica della valle. L'ufficio si trova all'interno dell'edificio dell'ex segheria, ristrutturato quale testimonianza di archeologia industriale locale. Nelle esigue aree esterne a contorno dell'edificio si è creato un piccolo parco archeologico, disseminando nel terreno i reperti dei macchinari dell'ex-Segheria e le macine dell'ex mulino.<br><br>
+<b>Indirizzo: </b>Via Roma s.n.  Lungo la Strada Provinciale per il Passo San Marco  - Olmo al Brembo, BG<br>
+<b>Telefono: </b>034587344<br>
+ 
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.648353,45.967449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 700 ">
+		<name>SAN PELLEGRINO TERME - Museo di Scienze Naturali</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/700_infopoint_sanpellegrino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Presso il Museo Brembano di Scienze Naturali è situato uno dei punti informativi del Parco delle Orobie Bergamasche, presso il quale è possibile trovare il materiale informativo riguardante le risorse naturali e culturali del Parco e i sentieri escursionistici della Valle.<br><br>
+<b>Indirizzo: </b>Via San Carlo 32 - San Pellegrino Terme, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.sanpellegrinoterme.bg.it">www.comune.sanpellegrinoterme.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.663594,45.837183,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 701 ">
+		<name>ARDESIO - Baita Nevel</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/701_baita_nevel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Baita Nevel è situata lungo il Sentiero delle Farfalle, che cosnente di apprezzare le peculiarità naturalistiche che si sviluppano intorno al Pizzo Arera. All'interno della struttura è stato creato uno dei cinque Centri Parco delle Orobie Bergamasche, presso il quale è possibile trovare il materiale informativo riguardante le risorse naturali e culturali del Parco e i sentieri escursionistici della Valle.<br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.817327000000001,45.954672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 532 ">
+		<name>CUSIO - Baita Ciar</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/532BaitaCiar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La baita "Al Ciar" rappresenta un centro di valorizzazione dell'alpeggio e dei prodotti locali ai Piani dell'Avaro di Cusio. E' il punto di partenza per intraprendere escursioni in alta Valle Brembana e un luogo dove poter assaggiare i prodotti tipici del territorio. All'interno della struttura si trova uno degli Infopoint del Parco delle Orobie.<br><br>
+<b>Indirizzo: </b>Piani dell'Avaro - Cusio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.kairosemotion.it/ciar.html">www.kairosemotion.it/ciar.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.598053,46.00584900000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 565 ">
+		<name>OLMO AL BREMBO - Agenzia AltoBrembo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/565_OLMOALBREMBO.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'agenzia di promozione turistica AltoBrembo si occupa di promuovere il territorio della Val Brembana da diversi punti di vista. I suoi contenuti sono consultabili online e comprendono le seguenti sezioni: artigianato e tempo libero, montagna e natura, prodotti tipici, storia e cultura, tradizioni locali, attività sportive invernali ed estive, percorsi a tema, attività per famiglie.<br><br>
+<b>Indirizzo: </b>Olmo al Brembo, BG<br>
+<b>Telefono: </b>3481842781<br>
+<b>Mail: </b>info@prolocopiazzabrembana.com<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.648353,45.967449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 566 ">
+		<name>PONTE NOSSA - Agenzia PromoSerio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/566_PromoSerio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>PromoSerio è l'agenzia di sviluppo locale che si occupa della promozione e comunicazione turistica della Val Seriana e della Val di Scalve. È un'associazione pubblico-privata, senza scopo di lucro e gestisce l'ufficio IAT (Informazione e Accoglienza Turistica). Lo scopo dell'agenzia è la valorizzazione globale del territorio della Val Seriana e della Val di Scalve, in tutte le sue sfaccettature.<br><br>
+<b>Indirizzo: </b>via Europa 111/c - Ponte Nossa, BG<br>
+<b>Telefono: </b>035704063<br>
+<b>Mail: </b>iat@valseriana.ue<br>
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.883016,45.86426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 686 ">
+		<name>RONCOBELLO - Baite di Mezzeno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/88_BaitediMezzeno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le Baite di Mezzeno sono un luogo molto caratteristico con una splendida vista sulla vallata, da cui partono molti sentieri escursionistici. Questo luogo è stato scelto come Infopoint del Parco delle Orobie.<br><br>
+<b>Indirizzo: </b>Roncobello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.801608,45.963976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 687 ">
+		<name>VALGOGLIO -  Centrale di Aviasco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/238_CentralediAviasco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La centrale, risalente al 1925, è alimentata dalle acque provenienti da cinque laghi artificiali situati nelle Alpi Orobie, in alta valle Seriana. Questo luogo è stato scelto come Infopoint del Parco delle Orobie.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.896627000000001,45.975456,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 688 ">
+		<name>VALBONDIONE - Forno Fusorio di Gavazzo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/234_FornoFusoriodiGavazzo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il forno fusorio è stato recentemente recuperato e restaurato ed incluso nel progetto "La strada verde", con l'obiettivo di promuovere il territorio locale da un punto di vista turistico. Questo luogo è stato scelto come Infopoint del Parco delle Orobie.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.977221,46.030893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 689 ">
+		<name>VALBONDIONE - Ostello al Curò</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/168_OstelloCur%C3%B2.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Ostello, situato vicino a laghi artificiali e naturali e a numerose cime che gli fanno da corona (ben 20 cime oltre i 2.700 m.), è snodo per il sentiero delle Orobie, verso il rifugio Tagliaferri oppure il rifugio Albani. Questo luogo è stato scelto come Infopoint del Parco delle Orobie.<br><br>
+<b>Indirizzo: </b>Località Curò al Barbellino - Valbondione, BG<br>
+ 
+<b>Mail: </b>infostellocuro@gmail.com<br>
+<b> Sito internet: </b><a href="www.hostellombardia.net/?post_type=ostello&p=3096">www.hostellombardia.net/?post_type=ostello&p=3096</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>10.046997,46.061376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 690 ">
+		<name>OLTRESSENDA ALTA - Centro Parco Bricconi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/punto_informativo/690briconioltressenda.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bricconi si trova a  Oltressenda Alta, nella frazione di Valzurio, posta a 988 metri d'altitudine ed è la testimonianza di un borgo tradizionale d'alpeggio con alcune abitazioni, la stalla per gli animali e il fienile. Il Parco delle Orobie sta predisponendo un progetto di recupero che favorisca la produzione di formaggi e frutti. <br><br>
+<b>Indirizzo: </b>Valzurio - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin190</styleUrl>
+		<Point>
+			<coordinates>9.948188999999999,45.92046000000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>infrastrutture_sport</name>
+	<Style id="s_ylw-pushpin_hl33">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/infrastrutture_sport.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin34">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/infrastrutture_sport.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 7 ">
+		<name>VALTORTA - Stazione sciistica Piani di Bobbio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/7_StazionesciisticaPianidiBobbio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa stazione sciistica si trova a metà strada fra la provincia di Bergamo e quella di Lecco e offre la possibilità di praticare numerosi sport invernali (sci alpino, nordico, di fondo, snowboard, ciaspole..). Inoltre, la zona è ricca di rifugi  che propongono i piatti tipici della tradizione bergamasca e lecchese.<br><br>
+<b>Indirizzo: </b>Piani di Bobbio - Valtorta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.pianidibobbio.com">www.pianidibobbio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.513706000000001,45.976986,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 10 ">
+		<name>VALLEVE - San Simone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/10_SanSimone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>San Simone, nel territorio di Valleve, è una rinomata località sciistica situata all'ombra del Monte Cavallo e del Pegherolo. La località dispone di oltre 20 km di piste servite da 3 seggiovie e 2 skilift su un dislivello di circa 400 metri. Gli impianti di San Simone fanno parte del Comprensorio sciistico Bremboski di Carona-Foppolo-San Simone. <br><br>
+<b>Indirizzo: </b>Valleve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.706507,46.042557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 65 ">
+		<name>SAN PELLEGRINO TERME - Piscina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/65_piscina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La piscina coperta comprende una vasca per nuotatori con cinque corsie di 25 metri; accanto è stata realizzata una vasca per bambini con giochi d'acqua e una vasca semicircolare per relax e idromassaggio; infine è stata realizzata un bar.<br><br>
+<b>Indirizzo: </b>Via Pregalleno 20  San Pellegrino Terme, BG<br>
+<b>Telefono: </b>034520696 <br>
+<b>Mail: </b>piscinasanpellegrino@alice.it <br>
+<b> Sito internet: </b><a href="www.sanpellegrinoterme.gov.it">www.sanpellegrinoterme.gov.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.669229,45.828309,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 224 ">
+		<name>PIAZZATORRE - Centro Sportivo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/224_CentroSportivo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il centro è situato nel piccolo comune di Piazzatorre, nell'alta Valle Brembana, esso è molto attrezzato, al suo interno possiamo trovare: un campo a 11, un campo a 7, una palestra coperta con tennis, pallavolo, pallacanestro.
+Tutte le strutture si trovano in un'ampia area immersa nel verde circondata da montagne e pinete che da sempre contraddistinguono e caratterizzano il paese di Piazzatorre.
+<br><br>
+<b>Indirizzo: </b>Piazzatorre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.piazzatorre.bg.it">www.comune.piazzatorre.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.694846,45.99392,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 229 ">
+		<name>SERINA - Partenza sci di fondo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/229_Scidifondo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A Serina, in località Cà di Zocc, sono stati realizzati una pista ad anelli per lo sci di fondo, che si snoda da Valpiana alla conca dell'Alben. In estate la pista diventa meta ideale per passeggiate tra boschi di conifere, a contatto con una natura incontaminata.<br><br>
+<b>Indirizzo: </b>Serina, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.771668,45.88204700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 230 ">
+		<name>OLTRE IL COLLE - Parco Avventura Monte Alben</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/230_ParcoAvventuraMonteAlben.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Parco costituisce una risorsa sportiva rilevante, meta prescelta per gli amanti dell'escursionismo e dell'ambiente. <br><br>
+<b>Indirizzo: </b>Oltre il Colle, BG<br>
+<b>Telefono: </b>3395447296<br>
+ 
+<b> Sito internet: </b><a href="www.fancymountain.com/parco-avventura-monte-alben/dove-siamo/">www.fancymountain.com/parco-avventura-monte-alben/dove-siamo/</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.795977000000001,45.885554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 296 ">
+		<name>FOPPOLO - Impianti sciistici Foppolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/296_ImpiantisciisticiFoppolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La stazione sciistica di Foppolo è una delle più conosciute e rinomate della Val Brembana. Nel 1902 arrivarono i primi "skiatori" con "pattini in legno", per disputare la prima gara con lo Sci Club Milano. Il vero sviluppo di Foppolo come stazione sciistica iniziò negli anni Trenta fino al boom degli anni Settanta. Anche se è un territorio ricco di strutture alberghiere e residence, le risorse naturali dei vasti pendii, sui quali sono state disegnate le piste di discesa, ne hanno conservato la ricchezza<br><br>
+<b>Indirizzo: </b>Foppolo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.bremboski.it">www.bremboski.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.758606,46.04279500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 297 ">
+		<name>FOPPOLO - Stazione Sciistica Foppolo-Carona</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/297_StazioneSciisticaFoppolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il comprensorio Brembo Ski comprende piste per un totale di 50 km, con 17 impianti che collegano le diverse piste. Dalle località di Foppolo, Carona e Valleve è inoltre possibile intraprendere più di 40 percorsi escursionistici, rivolgendosi anche al Cai dell'Alta Valle Brembana e alle guide della Scuola Orobica Valle Brembana.<br><br>
+<b>Indirizzo: </b>Via Moia 24 - Foppolo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.bremboski.it">www.bremboski.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.754163,46.04431699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 337 ">
+		<name>CAMERATA CORNELLO - Scuderia  del Cornello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/337_AgriturismodelCornellodiArtigianiLoredana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Scuderia del Cornello si trova in un luogo ideale per passeggiare a cavallo lungo i sentieri che circondano il borgo medievale di Camerata Cornello, tra cui l'antica "Via Mercatorum", una strada medievale utilizzata dai mercanti che collegava la città di Bergamo con l'alta val Brembana, attraverso la bassa val Seriana. La scuderia offre corsi di equitazione e attività di fattoria didattica.
+<br><br>
+<b>Indirizzo: </b>Via Cornello, 10, Cornello dei Tasso - Camerata Cornello, BG<br>
+<b>Telefono: </b>034541772; cell. 3384370392<br>
+<b>Mail: </b>info@scuderiadelcornello.it<br>
+<b> Sito internet: </b><a href="www.scuderiadelcornello.it">www.scuderiadelcornello.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.653480999999999,45.90168,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 465 ">
+		<name>GORNO - Monte Golla (ciaspolata)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/465_MonteGollaciaspolata.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Golla non è una meta particolarmente affollata; proprio per questo, una ciaspolata lungo le pendici che conducono alla vetta permette di immergsi nella quiete dell'ambiente montano.<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.828094999999999,45.89612799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 487 ">
+		<name>COLERE - Impianti da sci e sci alpinismo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/487_Impiantidasciepercorsiscialpinismo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Colere è una località sciistica della Val di Scalve, adagiata sulla parete nord della Presolana, nelle Orobie, circa 1050 metri di quota. A disposizione degli appassionati vi sono 25 chilometri di piste. Esse si spingono sino a 2250 m grazie alle tre seggiovie che portano in quota gli sciatori. Per la sua esposizione a Colere si può sciare da dicembre a maggio con panorami di ampio respiro: le Orobie Orientali e la catena dell'Adamello si affiancano al Pizzo della Presolana che contraddistingue l'intera area con il suo caratteristico profilo.<br><br>
+<b>Indirizzo: </b>Carbonera - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>10.073102,45.976153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 488 ">
+		<name>GROMO - Laghetto di pesca sportiva Le Fucine</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/488_Laghettodipescasportiva.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Laghetto di pesca sportiva Le Fucine di Gromo è un luogo privato ma autorizzato dalla Provincia dove la principale specie ittica è la trota.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.929027,45.96362300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 489 ">
+		<name>PARRE - Pais de Parre - Circuito Mountain Bike</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/489_CircuitoMountainBike.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Gran Premio "Pais de Parre" è una gara di mountain bike che fa parte del circuito MTB Orobie Cup organizzata annualmente dalla Società Sportiva dilettantistica Mountain Bike Parre.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+<b>Telefono: </b>Gruppo MTB Parre tel. 035703107<br>
+<b>Mail: </b>indirizzo gruppo@mtbparre.it <br>
+<b> Sito internet: </b><a href="www.mtbparre.it">www.mtbparre.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.889092,45.87742,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 490 ">
+		<name>CLUSONE - Parco sospeso - Pineta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/490_ParcosospesoPineta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Aperto nel Luglio del 2010, si estende su una superficie di 10.000 mq, dove sono stati allestiti un centinaio di prove di abilità, in una bellissima pineta sita in Località Fiorine a Clusone.
+Sei sono i percorsi disponibili, differenziati tra loro per colore e grado di impegno, composti da una successione di giochi di diversa difficoltà sia dal punto di vista fisico, sia dal punto di vista psicologico.
+<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.920866,45.879917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 491 ">
+		<name>GROMO - Parco sospeso nel bosco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/491_Parcosospesonelbosco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gli itinerari del Parco Sospeso di Gromo si snodano tra gli abeti bianchi e rossi dell'incantevole scenario dei boschi delle Alpi Orobie.  Dieci sono i percorsi disponibili, differenziati per grado di difficoltà con colorazioni diverse.<br><br>
+<b>Indirizzo: </b>Spiazzi - Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.963848000000001,45.97153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 492 ">
+		<name>GROMO - Pista di bob estivo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/492_Pistadibobestivo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La pista di bob è attiva nel periodo estivo (maggio-ottobre) in località Spazi di Gromo. Il percorso di sviluppa nel bosco, in armonia con la natura, e corre per 1000 metri nel verde del bosco.<br><br>
+<b>Indirizzo: </b>Spiazzi - Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.963922,45.971435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 493 ">
+		<name>CASTIONE DELLA PRESOLANA - Piste sci</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/493_PistedasciMontePoraePassodellaPresolana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Pora (1.880 m) e il Passo della Presolana (1.297 m) sono le due più note località sciistiche della Val Seriana. La conformazione della montagna garantisce piste molto ampie spesso soleggiate.Il comprensorio sciistico Monte Pora e Passo della Presolana è composto da 2 ski area con più di 20 piste. Inoltre, al Passo della Presolana si trova il primo centro lombardo per l'insegnamento ai portatori di handicap e sono presenti uno snowpark "Pora Park", una pista di pattinaggio ed è possibile noleggiare le motoslitte.<br><br>
+<b>Indirizzo: </b>Piazzetta Monte Pora 1 - Castione della Presolana, BG<br>
+<b>Telefono: </b>034665000<br>
+<b>Mail: </b>info@presolanamontepora.com<br>
+<b> Sito internet: </b><a href="www.presolanamontepora.it">www.presolanamontepora.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>10.092725,45.88639000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 495 ">
+		<name>GROMO - Stazione sciistica Spiazzi di Gromo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/495_StazionesciisticaSpiazzidiGromo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Dalla zona di Spiazzi, frazione di Gromo, partono gli impianti di risalita del comprensorio sciistico Spiazzi di Gromo che dal fondovalle consentono agli sciatori di accedere fino ai Piani di Vodala, situati a 1.700 metri tra i monti Timogno e Redondo, nel cuore del parco naturale delle Prealpi Orobie. Le seggiovie servono le piste per lo sci alpino che si sviluppano tra i 1.200 e i 1.718 metri.<br><br>
+<b>Indirizzo: </b>Spiazzi - Gromo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.963590999999999,45.971497,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 496 ">
+		<name>ORNICA - Trekking a cavallo e asino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/496_Trekkingavallo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Prendendo come punto di partenza l'antico borgo rurale di Ornica, situato in Val Brembana, è possibile intraprendere escursioni lungo le antiche vie di frontiera, riscoprendo il valore storico, culturale e ambientale della Valle. Le diverse proposte permettono di vivere un'esperienza a contatto con la natura all'insegna della sostenibilità, utilizzando gli antichi mezzi di trasporto (trekking a cavallo, escursioni lungo le mulattiere a dorso di un asino, discesa in slitta dall'alpe al borgo).<br><br>
+<b>Indirizzo: </b>Ornica, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.albergodiffusoornica.it/attivita.html">www.albergodiffusoornica.it/attivita.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.578624,45.988877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 592 ">
+		<name>VALBONDIONE - Canyoning</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/592_Canyoning.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il territorio di Valbondione è ricco di interessanti zone in cui è possibile praticare il canyoning, grazie alle numerose valli scavate dai fiumi, lungo il fiume Serio o il torrente Nero, vicino alla frazione di Fiumenero, che sfrutta le cascate, le strette gole e le forre entro le quali scorrono.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.truemountain.it">www.truemountain.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>10.01524,46.040303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 626 ">
+		<name>ONORE - Cliff adventure park</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/626_Cliffadventurepark.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Cliff Adventure Park offre percorsi acrobatici di diverso tipo per adulti e bambini ed è inoltre disponibile il servizio di noleggio biciclette, con possibilità di fare escursioni guidate e corsi di mountain bike.<br><br>
+<b>Indirizzo: </b>Via Rovena 105 - Onore, BG<br>
+<b>Telefono: </b>3335683447<br>
+<b>Mail: </b>maurizio.urbani@hotmail.it<br>
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>10.009294,45.89359799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 627 ">
+		<name>COLERE - Stazione sciistica Cantoniera della Presolana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/627_CantonieradellaPresolana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Cantoniera della Presolana, a 1.297 m., si caratterizza per la presenza di una stazione sciistica dotata di alberghi, seggiovie, sciovie, condivisa tra i comuni di Castione della Presolana, Colere, Angolo Terme. Le piste si adagiano lungo tutto il pendio settentrionale del Monte Scanapà.<br><br>
+<b>Indirizzo: </b>Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>10.094652,45.952166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 633 ">
+		<name>PARRE - Corna di Par - palestra di roccia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/633_CornadiPar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La palestra di roccia naturale Corna de Par è una falesia naturale attrezzata con diciotto vie di arrampicata, con un'altezza variabile da otto a venti metri. La Corna si trova lungo la strada che collega i paesi di Ponte Nossa e Parre e presenta un ambiente tranquillo, soleggiato al mattino e generalmente ventilato il pomeriggio.
+<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+<b>Telefono: </b>Comune di Parre tel. 035701002 <br>
+<b>Mail: </b> info@comune.parre.bg.it<br>
+<b> Sito internet: </b><a href="www.comune.parre.bg.it">www.comune.parre.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.885112,45.87429399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 681 ">
+		<name>SAN PELLEGRINO - Mini golf</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/681_minigolf.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Minigolf di San Pellegrino Terme ha una pista da 18 buche immerse nel verde. La struttura è situata dietro il Grand Hotel. <br><br>
+<b>Indirizzo: </b>Via Belvedere - San Pellegrino, BG<br>
+<b>Telefono: </b>034523569<br>
+ 
+<b> Sito internet: </b><a href="www.sanpellegrinoterme.gov.it">www.sanpellegrinoterme.gov.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.667944,45.839437,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 682 ">
+		<name>SAN PELLEGRINO - Tiro a Volo San Pellegrino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/682_Tiro_Volo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il campo di Tiro a Volo di San Pellegrino A.S.D., affiliato FITAV (Federazione Italiana Tiro a Volo) è situato in località Baloncello. Il suo fine è quello di promuovere il tiro offrendo gare sul territorio e corsi per bambini, ragazzi e adulti.<br><br>
+<b>Indirizzo: </b>Via Belvedere 18, Località Baloncello - San Pellegrino, BG<br>
+<b>Telefono: </b>034521467<br>
+ 
+<b> Sito internet: </b><a href="www.sanpellegrinoterme.gov.it">www.sanpellegrinoterme.gov.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.672992000000001,45.84655400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 683 ">
+		<name>SAN PELLEGRINO - Falesia di arrampicata</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/sitti_interesse/infrastrutture_sportive/683_falesiaarrampicata.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La falesia di Sottocorna è una liscissima parete gialla e rossa, attrezzata per l'arrampicata con due vie chiodate. <br><br>
+<b>Indirizzo: </b>Sottocorna - San Pellegrino, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin34</styleUrl>
+		<Point>
+			<coordinates>9.670851000000001,45.844188,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>eventi_religiosi</name>
+	<Style id="s_ylw-pushpin33">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/eventi_religiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl32">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/eventi_religiosi.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 368 ">
+		<name>ARDESIO - Festa del patrono San Giovanni Battista</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/368_FestaSanGiovanniBattista.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa patronale di San Giovanni Battista viene celebrata nell'omonima chiesa parrocchiale ogni 24 giugno.<br><br>
+<b>Indirizzo: </b>Bani - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it/cultura/festivita-religiose/">www.viviardesio.it/cultura/festivita-religiose/</a><br>
+<b>Periodo: </b>24 giugno<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.903414,45.95344,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 365 ">
+		<name>ARDESIO - Festa dell&apos;apparizione della Vergine</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/365_FestadellapparizionedellaVergine.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa dell'apparizione della Vergine ricorda l'apparizione mariana avvenuta il 23 giugno 1607, nella casa dei Salera, quando le due figlie, Maria e Caterina, si rifugiarono in una stanza a pregare per scongiurare un violento temporale. Storicamente l'apparizione avvenne in un periodo in cui la dottrina cattolica era contestata dalle idee luterane e calviniste; l'apparizione della Madonna ad Ardesio è perciò sentita come una conferma dell'integrità della fede cattolica di fronte alle tendenze ereticali provenienti dal nord. Il 23 giugno di ogni anno si ricorda l'apparizione della Vergine con una grande festa che attrae numerosi pellegrini.<br><br>
+<b>Indirizzo: </b>Santuario Madonna delle Grazie - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.santuarioardesio.it">www.santuarioardesio.it</a><br>
+<b>Periodo: </b>22-23 giugno<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.931416000000001,45.93652000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 367 ">
+		<name>ARDESIO - Festa della Madonna della Cintura</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/367_FestaMadonnadellaCintura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Si festeggia ogni anno nella seconda domenica di agosto, presso la contrada Bani, nel comune di Ardesio. Come vuole la tradizione, alla vigilia della festa vengono accesi spettacolari fuochi d'artificio.<br><br>
+<b>Indirizzo: </b>Bani - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it/cultura/festivita-religiose/">www.viviardesio.it/cultura/festivita-religiose/</a><br>
+<b>Periodo: </b>14 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.903549,45.952743,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 371 ">
+		<name>ARDESIO - Festa della Natività di Maria</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/371_FestadellaNativit%C3%A0diMaria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella Contrada Cacciamali, frazione di Ardesio, si celebra l'8 settembre la Natività di Maria. Nonostante la contrada sia scarsamente popolata, in occasione della ricorrenza  si registra un grande afflusso di persone che si recano nell'omonima chiesetta, risalente al XVI sec., per la celebrazione.<br><br>
+<b>Indirizzo: </b>Cacciamali - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it/cultura/festivita-religiose/">www.viviardesio.it/cultura/festivita-religiose/</a><br>
+<b>Periodo: </b>8 settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.913435,45.93591799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 369 ">
+		<name>ARDESIO - Festa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/369_festasanroccoave.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ad Ave, frazione di Ardesio, il 16 agosto si celebra la festa di S. Rocco: portata in processione, la statua del patrono percorre la mulattiera e i sentieri prima di far ritorno nell'omonima chiesa.
+<br><br>
+<b>Indirizzo: </b>Ave - Ardesio, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>16 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.962426000000001,45.944695,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 372 ">
+		<name>ARDESIO - Festa di Santa Maria Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/372_FestadiSantaMariaAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella frazione Valcanale si svolge ogni 15 agosto la festa di Santa Maria Assunta. La celebrazione, che prevede una processione serale accompagnata dal corpo musicale, è particolarmente suggestiva.<br><br>
+<b>Indirizzo: </b>Valcanale - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it/cultura/festivita-religiose/">www.viviardesio.it/cultura/festivita-religiose/</a><br>
+<b>Periodo: </b>15 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.858599,45.949847,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 366 ">
+		<name>ARDESIO - Festa di Santa Maria Maddalena</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/366_SantaMariaMaddalena.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di Santa Maria Maddalena fa parte delle numerose festività religiose che si svolgono nelle contrade del comune di Ardesio. La festa ha luogo nella contrada di Piazzolo, il 22 agosto; in passato era tradizione vendere formaggelle, il tipico formaggio locale, e destinare il ricavato alla chiesa del paese.<br><br>
+<b>Indirizzo: </b>Piazzolo - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it/cultura/festivita-religiose/">www.viviardesio.it/cultura/festivita-religiose/</a><br>
+<b>Periodo: </b>22 luglio<br>
+<b>Info: </b>Terza domenica di Luglio<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.941330000000001,45.938459,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 370 ">
+		<name>ARDESIO - Festa Madonna della Mercede</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/370_festadellamercede.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa della Madonna della Mercede viene celebrata il 24 settembre nella contrada di Cerete di Ardesio.
+<br><br>
+<b>Indirizzo: </b>Cerete - Ardesio, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>24 settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.918761999999999,45.930327,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 355 ">
+		<name>AVERARA - Festa della Madonna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/355_FestadellaMadonna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa della Madonna si celebra ogni anno nel mese di agosto; al termine della messa domenicale, si svolge una processione per le strade del paese. In questa occasione vengono organizzati anche spettacoli musicali e di danza e una cena a base di prodotti tipici locali. <br><br>
+<b>Indirizzo: </b>Strada provinciale - Averara, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.629623000000001,45.987584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 357 ">
+		<name>AVERARA - Festa Patronale San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/357_FestaPatronaleSanGiacomo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa patronale di San Giacomo viene celebrata nell'omonima chiesa ogni 25 luglio. <br><br>
+<b>Indirizzo: </b>Chiesa di san Giacomo - Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.629858000000001,45.987574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 480 ">
+		<name>AZZONE -  Presepe vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/480_Presepevivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio si svolge, per le vie del comune di Azzone, il presepe vivente. Questo evento, oltre a ricordare la nascita di Gesù, è anche l'occasione per rivivere i mestieri tipici di una volta, fabbri, falegnami, pastori, fornai e agricoltori, con il coinvolgimento degli abitanti del piccolo comune della Valle di Scalve.<br><br>
+<b>Indirizzo: </b>Azzone, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>dicembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>10.112551,45.97856800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 375 ">
+		<name>AZZONE - Celebrazione delle SS. Quarantore</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/375_ChiesaMadre.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Celebrazione delle SS Quarantore viene celebrata ad Azzone nella chiesa parrocchiale e per l'occasione l'altare maggiore viene allestito con apposite decorazioni; nella parte più alta dell'altare, viene collocato il SS Sacramento per l'adorazione. Questa celebrazione, ancora oggi molto sentita dagli abitanti, rappresenta una dimostrazione della forte devozione religiosa diffusa in questa valle.<br><br>
+<b>Indirizzo: </b>Azzone, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Terza settimana di luglio Ven-Sab e Dom<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>10.111628,45.978598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 324 ">
+		<name>CASSIGLIO - Festa San Bartolomeo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/324_FestaSanBartolomeo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa patronale di San Bartolomeo si svolge la terza domenica di agosto nel comune di Cassiglio. Oltre a partecipare alla Santa Messa e alla processione, durante la festa è possibile gustare i prodotti tipici della Valle Brembana e assistere a spettacoli musicali. <br><br>
+<b>Indirizzo: </b>Chiesa di San Bartolomeo - Cassiglio, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Terza domenica di agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.612372000000001,45.966626,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 378 ">
+		<name>CASTIONE DELLA PRESOLANA - Festa della Madonna delle Grazie</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/378_FestadellaMadonnadelleGrazie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa della Madonna delle Grazie si celebra ogni seconda domenica di agosto presso il Santuario di Lantana, nel territorio di Castione della Presolana. <br><br>
+<b>Indirizzo: </b>Santuario di Lantana - Castione della Presolana, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Seconda domenica di agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>10.071655,45.912955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 380 ">
+		<name>CASTIONE DELLA PRESOLANA -Festa di S. Alessandro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/380_FestapatronalediSAlessandro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di Sant'Alessandro, patrono di Castione della Presolana, si svolge ogni anno il 26 agosto. Dopo la celebrazione della Santa Messa, lungo le vie del paese si svolge una solenne processione della Statua del Santo.<br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>26 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>10.033974,45.907281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 387 ">
+		<name>GANDELLINO - Festa della Madonna del Carmine</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/387_Madonnadelcarmine.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa della Madonna del Carmine viene celebrata il 15 agosto, in concomitanza con l'Assunta. Per l'occasione la statua della Madonna viene portata in processione per le vie del paese, dove si svolgono anche spettacoli teatrali e musicali.<br><br>
+<b>Indirizzo: </b>Gandellino, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>14-15 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.947946,45.989689,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 385 ">
+		<name>GANDELLINO - Festa di San Carlo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/385_festasancarlo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'ultima domenica di luglio, presso la Cappelletta di San Carlo, viene celebrata una messa in onore del santo. Essa è una delle numerose santelle disseminate sui monti delle valli bergamasche, e testimonia la profonda devozione religiosa dei valligiani.<br><br>
+<b>Indirizzo: </b>Gandellino, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Ultima domenica di luglio <br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.969689000000001,45.98584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 386 ">
+		<name>GANDELLINO - Festa Parrocchiale di Gromo S. Marino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/386_FestaParrocchiale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella prima metà di agosto, nella frazione di Gromo San Marino, comune di Gandellino, si svolge la festa parrocchiale con la processione della statua di Maria Bambina per le vie del borgo. Questa è una delle molte celebrazioni religiose che si svolgono nella valle.<br><br>
+<b>Indirizzo: </b>Frazione Gromo San Martino - Gandellino, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Prima metà di agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.945366,45.999983,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 384 ">
+		<name>GANDELLINO - Processione della Madonna di Lourdes</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/384_Processionemadonnalourdes.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La processione della Madonna di Lourdes si svolge a febbraio, partendo dalla chiesetta di San Giorgio dedicata alla Madonna situata nella contrada Bondo, nel comune di Gandellino.<br><br>
+<b>Indirizzo: </b>via Bondo, Gromo S. Marino -Gandellino, BG
+<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.chieseitaliane.chiesacattolica.it">www.chieseitaliane.chiesacattolica.it</a><br>
+<b>Periodo: </b>Febbraio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.947291,46.002969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 389 ">
+		<name>GORNO - Festa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/389_FestadiSan%20Rocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Rocco è situata nella contrada Riso, nel comune di Gorno. Il 16 agosto si celebra la festa di San Rocco, durante la quale si svolge una processione per le vie del paese con la statua del santo.<br><br>
+<b>Indirizzo: </b>Riso - Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it ">www.ecomuseominieredigorno.it </a><br>
+<b>Periodo: </b>16 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.839081999999999,45.859458,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 390 ">
+		<name>GORNO - Festa di Santa Barbara</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/390_FestadiSantaBarbara.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il quattro dicembre presso la contrada Campello del comune di Gorno, si svolge la celebrazione di Santa Barbara, patrona dei minatori, in memoria della lunga tradizione mineraria che caratterizza la storia del luogo. Le prime attività minerarie risalgono all'epoca Romana e durarono fino agli anni '70 del secolo XIX. <br><br>
+<b>Indirizzo: </b>Campello - Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it ">www.ecomuseominieredigorno.it </a><br>
+<b>Periodo: </b>4 dicembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.823536000000001,45.868274,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 388 ">
+		<name>GORNO - Festa patronale di San Martino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/388_FestapatronalediSanMartino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'11 novembre nella contrada Villasio del comune di Gorno, si celebra la festività di San Martino; per l'occasione, dopo la celebrazione della Santa Messa solenne cantata, si svolge una processione con la statua del santo lungo sentieri del paese.<br><br>
+<b>Indirizzo: </b>Villassio - Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it ">www.ecomuseominieredigorno.it </a><br>
+<b>Periodo: </b>11 Novembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.844468000000001,45.862992,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 394 ">
+		<name>GROMO - Processione di San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/394_Processiones_giacomo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La processione di San Giacomo, patrono del paese a cui è dedicata la Chiesa Parrocchiale, si celebra il 25 Luglio e rappresenta un momento di grande raccoglimento e partecipazione per la popolazione di Gromo. E' tradizione che la statua venga trasferita in località Pranzera, da dove parte la processione solenne lungo le vie del borgo. Dopo la sosta d'obbligo in Piazza Dante, la statua giunge nella Parrocchiale, dove termina la celebrazione religiosa.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 0346/41345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+<b>Periodo: </b>25 luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.930926,45.972003,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 472 ">
+		<name>OLTRESSENDA ALTA - Festa dell&apos;Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/472_FestadellAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le iniziative sportive, ludiche ed enogastronomiche in occasione della Madonnina del Dosso e dell'Assunta (5 e 15 agosto) vengono organizzate dal vivace Gruppo sportivo di Nasolino che anima il capoluogo o dagli abitanti di Valzurio che danno vita alla Festa di Santa Margherita (agosto), a Volare Valzurio o al Presepe vivente.<br><br>
+<b>Indirizzo: </b>Oltressenda Alta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>15 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.944948999999999,45.915538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 397 ">
+		<name>OLTRESSENDA ALTA - Festa della Madonna della neve</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/397_FestadellaMadonninadelDosso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa della Madonnina della Neve si svolge il 5 agosto nell'antica contrada di Dosso. Il piccolo santuario, situato al di fuori dell'abitato testimonia la sacralità del luogo immerso nella natura. <br><br>
+<b>Indirizzo: </b>Dosso - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>5 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.947711,45.919041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 399 ">
+		<name>OLTRESSENDA ALTA - Festa di San Bernardo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/399_festasanbernardo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa di San Bernardo si svolge la terza domenica di giugno nella contrada Nasolino.<br><br>
+<b>Indirizzo: </b>Nasolino - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Terza domenica di giugno<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.945021000000001,45.914354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 475 ">
+		<name>OLTRESSENDA ALTA - Festa di San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/475_FestadiSanGiacomo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa di San Giacomo si tiene la quarta domenica di luglio nella località Colle Palazzo, presso la chiesa omonima, in cui è conservato l'affresco più antico esistente nei dintorni, recentemente restaurato.<br><br>
+<b>Indirizzo: </b>Colle Palazzo - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Quarta domenica di luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.988497000000001,45.93967599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 398 ">
+		<name>OLTRESSENDA ALTA - Festa di Santa Margherita</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/398_festasantamargherita.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa di Santa Margherita si svolge in agosto nella chiesetta omonima situata nella contrada di Valzurio. All'interno della chiesa si trova l'altare della Madonna del Rosario, opera dei Fantoni e esempio dell'arte valligiana.<br><br>
+<b>Indirizzo: </b>Valzurio - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.9705,45.923078,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 481 ">
+		<name>OLTRESSENDA ALTA - Presepe vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/481PresepeValzurio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio nella frazione di Valzurio si svolge il presepe vivente. Questo evento, oltre a ricordare la nascita di Gesù, è anche l'occasione per rivivere i mestieri tipici di una volta, fabbri, falegnami, pastori, fornai e agricoltori, con il coinvolgimento degli abitanti del piccolo comune .<br><br>
+<b>Indirizzo: </b>Valzurio - Oltressenda Alta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>dicembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.971537,45.923928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 482 ">
+		<name>ONETA - Presepe vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/482_Presepevivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio si svolge, per le vie del comune di Oneta, il presepe vivente. Questo evento, oltre a ricordare la nascita di Gesù, è anche l'occasione per rivivere i mestieri tipici di una volta, fabbri, falegnami, pastori, fornai e agricoltori, con il coinvolgimento degli abitanti del piccolo comune .<br><br>
+<b>Indirizzo: </b>Oneta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>dicembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.818752,45.871101,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 218 ">
+		<name>PIAZZATORRE - Festa della Madonna del Rosario</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/218_FestadellamadonnadelRosario.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa antica festa si celebra sin dal 1835 la terza settimana di agosto, anno in cui la popolazione fece voto affinché il paese venisse risparmiato da un'epidemia di colera. La tradizione voleva che in questo giorno tutti i mandriani scendessero in paese per la processione e ancora oggi la festa è vissuta dagli abitanti del paese con grande partecipazione. In passato, finita la processione, era diffusa l'usanza di recarsi alle osterie del paese e giocare alla "morra" fino a note inoltrata.<br><br>
+<b>Indirizzo: </b>Chiesa di San Giacomo - Piazzatorre, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Terza settimana di agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.677054,45.989867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 219 ">
+		<name>PIAZZATORRE - Festa di San Biagio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/219_FestadiSanBiagio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'origine di questa festa è legata alla leggenda di San Biagio, che narra come il santo, mentre veniva condotto al martirio, salvò un bambino che aveva una lisca di pesce incastrata nella gola. Nel comune di Piazzatorre ogni 3 febbraio si celebra San Biagio come protettore della gola, incrociando al collo dei fedeli due candele benedette e invocando la protezione del santo.<br><br>
+<b>Indirizzo: </b>Chiesa di San Giacomo - Piazzatorre, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>3 febbraio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.677054,45.989867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 223 ">
+		<name>PIAZZATORRE - Festa di San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/223_FestadiSanGiacomo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa patronale di San Giacomo viene celebrata nell'omonima chiesa ogni 25 luglio. In passato, secondo la tradizione, il parroco del paese saliva coi fedeli verso le malghe e i casolari di montagna, per benedire i loro prodotti, fermandosi a cena in compagnia dei pastori e dei transumanti.<br><br>
+<b>Indirizzo: </b>Chiesa di San Giacomo - Piazzatorre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.piazzatorre.bg.it">www.comune.piazzatorre.bg.it</a><br>
+<b>Periodo: </b>25 luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.677054,45.989867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 403 ">
+		<name>PREMOLO - Festa del compatrono San Defendente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/403_FestadelcompatronoSanDefendente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di San Defendente viene celebrata a Premolo ogni prima domenica di settembre, mentre ogni cinque anni si organizza il "festù" - la festa grande - a memoria del voto fatto il 2 gennaio 1630 perché i Premolesi venissero protetti dalla peste. La settimana precedente la statua viene portata nelle contrade dove si celebra l'Eucarestia, mentre il giorno della festa, dopo la S. Messa Solenne, si svolge una processione con la statua e il teschio del Santo che si conclude con la degustazione del dolce tipico chiamato "la Spada di S. Defendente".<br><br>
+<b>Indirizzo: </b>Premolo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.parrocchiapremolo.it">www.parrocchiapremolo.it</a><br>
+<b>Periodo: </b>Prima domenica di settembre. Ogni anno si celebra la festa ordinaria, mentre ogni cinque anni viene organizzato il "festù" (la festa grande)<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.875215000000001,45.868188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 402 ">
+		<name>PREMOLO - Festa del patrono di S. Andrea</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/402_FestadelpatronodiSanAndrea.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa del Patrono S. Andrea viene celebrata l'ultima domenica di novembre. In passato i fabriceri, il sacrista e altri volontari  si riunivano nella piccola chiesa dell'Immacolata per preparare ceri di varie dimensioni che venivano abbelliti con carte colorate; i ceri prodotti venivano offerti durante la Messa e utilizzati per tutto l'anno successivo. Durante la celebrazione odierna si rinnova l'antica tradizione con la benedizione delle candele e la processione in chiesa con i ceri in mano.<br><br>
+<b>Indirizzo: </b>Premolo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.parrocchiapremolo.it">www.parrocchiapremolo.it</a><br>
+<b>Periodo: </b>Ultima domenica di novembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.875696,45.86805900000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 483 ">
+		<name>PREMOLO -Presepe vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/483_Presepevivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio nel comune di Premolo si svolge il presepe vivente. Il percorso si sviluppa fra case databili dal XII al XVIII secolo, l' ambientazione è a cavallo fra '800 e '900. Questo evento, oltre a ricordare la nascita di Gesù, è anche l'occasione per rivivere i mestieri tipici di una volta, fabbri, falegnami, pastori, fornai e agricoltori, con il coinvolgimento degli abitanti del piccolo comune .<br><br>
+<b>Indirizzo: </b>Premolo, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>dicembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.874117,45.86957500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 471 ">
+		<name>SAN GIOVANNI BIANCO - Festa del Patrono</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/471_FestadelPatrono.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di San Giovanni, patrono dell'omonimo paese della Val Brembana, viene celebrata nel mese di giugno, con l'esibizione musicale della banda del paese.<br><br>
+<b>Indirizzo: </b>San Pietro d'Orzio - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>29 giugno<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 15 ">
+		<name>SAN GIOVANNI BIANCO - Festa della Sacra Spina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/15_FestadellaSacraSpina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La solennità della Sacra Spina si celebra ogni anno la quinta domenica di Quaresima, nel comune di San Giovanni Bianco; la celebrazione è preceduta da una serie di incontri di preghiera. Al carattere religioso della festa si affianca quello tipico della sagra paesana, dove luminarie variopinte abbelliscono la parrocchia, i ponti e le case del paese. Sopra la corrente del Brembo viene disegnata l'immagine della reliquia e migliaia di lumini vengono collocati sulle sponde del fiume e fatti scorrere sull'acqua, mentre sulle alture circostanti si accendono decine di imponenti falò.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Quindici giorni prima di Pasqua<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.655309000000001,45.872398,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 473 ">
+		<name>SAN GIOVANNI BIANCO - Festa di Maria Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/473_FestadiMariaAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di Maria Assunta si celebra il giorno di Ferragosto nella contrada di San Gallo, frazione di San Giovanni Bianco.<br><br>
+<b>Indirizzo: </b>San Gallo - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>15 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 474 ">
+		<name>SAN GIOVANNI BIANCO - Festa di S. Anna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/474_festasAnna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ogni anno, alla fine del mese di luglio, si celebra la festa di Sant'Anna nell'omonima chiesa immersa nel bosco, nel comune di San Giovanni Bianco.<br><br>
+<b>Indirizzo: </b>Chiesa di Sant'Anna, Piazzalina - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Fine luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 478 ">
+		<name>SAN GIOVANNI BIANCO - Festa di S. Maria Ausiliatrice</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/478_FestadisantaMariaAusiliatrice.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A fine maggio, nella contrada di Roncaglia, si celebra la festa di Santa Maria Ausiliatrice.<br><br>
+<b>Indirizzo: </b>Roncaglia - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Fine maggio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 476 ">
+		<name>SAN GIOVANNI BIANCO - Festa di San Mauro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/476_sanmauro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di San Mauro si tiene nel mese di gennaio nella contrada di Fuipiano al Brembo, frazione di San Giovanni Bianco. Durante questa ricorrenza si svolge il tradizionale rito della benedizione dei "panini", ovvero gnocchetti di pane azimo per la protezione degli animali. <br><br>
+<b>Indirizzo: </b>Fuipiano al Brembo - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Gennaio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 477 ">
+		<name>SAN GIOVANNI BIANCO - Festa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/477_FestadiSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di San Rocco si celebra il 16 agosto nell'omonima chiesa situata nel limite meridionale del territorio comunale. L'evento si svolge in concomitanza con il Palio finale delle Contrade di San Giovanni Bianco.<br><br>
+<b>Indirizzo: </b>Chiesa di San Rocco - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.663124,45.853432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 479 ">
+		<name>SAN GIOVANNI BIANCO - Festa di Sant&apos;Antonio Abate</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/479_FestadiSantAntonioAbate.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa ricorrenza cade lo stesso giorno della  Festa di San Mauro, celebrata nella frazione di Fuipiano al Brembo. La festa si tiene nella contrada di Pianca e anche in questo caso si svolge il tradizionale rito della benedizione dei "panini", ovvero gnocchetti di pane azimo per la protezione degli animali.<br><br>
+<b>Indirizzo: </b>Pianca - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>gennaio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.635007999999999,45.89531300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 485 ">
+		<name>SAN GIOVANNI BIANCO - Solennità dell&apos;Addolorata</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/485_Solennit%C3%A0dellAddolorata.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'evento si tiene nella Chiesa di San Marco, a Sentino nel mese di luglio.<br><br>
+<b>Indirizzo: </b>Sentino - San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/festesagre.htm">www.sangiovannibianco.com/opuscolo/festesagre.htm</a><br>
+<b>Periodo: </b>Luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 486 ">
+		<name>SAN GIOVANNI BIANCO - Solennità di Corpus Domini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/486_Solennit%C3%A0diCorpusDomini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La solennità del Corpus Domini si celebra la prima domenica di luglio nell'omonima chiesa di Cornalita, frazione del comune di San Giovanni Bianco. Come vuole la tradizione religiosa, durante la celebrazione si porta in processione un'ostia consacrata, racchiusa in un ostensorio sotto a un baldacchino,  che viene esposta al pubblico.<br><br>
+<b>Indirizzo: </b>Cornalita - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Fine luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.642899999999999,45.870596,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 484 ">
+		<name>VALBONDIONE - Presepe vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/484_Presepevivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio la frazione di Fiumenero, nel territorio di Valbondione, si anima con l'organizzazione del presepe vivente. Questo evento, oltre a ricordare la nascita di Gesù, è anche l'occasione per rivivere i mestieri tipici di una volta. La Natività, infatti, è ambientata nel periodo che va da fine Ottocento ai primi del Novecento. Gli abiti originali indossati dai figuranti sono stati trovati nei cassettoni di famiglia, mentre gli attrezzi di lavoro vengono messi a disposizione da privati e dal «Museo della Memoria», di Valbondione. 
+<br><br>
+<b>Indirizzo: </b>Fiumenero - Valbondione, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>dicembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.957072999999999,46.021418,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 405 ">
+		<name>VALGOGLIO - Festa di San Michele</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/405_FestadiSanMichele.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella chiesa dedicata a S. Michele, edificio del sec. XV situata nella frazione di Colarete, si celebra ogni anno la festa dedicata al santo. La celebrazione ha luogo a fine settembre ed è accompagnata da degustazioni e intrattenimenti musicali. <br><br>
+<b>Indirizzo: </b>Via Colarete - Valgoglio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>Fine settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.912582,45.975045,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 406 ">
+		<name>VALGOGLIO - Festa di San Pietro e Paolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/406_FestadiSan%20Pietro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella chiesa dedicata ai Santi Pietro e Paolo, situata nella frazione Novazza e risalente al XIX secolo, a fine giugno si celebra la processione della statua dei santi per le vie del borgo. Questa è una delle molte celebrazioni religiose che si svolgono nel territorio di Valgoglio, a testimonianza della devozione dei valligiani.<br><br>
+<b>Indirizzo: </b>Novazza - Valgoglio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>Fine giugno<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.918849,45.96838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 408 ">
+		<name>VALGOGLIO - Festa di San Rocchino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/408_FestadiSanRocchino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Rocchino della contrada Bonaldi, è situata lungo la strada dei Bortolotti, su un prato di montagna all'esterno del paese, nelle vicinanze di un gruppetto di case rurali. Qui, nella seconda domenica di settembre si celebra la festa di San Rocchino. Questa è una delle molte celebrazioni religiose che si svolgono nel territorio di Valgoglio, che testimonia della devozione dei valligiani.<br><br>
+<b>Indirizzo: </b>Bortolotti - Valgoglio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>Seconda domenica di settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.891368999999999,45.98244100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 410 ">
+		<name>VALGOGLIO - Festa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/410_festasanrocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa del compatrono San Rocco si celebra il 16 agosto, giorno successivo alla festa patronale dell'Assunta. Per la celebrazione, dopo la messa, si tiene una processione per le vie del paese accompagnata dal corpo musicale del Gandellino.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>16 agosto <br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.913678000000001,45.974951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 407 ">
+		<name>VALGOGLIO - Festa di Sant&apos;Antonio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/407_FestadiSantAntonio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa di Sant'Antonio Abate, al quale è dedicata una chiesetta che sorge nella verde conca della frazione di Selvadagnone, viene celebrata la terza domenica di luglio con una delle ultime processioni campestri sopravvissute nella bergamasca. Questa è una delle molte celebrazioni religiose che si svolgono nel territorio di Valgoglio, che testimonia della devozione dei valligiani e lo stretto rapporto della popolazione locale con la montagna.<br><br>
+<b>Indirizzo: </b>Selvadagnone - Valgoglio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>Terza domenica di luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.908284,45.982442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 409 ">
+		<name>VALGOGLIO - Festa patronale dell&apos;Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/409_FestapatronaledellAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa patronale dell'Assunta si celebra il 15 di agosto, con la  processione della statua della Madonna per le vie del paese. La devozione all'Assunta è antica e molto diffusa nella provincia di Bergamo. Già nel Cinquecento, in alcune parrocchie esistevano legati che finanziavano le funzioni religiose solenni nel giorno della festa e facevano distribuire pane e farina alle famiglie più povere.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>15 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin33</styleUrl>
+		<Point>
+			<coordinates>9.913964,45.97537199999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

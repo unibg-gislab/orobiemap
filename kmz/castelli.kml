@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>castelli</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/castelli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 322 ">
+		<name>GROMO - Castello del Ginami</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/difensive/castelli/322_CastellodelGinami.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il castello di Gromo venne costruito nel 1246 dalla famiglia Ginami dei Licini sullo sperone di una roccia in posizione elevata rispetto al piano dove scorre il Serio; la sua posizione risultava particolarmente strategica per l'avvistamento dei nemici e la difesa del territorio. Della struttura muraria che risale al XVI secolo è rimasta parzialmente intatta solo la torre.<br><br>
+<b>Indirizzo: </b>Piazza Dante 2 - 24020 Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.929919,45.968654,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

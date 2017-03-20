@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>musei</name>
+	<StyleMap id="m_ylw-pushpin36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl35">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin36">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/musei.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 52 ">
+		<name>SANTA BRIGIDA - Museo Storico ed Etnografico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/52_MuseoStoricoeEtnografico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il museo storico ed etnografico del comune di Santa Brigida, nella contrada Carale, ha sede in un antico edificio dell'800 che ospita anche una biblioteca. Il museo rappresenta il punto di riferimento per conoscere le risorse paesaggistiche e storiche di tutta la zona, contribuendo alla sua valorizzazione turistica.<br><br>
+<b>Indirizzo: </b>Via Carale 13 - Santa Brigida, BG<br>
+<b>Telefono: </b>034588689<br>
+<b>Mail: </b>centromusealesantabrigida@gmail.com<br>
+<b> Sito internet: </b><a href="www.comune.santabrigida.bg.it">www.comune.santabrigida.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.621537999999999,45.983456,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 233 ">
+		<name>VALTORTA - Segheria Idraulica</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/233_SegheriaIdraulica.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Appena sopra l'abitato sulla destra idrografica, si trova la segheria idraulica, costruita a cavallo tra l'Ottocento e il Novecento e recentemente recuperata e resa funzionante utilizzando i resti di una segheria proveniente dall'Alta Valle Brembana. L'edificio della segheria è a due livelli: al piano terra si trovano la grande ruota idraulica  e gli organi di trasmissione in ferro, al primo piano è posto un banco di sega in legno sul quale venivano posti i tronchi da tagliare.<br><br>
+<b>Indirizzo: </b>Ecomuseo c/o Comune di Valtorta: Via Roma 5 - Valtorta, BG<br>
+<b>Telefono: </b>034587713<br>
+<b>Mail: </b>info@comune.valtorta.bg.it<br>
+<b> Sito internet: </b><a href="www.ecomuseodivaltorta.com">www.ecomuseodivaltorta.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.535107999999999,45.97639399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 234 ">
+		<name>VALBONDIONE - Forno Fusorio di Gavazzo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/234_FornoFusoriodiGavazzo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Fra il 1420 al 1920, l'attività del forno produceva ferro dalla combustione del minerale estratto nelle miniere locali (soprattutto Manina e Brunona), che veniva impiegato per la costruzione di attrezzi lavorativi, armi bianche e palle di cannone. La struttura è stata recentemente recuperata e restaurata ed inclusa nel progetto "La strada verde", con l'obiettivo di promuovere il territorio locale da un punto di vista turistico.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.973096999999999,46.029342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 236 ">
+		<name>OLTRE IL COLLE - Museo Mineralogico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/236_MuseoMinerologico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo Mineralogico situato a Oltre il Colle, nella frazione di Zorzone, dedica una sezione all'attività mineraria, che include la ricostruzione di un cunicolo a grandezza naturale. Segue una sezione espositiva di minerali e fossili con un settore multimediale con materiale audiovisivo e sala riunioni. <br><br>
+<b>Indirizzo: </b>via Funivia - Zorzone di Oltre il Colle, BG<br>
+<b>Telefono: </b>034595315<br>
+ 
+<b> Sito internet: </b><a href="www.wwmm.org/musei/museo.asp?museo_id=39">www.wwmm.org/musei/museo.asp?museo_id=39</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.771271000000001,45.90414199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 237 ">
+		<name>RONCOBELLO - Mulino Baresi (Bene del FAI)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/237_MulinoBaresi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Risalente al 1550, il mulino di Baresi, frazione di Roncobello, comprendeva un maglio, un torchio per la spremitura delle noci, un mulino per le farine, un forno per il pane e una "casera". Dall'attività di questi opifici decine di comunità della Valle Brembana hanno ricavato per secoli i beni della propria sussistenza.  Grazie all'intervento del FAI (Fondo per l'Ambiente Italiano), il Mulino di Baresi è stato restaurato, adibito a museo e inaugurato nel 2006 sotto la supervisione dell'associazione "Maurizio Gervasoni".<br><br>
+<b>Indirizzo: </b>Fraz. Baresi - Roncobello, BG<br>
+<b>Telefono: </b>034584085<br>
+ 
+ 
+ 
+<b>Info: </b>Pro Loco di Roncobello:  0345.84085 (il sabato dalle 16 alle 18) (la domenica dalle 10 alle 12)<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.755167999999999,45.955731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 238 ">
+		<name>VALGOGLIO -  Centrale di Aviasco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/238_CentralediAviasco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'edificio, risalente al 1925, è realizzato in muratura e pietra e rappresenta una risorsa di notevole valore ambientale e architettonico. La centrale è alimentata dalle acque provenienti da cinque laghi artificiali situati nelle Alpi Orobie, in alta valle Seriana.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.896808,45.975292,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 239 ">
+		<name>PARRE - Parco Parra Oppidium degli Orobi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/239_ParraOppidiumdegliOrobi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il sito archeologico di Parre, località Castello, è ubicato nell'alta Valle Seriana su un terrazzo fluviale posto sulla destra idrografica del fiume Serio e dominante la confluenza con la Valle Nossana. Il Parco archeologico conserva i resti delle strutture dell'insediamento dell'antico oppidum degli Orobi, un abitato organizzato in maniera regolare, con casette seminterrate con zoccolo in pietra e alzato ligneo, secondo un modello diffuso in area alpina nella seconda età del Ferro e perdurante fino alla tarda età Romana. <br><br>
+<b>Indirizzo: </b>Loc. Castello - Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.parre.bg.it/attachments/article/129/brochure.pdf?">www.comune.parre.bg.it/attachments/article/129/brochure.pdf?</a><br>
+ 
+<b>Info: </b>Orari di apertura: 15,30-18,30 sabato; 10.00-12.00/15,30-18,30 domenica da giugno a settembre. 15,00-18,00 sabato; 10.00-12.00/15,00-18,00 domenica da ottobre a maggio.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.889525000000001,45.875334,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 243 ">
+		<name>GROMO - Museo delle Pergamene</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/243_MuseodellePergamene.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il museo e l'archivio storico delle pergamene e dei manoscritti situati all'interno della sala delle Armi del Palazzo Comunale di Gromo, testimoniano la rilevanza commerciale di Gromo nel Medioevo. Le pergamene del 1200, i  manoscritti e i documenti medioevali testimoniano infatti come la città fosse conosciuta per la produzione e per il commercio delle armi bianche. all'interno dell'edificio è conservato un affresco che riproduce i commercianti europei e orientali provenienti da Venezia.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 0346/41345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+<b>Info: </b>Orari di apertura: ven 15.30-18.30, sab e dom 10-12 e 15.30-18.30<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.929373999999999,45.968954,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 244 ">
+		<name>COLERE - Museo delle Miniere &quot;Zanalbert&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/244_museominiere.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo delle Miniere "Zanalbert" è un testimonianza della storica vocazione mineraria del territorio. La struttura, in località Carbonera, occupa antichi opifici industriali, ossia antiche laverie dei minerali estratti dalla località Albani (a 2.000 m di quota). La prima concessione di sfruttamento della miniera risale al 1884, mentre la chiusura definitiva è avvenuta nel 1980. All'interno del museo è posizionata una grande vasca originaria per il lavaggio del materiale estratto, oltre ad una notevole raccolta di strumenti e di attrezzature per la lavorazione dei minerali, oltre che una raccolta di fossili raccolti nel territorio scalvino.<br><br>
+<b>Indirizzo: </b>Via Polzone, Colere, BG<br>
+ 
+<b>Mail: </b>info@ecomuseodelleorobie.it<br>
+<b> Sito internet: </b><a href="https://it-it.facebook.com/pages/Ecomuseo-delle-Miniere-Zanalbert/278614178974139">https://it-it.facebook.com/pages/Ecomuseo-delle-Miniere-Zanalbert/278614178974139</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.073821,45.97647,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 245 ">
+		<name>AZZONE - Segheria Furfì e Museo del Legno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/245_SegheriaFurf%C3%AC.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo del Legno nasce in un'antica segheria, denominata Furfì, in posizione isolata dal centro storico di Azzone e immersa nel verde della Riserva Naturale Regionale del Giovetto. Un ingegnoso sistema idraulico "a caduta", ora parzialmente visibile, garantiva l'energia per il funzionamento dei macchinari della segheria.<br><br>
+<b>Indirizzo: </b>Azzone, BG<br>
+<b>Telefono: </b>Comunità Montana di Scalve, via Acerbis 2, Vilminore di Scalve, 034651133<br>
+<b>Mail: </b>info@cmscalve.bg.it<br>
+<b> Sito internet: </b><a href="www.cmscalve.bg.it">www.cmscalve.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.128568,45.97335,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 247 ">
+		<name>PONTE NOSSA - Museo Maglio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/247_MuseoMaglio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Percorrendo la strada che attraversa la località di Ponte Nossa, in prossimità della confluenza fra i fiumi Nossa e Serio è possibile individuare la zona dei Magli, edifici destinati alla lavorazione dei metalli, con meccanismi funzionanti grazie all'acqua del fiume. L'Associazione Magli Nossa si propone di studiare la zona dei Magli, recuperandone e divulgandone la storia.<br><br>
+<b>Indirizzo: </b>Via dei Magli 7 - Ponte Nossa, BG<br>
+<b>Telefono: </b>Comune Ponte Nossa tel. 035701054 int. 3, fax: 035/703631<br>
+<b>Mail: </b> info@comune.pontenossa.bg.it<br>
+<b> Sito internet: </b><a href="www.maglinossa.it/index_2.html">www.maglinossa.it/index_2.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.885043,45.869491,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 248 ">
+		<name>CLUSONE - MAT - Museo Arte Tempo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/248_MAT.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il MAT "Museo Arte e Tempo" nasce nel 2005 nella sede del Palazzo Marinoni Barca ed espone le opere pittoriche di diversi artisti clusonesi. In mostra tra le gallerie e i soffitti affrescati del palazzo seicentesco compare una ricca collezione di opere comprendenti dipinti, disegni e sculture di artisti locali e non. Il nucleo espositivo dedicato alla scultura espone due opere di Giacomo Manzù che visse a Clusone negli anni della guerra e una serie di sbalzi e ritratti dello scultore Attilio Nani.<br><br>
+<b>Indirizzo: </b> Via Clara Maffei 3 - Clusone, BG<br>
+<b>Telefono: </b>034625915; 034622440 <br>
+<b>Mail: </b>info@museoartetempo.it - guardiania@museoartetempo.it<br>
+<b> Sito internet: </b><a href="www.museoartetempo.it">www.museoartetempo.it</a><br>
+ 
+<b>Info: </b>Orari di apertura: ven 15.30-18.30, sab e dom 10-12 e 15.30-18.30<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.94726,45.889999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 249 ">
+		<name>ROVETTA - Casa Museo Fantoni</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/249_CasaMuseoFantoni.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'antica casa-bottega degli scultori Fantoni è situata nel centro storico di Rovetta, comune della Val Seriana. Conserva un ricchissimo patrimonio di opere e testimonianze artistiche e documentarie frutto dell'attività delle diverse generazioni di scultori della famiglia, che operarono con continuità per quasi quattro secoli, tra il XV e il XIX secolo. Considerando il suo valore storico, culturale e artistico, il F.A.I. (Fondazione Ambiente Italiano) ha incluso l'edificio fra i "luoghi de cuore".<br><br>
+<b>Indirizzo: </b>Via Andrea Fantoni 1 - Rovetta, BG<br>
+<b>Telefono: </b>034673523<br>
+<b>Mail: </b>info@fondazionefantoni.it<br>
+<b> Sito internet: </b><a href="www.fondazionefantoni.it">www.fondazionefantoni.it</a><br>
+ 
+<b>Info: </b>Orari di apertura: da luglio a settembre mar-dom 15.30-17.30, lun chiuso. Fuori orario e altri mesi solo su appuntamento per gruppi.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.986133000000001,45.89048100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 250 ">
+		<name>CASTIONE DELLA PRESOLANA - Museo del Mulino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/250_museomulino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo del Mulino sorge lungo il torrente che scende dalla Valle dei Mulini e illustra le numerose installazioni che in passato sfruttavano la corrente del corso d'acqua su cui si affacciavano. L'edificio di origine cinquecentesca fu impiegato prima come segheria e successivamente come mulino. Abbandonato dopo gli anni '60 del secolo scorso, è stato restaurato, adibito a museo e attrezzato con ristorante.<br><br>
+<b>Indirizzo: </b>via Sant'Antonio 1 - Castione della Presolana, BG<br>
+<b>Telefono: </b>034660505<br>
+ 
+ 
+ 
+<b>Info: </b>Orari di apertura:  tutti i giorni esclusi il martedì e mercoledì.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.033037,45.917739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 251 ">
+		<name>SCHILPARIO - Parco Minerario Ing. Andrea Bonicelli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/251_ParcoMinerarioIngAndreaBonicelli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>All'interno del sotterraneo della miniera Berbera, nel 1997, è stato realizzato un percorso museale con lo scopo di  trasmettere la storia e la cultura mineraria della Valle di Scalve. Il percorso, inserito nell'ambito del "Parco Minerario ing. A.BONICELLI", è lungo circa un km ed è attrezzato con illuminazione elettrica, documentazione fotografica d'epoca, oggetti e utensili usati nella miniera, ferrovia originale con vagonetti. <br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+<b>Telefono: </b>3478163286<br>
+ 
+<b> Sito internet: </b><a href="www.minieraschilpario.com">www.minieraschilpario.com</a><br>
+<b>Periodo: </b>Visita guidata di 1,30 ore in trenino<br>
+<b>Info: </b>Orari di apertura: luglio e agosto tutti i giorni h 9-12 e 13.30-17.30. Maggio, giugno e settembre aperto nei giorni festivi e prefestivi.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.199679,46.01876299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 252 ">
+		<name>SCHILPARIO - Museo Etnografico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/252_MuseoEtnografico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il museo etnografico di Schilpario rappresenta una risorsa fondamentale che custodisce del patrimonio storico e culturale del territorio. Gli strumenti e gli oggetti della vita quotidiana sono mostrati nel loro contesto socio-economico, per illustrare il rapporto fra la popolazione della Val di Scalve e le condizioni ambientali e strutturali del territorio.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+<b>Telefono: </b>034655393<br>
+ 
+ 
+ 
+<b>Info: </b>Orari di apertura: tutti i giorni 9-12 e 13-17.30. Chiuso lunedì<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.158194,46.008466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 253 ">
+		<name>VILMINORE DI SCALVE - Diga del Gleno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/253_DigadelGleno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa imponente costruzione è tristemente conosciuta per il suo cedimento strutturale, avvenuto il primo dicembre 1923, che causò ufficialmente 356 vittime. Diverse sono le celebrazioni organizzate in tutta la Val di Scalve a ricordo di quanto accaduto. Nonostante la tragedia, oggi la diga rappresenta una piacevole meta escursionistica, con itinerari della durata di circa 1h30'.<br><br>
+<b>Indirizzo: </b>Loc. Diga del Gleno - Vilminore di Scalve, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it">geoportale.caibergamo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.075001,46.016541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 254 ">
+		<name>ARDESIO - Museo Etnografico Alta Valle Seriana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/254_MuseoEtnograficoAltaValleSeriana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo Etnografico Alta Valle Seriana, istituito nel 1982, documenta le attività economiche caratteristiche del territorio legate all'estrazione mineraria - soprattutto argentifera - e alla filatura e tessitura di lana, canapa e lino. Altre attività particolarmente diffuse nella valle riguardavano la fabbricazione del carbone, la curiazione del bosco e la produzione della calce attuata nelle antiche "calchère".<br><br>
+<b>Indirizzo: </b>Piazza Madonna delle Grazie 1 - Ardesio, BG<br>
+<b>Telefono: </b>034634280; ProLoco Ardesio, 034633289; Comune di Ardesio, 034633035<br>
+<b>Mail: </b>info@comune.ardesio.bg.it<br>
+<b> Sito internet: </b><a href="www.prolocoardesio.it">www.prolocoardesio.it</a><br>
+ 
+<b>Info: </b>Sabato, Domenica e Festivi: 16-18. Settembre chiuso.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.929690000000001,45.93784899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 255 ">
+		<name>ONETA - Museo Etnografico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/255_MuseoEtnografico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il museo etnografico del comune di Oneta raccoglie numerose testimonianze del passato che consentono di riscoprire i saperi e le conoscenze tradizionali legali al territorio. La struttura espone attrezzi da lavoro del mondo contadino, strumenti dell'attività mineraria, fotografie d'epoca, e altri oggetti di varia natura, alcuni dei quali rappresentano delle autentiche rarità archeologiche<br><br>
+<b>Indirizzo: </b>Via Guglielmo Marconi 9 - Oneta, BG<br>
+<b>Telefono: </b>035707117<br>
+ 
+<b> Sito internet: </b><a href="www.wwmm.org/musei/museo.asp?museo_id=36">www.wwmm.org/musei/museo.asp?museo_id=36</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.81865,45.871095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 256 ">
+		<name>SAN GIOVANNI BIANCO - Museo Casa di Arlecchino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/256_MuseoCasadiArlecchino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In una suggestiva piazzetta del borgo medievale di Oneta, situato lungo l'antica via Mercatorum, spicca un edificio risalente al XV sec. noto come "Casa di Arlecchino", che un tempo fu dimora dei nobili Grataroli. Nella seconda metà del Cinquecento fu un bergamasco, Alberto Ganassa, a vestire i panni di Arlecchino davanti ai re di Francia e Spagna; carica di queste memorie, la casa di Arlecchino rappresenta dunque un luogo di notevole importanza per gli abitanti del luogo.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+<b>Mail: </b>prolocosangiovannibianco@email.it<br>
+ 
+ 
+<b>Info: </b>Orari di apertura: 10-12 e 15-18<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.650980000000001,45.88203299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 257 ">
+		<name>CAMERATA CORNELLO - Museo dei Tasso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/257_museo_tasso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo dei Tasso e della Storia Postale è stato fondato nel 1991 ed è situato in due edifici storici del borgo medievale di Cornello, luogo d'origine della famiglia Tasso. La famiglia, a cui apparteneva il celebre scrittore Torquato Tasso , fondò e gestì per secoli il servizio postale europeo. Il Museo è articolato in quattro spazi espositivi che illustrano la storia postale e quella della famiglia Tasso; qui sono conservati numerosi documenti e una lettera del 1840 affrancata con il primo francobollo emesso al mondo: il Penny Black.<br><br>
+<b>Indirizzo: </b>Via Cornello - Camerata Cornello, BG<br>
+<b>Telefono: </b>034543479<br>
+ 
+<b> Sito internet: </b><a href="www.cameratacornello.com">www.cameratacornello.com</a><br>
+ 
+<b>Info: </b>Orari di apertura: mer-dom 10-12 e 14-18. Lun-mar chiuso.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.653790000000001,45.902185,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 258 ">
+		<name>VALTORTA - Museo Etnografico Alta Valle Brembana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/258_MuseoCivicoEtnograficoAltaValleBrembana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo Civico Etnografico Alta Valle Brembana del comune di Valtorta si trova all'interno dell'antico palazzo comunale, conosciuto anche come Casa della Pretura. Situato in zona di confine tra gli stati di Milano e Venezia, questo piccolo comune ha mantenuto la propria spiccata identità, godendo di speciale autonomia e particolari privilegi. Il palazzo municipale conserva sulle pareti gli stemmi delle famiglie di Valtorta, mentre al suo interno espone oggetti propri della vita domestica e strumenti di artigianato (officina del fabbro, desco del ciabattino e del fabbricante di zoccoli, banco del falegname, casera).
+<br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+<b>Telefono: </b>034587713<br>
+ 
+<b> Sito internet: </b><a href="www.brembana.info/musei/m_etnografico.html ">www.brembana.info/musei/m_etnografico.html </a><br>
+ 
+<b>Info: </b>Orari di apertura: mar-dom 10-12 e 14.30-18.00<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.53439,45.977426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 334 ">
+		<name>CARONA - Orto Botanico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/334_OrtoBotanico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il valore precipuo del Parco delle Orobie è la sua biodiversità e la presenza di specie vegetali uniche nell'arco alpino. Tale preziosità è esposta nell'Orto Botanico di Carona, vicino al Fiume Brembo, che esibisce le numerosissime specie forestali della montagna e permette di avventurarsi nel bosco, lungo i sentieri naturalistici, per entrare in contatto con la natura.<br><br>
+<b>Indirizzo: </b>Via Fontana 2, Carona, BG<br>
+ 
+<b>Mail: </b>salvetti.flavio@virgilio.it<br>
+<b> Sito internet: </b><a href="www.parcomontagnapertutti.com/orto.html">www.parcomontagnapertutti.com/orto.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.792574999999999,46.022786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 363 ">
+		<name>SAN GIOVANNI BIANCO - Casa Ceresa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/363_CasaCeresa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La casa museo è il luogo natale di Carlo Ceresa, uno dei più importanti artisti della Val Brembana.  L'edificio custodisce ed espone numerose opere di importanti ritrattisti bergamaschi e italiani, del periodo fra il Quattrocento e il Seicento. Oltre alle opere artistiche, l'edificio dedica uno spazio alla storia della Valle Brembana, attraverso un'ampia e variegata collezione di oggetti di uso domestico e di attrezzi legati all'attività contadina e di lavorazione del ferro.<br><br>
+<b>Indirizzo: </b>Via G. Milesi 1 - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.652939999999999,45.875236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 515 ">
+		<name>VALBONDIONE - Miniera Lupi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/515_MinieraLupi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La miniera dei Lupi sorge in località "Piane" a Lizzola, per raggiungerla sono necessari 30-40 minuti a piedi. La visita guidata consente di scoprire come l'attività mineraria è cambiata nei secoli e come ha cambiato il territorio. Il cammino dura circa 1 ora e mezza, lungo una distanza pari a 3 km nelle viscere della terra, in un ambiente che è stato messo in sicurezza senza interventi invasivi, consentendo di apprendere le condizioni estreme in cui lavoravano i minatori. La miniera è ricca di minerali, stalattiti e stalagmiti, il materiale ferroso estratto veniva fuso negli altiforni di Bondione e Gavazzo, per poi essere utilizzato in buona parte a Gromo realizzando armi bianche. <br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+<b>Telefono: </b>036444648 ; cell. 3463879064<br>
+<b>Mail: </b>info@scuolainmontagna.it<br>
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.028067,46.021424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 516 ">
+		<name>VILMONORE DI SCALVE - Miniera Ribasso Venezia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/516_MinieraRibassoVenezia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val di Scalve fu di fatto sino agli anni '70 del secolo scorso, una terra a vocazione mineraria a causa dei suoi giacimenti di minerali che la resero celebre e contesa. Fino al 1600 l'escavazione del minerale nelle miniere scalvine avveniva con metodi arcaici, mentre sotto il dominio veneziano fu introdotto l'uso della polvere nera, che incrementò notevolmente la quantità di miniere.<br><br>
+<b>Indirizzo: </b>Vilminore di Scalve, BG<br>
+<b>Telefono: </b>3478163286<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.033964,46.00990400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 517 ">
+		<name>SCHILPARIO - Museo dei minerali e cristalli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/517_MuseodeimineraliecristallidiAntonioPizio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo dei minerali e cristalli ha sede presso l'Hotel San Marco a Schilpario, in frazione Pradella. La sua nascita risale all'anno 1980 grazie alla passione del Sig. Antonio Pizio, che ha collezionato numerosi reperti di minerali provenienti dalle montagne della Val di Scalve e dalle numerose miniere che si trovano disseminate in questo territorio. <br><br>
+<b>Indirizzo: </b>Via Pradella 3 - Schilpario, BG<br>
+<b>Telefono: </b>034655024<br>
+ 
+ 
+ 
+<b>Info: </b>Orario: sabato e domenica 9.00-12.00 / 15.00-20.00 Da lunedì a venerdì su prenotazione.<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>10.155725,46.009083,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 518 ">
+		<name>SAN PELLEGRINO TERME - Museo di Scienze Naturali</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/518_MuseodiScienzeNaturali.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Museo Brembano di Scienze Naturali si trova nella cittadina di San Pellegrino Terme, in Valle Brembana. La sua istituzione risale al 1978, quando tre appassionati di scienze naturali - Attilio Torriani,  Flavio Galizzi e Piero Gervasoni - vollero fondare un piccolo museo che rappresentasse il grande patrimonio naturalistico del territorio brembano. Nel 1996 il Museo trova la sua definitiva collocazione nei locali allestiti in Villa Speranza, dando la possibilità ai visitatori di avere interessanti approfondimenti sul territorio della Valle.<br><br>
+<b>Indirizzo: </b>Via San Carlo 32 - San Pellegrino Terme, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.sanpellegrinoterme.bg.it">www.comune.sanpellegrinoterme.bg.it</a><br>
+ 
+<b>Info: </b>Orari di apertura: ven 15.30-18.30, sab e dom 10-12 e 15.30-18.30<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.663669000000001,45.83731199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 519 ">
+		<name>CARONA - Parco Archeologico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/519_ParcoArcheologico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Lungo il sentiero che dal passo Selletta porta al rifugio Calvi, sono state recentemente scoperte delle incisioni protostoriche. Tra esse, quella collocata su una roccia in località Camisana reca iscrizioni protostoriche e una scena di caccia fatta risalire alla cultura celtica.<br><br>
+<b>Indirizzo: </b>Carona, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.888094000000001,46.029967,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 523 ">
+		<name>PARRE - Sito minerario e ponte Piazza Rossa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/523_pontedilegnoPiazzaRossa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Trevasco fa parte di un distretto minerario già conosciuto ai tempi del Medioevo e forse fin dal tempo dei Romani. L'attività più intensa si è sviluppata negli ultimi decenni dell'Ottocento e nella prima metà del Novecento, terminando definitivamente nel 1981. Lungo i fianchi del monte sono ancora evidenti gli ingressi di varie gallerie e le discariche del materiale non utilizzabile: i livelli si chiamano Val Galena, Alfa, Torino, Sèrèt, Zan, Benedecc', Santa Barbara. Queste strutture, Insieme agli impianti in fondo alla Val Dossana, presso Piazza Rossa dove si trova il ponte che collega il versante di Parre con quello di Premolo, sono oggetto di progetti di valorizzazione del patrimonio storico.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoparre.com">www.prolocoparre.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.876550999999999,45.87588199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 578 ">
+		<name>TALEGGIO - Baita di Magrera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/578_BaitadiMagrera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Baita Magrera, protetta e valorizzata dall'attività dell'ecomuseo della Val Taleggio, ospita la stazione ecomuseale, con l'installazione teatrale "Tu casaro: corso teatralizzato accelerato per apprendere l'arte dei casari della Val Taleggio",  che offre la possibilità di vivere e conoscere la particolare attività casearia  di questa zona. I visitatori, guidati dalle immagini dei caseari professionisti della valle, potranno imparare questa antica tradizione di trasformazione del caglio per produrre i rinomati formaggi, come il Taleggio e lo Strachitunt. <br><br>
+<b>Indirizzo: </b>Baita Maghera -Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseovaltaleggio.it">www.ecomuseovaltaleggio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.564612,45.88568099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 635 ">
+		<name>GROMO - Ecomuseo naturalistico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/635_Ecomuseonaturalistico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>All'ultimo piano del Palazzo Comunale è stato allestito un "Eco Museo Naturalistico" della fauna selvatica presente sulle Orobie. L'esposizione è costituita da due ampie vetrate che racchiudono moltissime delle specie animali autoctone: dai volatili ai mammiferi, dai roditori ai predatori.<br><br>
+<b>Indirizzo: </b>Piazza Dante -Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico tel. 034641345<br>
+<b>Mail: </b> ufficioturistico@comune.gromo.bg.it<br>
+<b> Sito internet: </b><a href="www.gromo.eu">www.gromo.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.9291,45.968883,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 692 ">
+		<name>GORNO - Villaggio Minerario Costa Jels</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/mueseali/musei_esposizionipermanenti/688_costajels.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>I siti minerari di Costa Jels sono i più antichi di Gorno, utilizzato sin da epoca romana e poi abbandonato negli anni Sessanta del secolo XIX. Qui è possibile visitare un percorso guidato sia ai siti minerari in superficie che nel sottosuolo, con la possibilità di rivivere l'attività dei "minadur" (minatori), delle "taissine " (cernitrici di minerale) e dei "galecc" (ragazzi addetti al trasporto a spalla di minerale).<br><br>
+<b>Indirizzo: </b>Polo socio culturale, Piazzale Bersaglieri - Gorno, BG<br>
+<b>Telefono: </b>Comune di Gorno: 035707145<br>
+<b>Mail: </b>info@ecomuseominieredigorno.it<br>
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it">www.ecomuseominieredigorno.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin36</styleUrl>
+		<Point>
+			<coordinates>9.826082,45.870366,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

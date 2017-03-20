@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>arte_religiosa</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/arte_religiosa.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>0.709091</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/arte_religiosa.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 364 ">
+		<name>SAN GIOVANNI BIANCO - Affresco del XV sec</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/arte_religiosa/364_AffrescodelXVsec.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo affresco di notevole importanza risalente al XV secolo è conservato nella chiesa del Corpus Domini - nella contrada Cornalita - ritenuta la più antica del comune di San Giovanni Bianco. L'edificio custodisce inoltre un pregiato ciclo di affreschi risalenti al '400, e una pala del '600 che raffigura l'Ultima Cena.<br><br>
+<b>Indirizzo: </b>Via Cornalita, Cornalita - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.642751000000001,45.87117700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 412 ">
+		<name>SCHILPARIO - Museo d&apos;Arte Sacra</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/arte_religiosa/412_MuseodArteSacra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Su un fianco della parrocchiale di Schilpario si trova la chiesa di S. Rocco, mai consacrata, che oggi ospita il Museo di Arte Sacra. All'interno è conservata una pregevole statua in legno collocata in una nicchia, opera della bottega Fantoni di Rovetta. L'allestimento raggruppa numerosi oggetti risalenti agli ultimi quattro secoli, per la maggior parte ancora utilizzati nella liturgia odierna. Tra gli oggetti custoditi compaiono quelli appartenuti al Cardinal Angelo Maj, il grande teologo nativo di Schilpario.<br><br>
+<b>Indirizzo: </b>Piazza C. Maj - Schilpario, BG<br>
+<b>Telefono: </b>034656304<br>
+ 
+<b> Sito internet: </b><a href="www.scalve.it/schilpario/sRocco.htm">www.scalve.it/schilpario/sRocco.htm</a><br>
+ 
+<b>Info: </b>Il museo è visitabile previo prenotazione presso la parrocchia 0346/56304. <br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.153886,46.00899,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 426 ">
+		<name>CASSIGLIO - Organo Bossi del 1800</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/arte_religiosa/426_organo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella chiesa Parrocchiale di San Bartolomeo Apostolo di Cassiglio è possibile ammirare e ascoltare un pregiato organo del 1800. Lo strumento risulta di notevole importanza non solo per la liturgia ma anche per tutta la cultura musicale e artistica della valle, grazie ai numerosi concerti che vengono organizzati ogni anno.<br><br>
+<b>Indirizzo: </b>Parrocchia di San Bartolomeo Apostolo, Via della Chiesa - Cassiglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.612285999999999,45.96645199999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

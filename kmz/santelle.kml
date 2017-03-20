@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>santelle</name>
+	<StyleMap id="m_ylw-pushpin42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin42">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/santelle_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl41">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/santelle_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 220 ">
+		<name>PIAZZATORRE - Cà Santa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/220_C%C3%A0Santa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Verso la fine del '500 la località di Piazzatorre venne collegata alla strada Priula, attraverso un caratteristico ponte ancora esistente. Cà Santa rappresenta l'edificio più antico del paese, ed è un enorme palazzo seicentesco che risale alla fine del 1500. Sulla facciata, intonacata di recente, sono ben visibili i segni del passato: le quattro finestre con spalline in pietra e inferriate in ferro battuto e il portone con volta in pietra. All'esterno si trova una cappella votiva fatta erigere nel 1620 circa da Giovanni Battista Maisis.<br><br>
+<b>Indirizzo: </b>Via XX Settembre 54 - Piazzatorre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.685219,45.99103400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 551 ">
+		<name>VALNEGRA - La tribulina di Carale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/551_LatribulinadiCarale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Percorrendo il sentiero dell'Oro, nel comune di Valnegra, si giunge ad una caratteristica edicola votiva del 1800, conosciuta come Tribulina di Carale, che raffigura sulla facciata la colomba dello Spirito Santo.<br><br>
+<b>Indirizzo: </b>Sentiero dell'Oro - Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.68999,45.94924699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 552 ">
+		<name>VALGOGLIO - Le Santelle</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/552Santellavalgoglio.jpg "WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel territorio di Valgoglio si trovano diverse santelle che, qui come in molti altri luoghi della valle, testimoniano la profonda devozione religiosa della popolazione. Queste fanno parte del ricco apparato di edifici religiosi presenti nel territorio con funzioni differenti: le santelle cadenzano l'ascensione altimetrica della montagna, la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.91784,45.967324,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 553 ">
+		<name>CASTIONE DELLA PRESOLANA - Santel di Predusol</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/553_SanteldiPredusol.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le santelle, qui come in molti altri luoghi della valle, testimoniano la profonda devozione religiosa della popolazione. Queste fanno parte del ricco apparato di edifici religiosi presenti nel territorio con funzioni differenti: le santelle cadenzano l'ascensione altimetrica della montagna, la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Bosco Predusolo - Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>10.035859,45.90789699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 554 ">
+		<name>VALGOGLIO - Santella dei Morti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/554CappellettaValgoglio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Santella dei Morti, nel territorio di Valgoglio, è una delle numerose santelle disseminate sui monti delle valli bergamasche, a testimonianza della profonda devozione religiosa dei valligiani. Queste fanno parte del ricco apparato di edifici religiosi presenti nel territorio con funzioni differenti: le santelle cadenzano l'ascensione altimetrica della montagna, la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Cà Noa - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.913918000000001,45.976099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 555 ">
+		<name>OLTRESSENDA ALTA - Santella di Brigno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/555SantellaBrigno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Santella di Brigno, nel territorio di Oltressenda Alta, a metà strada tra gli abitati di Nasolino e di Valzurio, è una delle numerose cappelle disseminate sui monti delle valli bergamasche, a testimonianza della profonda devozione religiosa dei valligiani. Queste fanno parte del ricco apparato di edifici religiosi presenti nel territorio con funzioni differenti: le santelle cadenzano l'ascensione altimetrica della montagna, la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Oltressenda Alta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.988497000000001,45.93967599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 556 ">
+		<name>GORNO - Santelle e affreschi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/556_SantellaGorno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel territorio del comune di Gorno si contano circa 26 santelle. Difficile è la datazione della costruzione di ognuna di loro, che per quelle tuttora presenti si può far partire dalla fine del XIX sec, ad esclusione di una in contrada Peroli che viene datata al XVI secolo. Queste strutture sono una prova tangibile della devozione dei valligiani  il rapporto dell'uomo con la montagna. I numerosi edifici religiosi, infatti, sono disseminati nel territorio con funzioni differenti: la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, le santelle cadenzano l'ascensione altimetrica della montagna, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.847576999999999,45.864578,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 557 ">
+		<name>VALBONDIONE - Santelle e affreschi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/557_SantelleValbondione.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel territorio del comune di Valbondione si contano numerose santelle. Queste strutture sono una prova tangibile della devozione dei valligiani  il rapporto dell'uomo con la montagna. I numerosi edifici religiosi, infatti, sono disseminati nel territorio con funzioni differenti: la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, le santelle cadenzano l'ascensione altimetrica della montagna, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>10.01524,46.040303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 593 ">
+		<name>GANDELLINO - Cappelletta di San Carlo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/593_CappellaSanCarlo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Cappelletta settecentesca di San Carlo, situata a 1163 m in Val Sedornia, nel territorio di Gandellino, è una delle numerose santelle disseminate sui monti delle valli bergamasche, a testimonianza della profonda devozione religiosa dei valligiani. Queste fanno parte del ricco apparato di edifici religiosi presenti nel territorio con funzioni differenti: le santelle cadenzano l'ascensione altimetrica della montagna, la Parrocchiale identifica lo spazio pubblico del centro, le numerose chiese mostrano una devozione diffusa, i santuari evocano una sacralità dei luoghi. <br><br>
+<b>Indirizzo: </b>Gandellino, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>9.969689000000001,45.98584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 639 ">
+		<name>SCHILPARIO - Santella di &quot;Plus&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/santelle/639_SantelladiPlus.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Santella di "Plus" nel territorio di Schilpario, è una delle numerose cappelle disseminate sui monti delle valli bergamasche che testimonia la profonda devozione religiosa dei valligiani. Le santelle fanno parte del ricco patrimonio di edifici religiosi presenti nel territorio.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+<b>Telefono: </b>Comune di Schilpario Tel. 034655056<br>
+<b>Mail: </b>info@comune.schilpario.bg.it <br>
+<b> Sito internet: </b><a href="www.comune.schilpario.bg.it">www.comune.schilpario.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin42</styleUrl>
+		<Point>
+			<coordinates>10.140398,46.000729,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

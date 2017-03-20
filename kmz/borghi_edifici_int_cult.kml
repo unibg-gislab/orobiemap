@@ -1,0 +1,3047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>borghi_edifici_int_cult</name>
+	<Style id="s_ylw-pushpin_hl28">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/borghi_edifici_intcult_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin29">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/borghi_edifici_intcult_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 9 ">
+		<name>VALNEGRA - Casa del Vicario veneto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/9_CasadelVicarioVeneto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo edificio fu in passato dimora del Vicario veneto Gerolamo Clanezzo. La lapide a lui dedicata è sormontata da uno stemma Sonzogni o Furietti che raffigura il singolare furetto con collare e giglio.<br><br>
+<b>Indirizzo: </b>Via Guglielmo Marconi - Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.690752,45.949185,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 37 ">
+		<name>TALEGGIO - Piazza Mora</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/37_piazzamora.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Piazza Mora è una piccola contrada di Taleggio, in una posizione isolata che offre la possibilità di osservare le caratteristiche abitazioni rurali con tetti in piöde. L'utilizzo del tipico tetto a lastre calcaree deriva da un'antica tradizione che prevede l'uso della pietra locale per la copertura delle case d'abitazione e degli annessi rustici (stalle e fienili). Tale tipo di soluzione è diffusa in Valle Imagna, alta Valle Brembilla e Valle Taleggio. La ragione di questa scelta deriva dalla carenza di cave d'argilla e quindi della scarsa possibilità di produrre mattoni e coppi. La tecnica costruttiva prevedeva un particolare taglio della pietra in quanto la posa in opera avveniva su un'orditura lignea inclinata di 60°.<br><br>
+<b>Indirizzo: </b>Piazza Mora - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.577562,45.910894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 38 ">
+		<name>TALEGGIO - Contrada Monteruccio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/38_monterucchio.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La piccola contrada rappresenta la storia del passato contadino della valle. Qui si possono osservare le famose costruzioni rurali con i caratteristici tetti in piöde. L'utilizzo del tipico tetto a lastre calcaree deriva da un'antica tradizione locale che prevede l'uso della pietra locale per la copertura delle case d'abitazione e degli annessi rustici (stalle e fienili). Tale tipo di soluzione è tipico delle sole Valle Imagna, alta Valle Brembilla e Valle Taleggio. La ragione di questa scelta deriva dalla carenza di cave d'argilla e quindi della scarsa possibilità di produrre mattoni e coppi. La tecnica costruttiva prevedeva un particolare taglio della pietra in quanto la posa in opera avveniva su un'orditura lignea inclinata di 60°. Inoltre, le piode erano collocate parallelamente al terreno in modo da essere tra loro orizzontali e con un angolo di 30° rispetto alla normale al piano del terreno. Da ciò deriva l'aspetto a gradinata dei tetti stessi.<br><br>
+<b>Indirizzo: </b>Contrada Monteruccio - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.565826,45.904636,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 39 ">
+		<name>TALEGGIO - Ca&apos; Corviglio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/39_Cacorviglio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Cà Corviglio è uno dei piccoli borghi più particolari della valle adagiata in una specie di "imbuto" naturale, dove non gode di una posizione particolarmente soleggiata. La sua posizione lo rende un luogo suggestivo: in inverno, quando i raggi non riescono a penetrarvi, la conca rimane costantemente al buio e al freddo e semi-disabitata, mentre in estate gli stretti viottoli e passaggi fra le antiche case rurali con tetti rivestiti di piöde calcaree della valle donano al borgo un'atmosfera isolata. Ca' Corviglio è stato oggetto di recenti restauri finanziati da Regione Lombardia, nell'ambito dello sviluppo dell'Ecomuseo Val Taleggio. Da vedere sono la chiesetta di San Rocco del XV secolo e la fontana della Madonnina, nota per le proprietà benefiche delle sue acque.<br><br>
+<b>Indirizzo: </b>Contrada Cà Corviglio - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.57475,45.89961200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 41 ">
+		<name>PIZZINO, TALEGGIO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/41_pizzino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Frazione di Pizzino (970 m) è situata, come dice il nome (pizzo), in posizione sopraelevata, sulla falda nord-occidentale della Val Taleggio ed è la più antica località abitata della stessa. Alla "Corna", nella parte più alta della frazione, è possibile visitare un grazioso agglomerato di case abbarbicato ad un corno roccioso. Qui sorgeva il castello dei Bellaviti, oggi abitazione privata che conserva però i tratti medievali. Un reperto archeologico, custodito presso la parrocchiale, reca scolpita a caratteri romanici la data MX. E' una pietra con croce, forse una chiave di volta, che si assicura appartenesse alla primitiva chiesa di S. Ambrogio, sorta intorno al Mille, la più antica della Valle Taleggio. <br><br>
+<b>Indirizzo: </b>Pizzino - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.566167999999999,45.898656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 42 ">
+		<name>BORGO DI FRAGGIO, TALEGGIO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/42_borgodifraggio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Borgo di Fraggio, posto a 992 m., nel XV secolo era l'ultimo borgo della Repubblica di Venezia, prima della frontiera con il Ducato di Milano e per tale motivo vi sorgeva la dogana veneta. Fraggio, con la sua architettura realizzata unicamente in pietra calcarea e con i caratteristici tetti in piöde, secondo una tradizione che si tramandava di generazione in generazione, è una significativa testimonianza di un'architettura minore che si sviluppò in modo differente da quella delle altre vallate bergamasche e alpine tanto da renderla probabilmente unica in tutto l'arco delle Alpi.<br><br>
+<b>Indirizzo: </b>Borgo di Fraggio - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.555930999999999,45.906783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 45 ">
+		<name>TALEGGIO - Colonna della &quot;Fidelitas Talegii&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/45_FidelitasTalegii.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Colonna della "Fidelitas Talegii" sorge sulla piazza della Frazione Sottochiesa. La colonna risale al 1609 e fu eretta per volontà dal governo veneto per sancire la rinnovata fedeltà alla Repubblica di Venezia da parte della comunità locali, a testimonianza del ruolo storico svolto da questa valle, luogo di confine tra Ducato di Milano e Repubblica di Venezia. A conferma di tale ruolo, nel 1972 il sindaco di Venezia ha donato una riproduzione bronzea del Leone di S. Marco per adornare la stele.<br><br>
+<b>Indirizzo: </b>Sottochiesa - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseovaltaleggio.it">www.ecomuseovaltaleggio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.567501999999999,45.892153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 49 ">
+		<name>SERINA - Fontana tricuspidale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/49_Fontanatricuspidale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nei pressi della contrada "Mezza Ca'", lungo l'antica via Mercatorum, sorge una fontana Tricuspidale che rappresenta un' importante traccia storica e artistica di origine veneta. Risalente al 1645, è chiamata tricuspidale in quanto è sormontata da tre cuspidi piramidali; essa è divenuta il logo della Via Mercatorum. <br><br>
+<b>Indirizzo: </b>Via Vittorio Emanuele, davanti al numero 14 - Serina, BG<br>
+<b>Telefono: </b>Pro Loco Serina Tel./Fax. 034566065 <br>
+<b>Mail: </b>ufficioturistico@comune.serina.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.729583,45.87314900000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 50 ">
+		<name>SERINA - Fontana del Vicario Francesco Gozzi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/50_FontanadelVicarioFrancescoGozzi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rappresenta la più antica fontana della Valle Brembana ed è situata nel centro storico di Serina. Fu fatta costruire dietro la volontà del Vicario veneto Francesco Gozzi e ultimata nel 1581; al centro si può vedere scolpita la testa di leone, simbolo della Repubblica di Venezia, mentre a lato spuntano due lesene.<br><br>
+<b>Indirizzo: </b>Via Vittorio Emanuele, di fianco al numero 25 - Serina, BG<br>
+<b>Telefono: </b>Pro Loco Serina Tel./Fax. 034566065 <br>
+<b>Mail: </b>ufficioturistico@comune.serina.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.729412999999999,45.874623,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 51 ">
+		<name>SERINA - Casa del Vicario Civile</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/51_Casa_Vicario.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Durante la dominazione viscontea e veneta, Serina ha rappresentato il centro amministrativo, culturale e religioso dell'intera Val Brembana. Nel nucleo storico è presente la casa del Vicario, una prestigiosa struttura con finestre e arcate in pietra. L'edificio, oltre a costituire la sede degli uffici amministrativi, era anche la dimora del Vicario, della sua famiglia e di tutte le famiglie dei funzionari che lo seguivano (cancellieri, notai, servitori etc.).<br><br>
+<b>Indirizzo: </b>Contrada Mezza Cà, via Gavagnis -Serina, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.729429,45.874535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 60 ">
+		<name>SAN PELLEGRINO TERME - Grand Hotel</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/60_GrandHotel.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sulla sponda opposta del fiume Brembo rispetto al Casinò, sorge il Grand Hotel, uno sfarzoso edificio di sette piani e 250 stanze, inaugurato nel 1904. La facciata, lunga ben 128 metri, presenta una ricchezza decorativa costituita da decine di statue, cariatidi, elementi zoomorfi, putti e festoni. Dopo fasi alternate di prosperità e declino, la struttura venne chiusa  verso la fine degli anni Settanta. Ad oggi, istituzioni pubbliche e private sono ancora alla ricerca della soluzione ideale per recuperare questa importante struttura.<br><br>
+<b>Indirizzo: </b>Viale Bortolo Belotti 3 - San Pellegrino Terme, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.sanpellegrinoterme.bg.it">www.comune.sanpellegrinoterme.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.666955,45.84020600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 61 ">
+		<name>SAN PELLEGRINO - Casinò</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/61_Casin%C3%B2.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il casinò fu inaugurato nel 1907. La struttura si trova sulla sponda opposta del fiume Brembo rispetto al Grand Hotel. L'edificio, costruito in stile liberty, rappresenta uno dei simboli più popolari della località di San Pellegrino.<br><br>
+<b>Indirizzo: </b>Via Bartolomeo Villa 16 - San Pellegrino Terme, BG <br>
+<b>Telefono: </b>0354556500 <br>
+<b>Mail: </b>info@casinosanpellegrinoterme.com<br>
+<b> Sito internet: </b><a href="www.casinosanpellegrinoterme.com">www.casinosanpellegrinoterme.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.664178,45.840643,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 67 ">
+		<name>BOSCO ENTRO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/67_BoscoEntro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bosco Entro è una della contrade dell'antico comune di San Giovanni Bianco, situato sul versante di San Gallo. Per raggiungere questa piccola contrada è possibile percorrere l'antica mulattiera che sale da Cornello dei Tasso fino a Serina, lungo la Via Mercatorum.<br><br>
+<b>Indirizzo: </b>Bosco Entro di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.673698999999999,45.89132100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 68 ">
+		<name>BOSCO FUORI, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/68_BoscoFuori.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il paese di San Giovanni Bianco è diviso in una ventina di contrade che fanno corona al capoluogo e sono distribuite in un'ampia conca dominata a nord-ovest dal massiccio del Cancervo (1.750 m) e a sud-ovest dal Ronco (Molinasco 1.100 m) e dal Sornadello (1.550 m), montagne che sono meta abituale degli escursionisti. <br><br>
+<b>Indirizzo: </b>Bosco Fuori di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.674637000000001,45.890077,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 69 ">
+		<name>CALLAMERI, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/69_Callameri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il paese di San Giovanni Bianco è diviso in una ventina di contrade che fanno corona al capoluogo e sono distribuite in un'ampia conca dominata a nord-ovest dal massiccio del Cancervo (1.750 m) e a sud-ovest dal Ronco (Molinasco 1.100 m) e dal Sornadello (1.550 m), montagne che sono meta abituale degli escursionisti. <br><br>
+<b>Indirizzo: </b>Callameri di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.664572,45.865003,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 70 ">
+		<name>CORNALITA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/70_Cornalita.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada Cornalita è situata ai piedi dei monti Ronco e Sornadello, in Val Brembana, lungo l'antica via Mercatorum. Nonostante la presenza di nuovi nuclei abitativi, è possibile distinguere l'architettura degli edifici costruiti all'epoca della sua fondazione, riscontrabile nei tipici rustici e nella chiesa del Corpus Domini.<br><br>
+<b>Indirizzo: </b>Cornalita di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.643610000000001,45.871117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 76 ">
+		<name>GRUMO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/76_Grumo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situato sul versante sinistro della Valle Brembana, a monte di San Pietro d'Orzio, Grumo è ritenuto uno dei borghi più caratteristici della zona, grazie anche a recenti lavori di restauro. Interessato dal passaggio dell'antica via Mercatorum, presenta costruzioni tipiche con porticati e vie pavimentate con ciottoli, nonché una piccola chiesetta del XVI secolo.<br><br>
+<b>Indirizzo: </b>Grumo di San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.brembana.info/borghi/grumo/grumo.html">www.brembana.info/borghi/grumo/grumo.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.663282000000001,45.89169200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 79 ">
+		<name>RONCAGLIA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/79_Roncaglia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situato sul versante orografico sinistro della Valle Imagna, a 700 metri slm, la contrada di Roncaglia si sviluppa lungo la mulattiera selciata proveniente da Locatello e diretta in Valle Taleggio e Valle Brembilla, lungo l'antica via Mercatorum. La contrada, risalente al XII secolo, fondava la sua economia sul lavoro della terra, l'allevamento delle mucche e la lavorazione del latte per la produzione di stracchini. È ancora circondata da prati, pascoli, selve castanili e terrazzamenti.<br><br>
+<b>Indirizzo: </b>Roncaglia di San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.provinciabergamasca.com">www.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.635376000000001,45.882942,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 80 ">
+		<name>SAN GALLO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/80_San%20Gallo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada di San Gallo, situato lungo l'antica via Mercatorum, appare suddivisa in numerosi di nuclei sparsi a mezza costa. E' possibile visitare la parrocchiale dell'Assunta e il suo polittico quattrocentesco che raffigura l'Annunciazione e l'Incoronazione di Maria; proseguendo si giunge alla chiesetta della Trinità, che sorge sull'omonimo colle in prossimità di Dossena, caratterizzato da un ambiente tranquillo e un intenso profumo di pini.<br><br>
+<b>Indirizzo: </b>San Gallo di San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.provinciabergamasca.com">www.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.671303999999999,45.864948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 81 ">
+		<name>RONCHI, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/81_Rochi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Superata l'erta della Corna Albana nel comune di San Giovanni Bianco, lungo l'antica via Mercatorum, si giunge alla contrada Ronchi, che prende il nome dall'intervento realizzato dalla popolazione locale per dissodare il terreno esposto in pieno sole, terrazzarlo e renderlo coltivabile. <br><br>
+<b>Indirizzo: </b>Ronchi di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.648975,45.88017,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 82 ">
+		<name>CASSINO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/82_Cassino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada di Cassino è situata alle falde del Cancervo. Il paese di San Giovanni Bianco è diviso in una ventina di contrade che fanno corona al capoluogo e sono distribuite in un'ampia conca dominata a nord-ovest dal massiccio del Cancervo (1.750 m) e a sud-ovest dal Ronco (Molinasco 1.100 m) e dal Sornadello (1.550 m), montagne che sono meta abituale degli escursionisti. <br><br>
+<b>Indirizzo: </b>Cassino di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.645371000000001,45.880864,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 83 ">
+		<name>BREMBILLA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/83_Brembilla.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il paese di San Giovanni Bianco è diviso in una ventina di contrade che fanno corona al capoluogo e sono distribuite in un'ampia conca dominata a nord-ovest dal massiccio del Cancervo (1.750 m) e a sud-ovest dal Ronco (Molinasco 1.100 m) e dal Sornadello (1.550 m), montagne che sono meta abituale degli escursionisti. <br><br>
+<b>Indirizzo: </b>Brembilla di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.642474999999999,45.87669600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 84 ">
+		<name>PIANCA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/84_Pianca.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada di Pianca si trova ai piedi del monte Cancervo, lungo l'antica via Mercatorum.  Una leggenda racconta la nascita di questa minuscola località, identificando il Cancervo nella figura di un dio montano, paterno e affettuoso, che volle avere accanto a sé la figlia Pianca, riservandole su un dolce declivio ben esposto al sole, per contrastare il gelo invernale. <br><br>
+<b>Indirizzo: </b>Pianca di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.634289000000001,45.89587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 85 ">
+		<name>SENTINO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/85_Sentino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sentino è una contrada che sorge sulle pendici del monte Cancervo, lungo l'antica via Mercatorum; fra i suoi edifici, la chiesa di San Marco ricopre una discreta importanza in quanto conserva pregevoli opere d'arte, fra cui la Pietà del Ceresa.<br><br>
+<b>Indirizzo: </b>Sentino di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.647335999999999,45.884679,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 86 ">
+		<name>ONETA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/86_Oneta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Poco sopra il comune di San Giovanni Bianco, proseguendo per un'antica mulattiera lungo la via Mercatorum, si incontra la piccola e caratteristica contrada di Oneta, dove la tradizione individua la casa natale di Arlecchino. Questo piccolo borgo è caratterizzato da strette strade porticate, costeggiate da rustici portoni in pietra e ballatoi in legno.<br><br>
+<b>Indirizzo: </b>Oneta di San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.provinciabergamasca.com">www.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.650197,45.882053,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 246 ">
+		<name>PIAZZOLO - Orologio Campanile a carica manuale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/246_OrologioChiesa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A Piazzolo resta uno degli ultimi campanili con orologio completamente manuale; si tratta di un orologio meccanico risalente al 1938, di estremo valore storico e artistico. Recentemente restaurato, è tuttora perfettamente funzionante.<br><br>
+<b>Indirizzo: </b>Chiesa Parrocchiale - Piazzolo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.provinciabergamasca.com">www.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.670647000000001,45.97933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 298 ">
+		<name>FOPPOLO - Trincee Linea Cadorna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/298_TrinceeLineaCadorna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nell'area del Passo Dordona è possibile visitare le fortificazioni, le trincee, le postazioni per l'artiglieria, le cannoniere, le mulattiere e le piccole casermette costruiti durante la prima guerra mondiale, per fronteggiare e prevenire gli attacchi austriaci sullo Stelvio. Questi reperti, importante testimonianza della guerra di trincea tra il 1899 e il 1918 lungo la cosiddetta Linea Cadorna, testimoniano la pluralità dei ruoli che questi territori hanno rappresentato nel tempo.<br><br>
+<b>Indirizzo: </b>Foppolo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.foppolo.bg.it">www.comune.foppolo.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.760767,46.06203299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 305 ">
+		<name>COSTA SAN GALLO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/305_CostaSanGallo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Frazione di S. Giovanni Bianco che offre un'ottima visuale della Valle Brembana. Come testimoniano ancora le antiche cascine contadine, Costa San Gallo rappresenta una contrada storica in cui, grazie al clima mite offerto dal versante, erano largamente diffuse attività di allevamento e coltivazione.<br><br>
+<b>Indirizzo: </b>Costa San Gallo Santuario - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.666397999999999,45.876741,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 306 ">
+		<name>SAN PIETRO D&apos;ORZIO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/306_orzio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada d'Orzio si trova sul versante di San Gallo, lungo l'antica via Mercatorum, nel comune di San Giovanni Bianco. La chiesa parrocchiale di San Pietro custodisce diverse opere di Carlo Ceresa.<br><br>
+<b>Indirizzo: </b>San Pietro d'Orzio -San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.provinciabergamasca.com">www.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.662616999999999,45.884966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 307 ">
+		<name>FOPPA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/307_Foppa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La piccola contrada di Foppa è situata alle falde del Monte Cancervo, lungo l'antica via Mercatorum. Attualmente la località è quasi completamente spopolata.<br><br>
+<b>Indirizzo: </b>Foppa - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.676069999999999,45.865499,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 308 ">
+		<name>FUIPIANO AL BREMBO, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/308_FuipianoalBrembo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situato su un piccolo altopiano sulla destra orografica della valle Brembana, a sud del paese di San Giovanni Bianco e lungo l'antica via Mercatorum, questa piccola frazione presenta numerose costruzioni rurali ma anche edifici di aspetto signorile, come quelli appartenuti alle famiglie Cavagnis e Busi Cariani. Nella piazzetta principale spicca una fontana su cui è presente una scultura in bronzo; la piccola parrocchiale di San Filippo e San Giacomo presenta alcune opere di rilievo di Carlo Ceresa.<br><br>
+<b>Indirizzo: </b>Fuipiano al Brembo - San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.provinciabergamasca.com">www.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.654894000000001,45.864076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 309 ">
+		<name>GRABBIA, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/309_Grabbia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Salendo per la mulattiera che segue l'antica via Mercatorum si giunge al nucleo abitato di Grabbia, frazione di San Giovanni Bianco, conosciuto per aver dato i natali all'artista Carlo Ceresa.<br><br>
+<b>Indirizzo: </b>Grabbia - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.658633999999999,45.883325,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 321 ">
+		<name>CAPATELLI, SAN GIOVANNI BIANCO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/321_Capatiglio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada di Capatelli è una frazione di San Giovanni Bianco situata su un pianoro verdeggiante. Conosciuta come una contrada viva e operosa, è caratterizzata da case addossate l'una sull'altra, costruite in pietra e legno, con portali in pietra. Il paese di San Giovanni Bianco è diviso in una ventina di contrade che fanno corona al capoluogo e sono distribuite in un'ampia conca dominata a nord-ovest dal massiccio del Cancervo (1.750 m) e a sud-ovest dal Ronco (Molinasco 1.100 m) e dal Sornadello (1.550 m), montagne che sono meta abituale degli escursionisti. <br><br>
+<b>Indirizzo: </b>Capatelli - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.644862,45.883222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 338 ">
+		<name>CAMERATA CORNELLO - Ruderi di Palazzo Tasso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/338_ruderi_palazzo_tasso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Palazzo Tasso, situato su uno sperone di roccia poco distante dal borgo, svolgeva la funzione d'avvistamento e difesa verso valle. Questo palazzo restaurato è in grado ancora oggi di richiamare tale funzione all'interno del sistema medievale del Borgo.<br><br>
+<b>Indirizzo: </b>Borgo di Cornello dei Tasso, Località Bretto - Camerata Cornello, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.museodeitasso.com">www.museodeitasso.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.644237,45.897758,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 340 ">
+		<name>TALEGGIO - Borgo di Asturi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/340_BorgodiAsturi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il borgo di Asturi è raggiungibile da Peghera. Qui si trovano ancora esempi di architettura contadina, in particolare una casa del '300 di una tipologia difficilmente riscontrabile in altri luoghi, caratterizzata da scale e balconate di legno. Il primo manufatto che s'incontra lungo la strada della contrada è un lavatoio a due vasche dell'inizio del secolo scorso, poste a livello diverso: quella più alta serviva per abbeverare il bestiame, quella più in basso era dedicata alla popolazione. Qui si trova anche una piccola chiesetta del '700 dedicata alla Madonna dell'Annunciazione.<br><br>
+<b>Indirizzo: </b>Asturi - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.575606000000001,45.873384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 341 ">
+		<name>ARDESIO - Cacciamali</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/341_cacciamali.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Cacciamali era il feudo di una nobile e antica famiglia ardesiana da cui prese il nome. Il piccolo borgo, sviluppatosi grazie alle miniere argentifere, è situato a 1.100 m. di altitudine. Attualmente presenta problemi di accessibilità ed è completamente disabitato nonostante i numerosi interventi di restauro che hanno conservato la pregevole architettura, tra cui una bellissima chiesetta affrescata del XVI secolo. <br><br>
+<b>Indirizzo: </b>Cacciamali - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it">www.viviardesio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.913557000000001,45.93671500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 348 ">
+		<name>VALGOGLIO -  Frazione di Colarete</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/348_Colarete.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il borgo di Valgoglio era conosciuto in passato per la grande capacità estrattiva del sottosuolo. In epoca medievale, gran parte delle armi e delle armature era prodotta con il ferro estratto nella zona, così come le monete della zecca di Bergamo, coniate con l'argento di Valgoglio. Dalla zona veniva estratto anche l'oro, che contribuì a diffondere un certo benessere nel territorio. A valle sorge il borgo antico della frazione Colarete che presenta alcune case rustiche ben conservate e la locale chiesetta dedicata a San Michele, con tetto in ardesia (XV secolo).<br><br>
+<b>Indirizzo: </b>Colarete - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.919428,45.971509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 352 ">
+		<name>AVERARA - Resti della Guerra al Passo Verrobbio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/352_RestidellaGuerraalPassoVerrobbio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nell'area del Passo Verrobbio è possibile visitare le fortificazioni e i bunker costruiti durante la prima guerra mondiale in difesa dagli austriaci, che costituiscono parte della Linea Cadorna, un complesso di strutture difensive della Pianura Padana, progettato tra il 1899 e il 1918. <br><br>
+<b>Indirizzo: </b>Passo Verrobbio - Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.6016,46.038617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 353 ">
+		<name>AVERARA - Antico Porticato</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/353_Averara_porticato_ViaPriula.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il paese di Averara fu un importante luogo di sosta e di passaggio della Via Mercatorum, la strada medievale che collegava l'Alta Val Brembana con la Val Seriana raggiungendo Bergamo evitando l'impervia Bassa val Brembana. Sotto l'antico porticato della piazza, recentemente restaurato, fiorivano botteghe e commerci. Ancora oggi si possono vedere i marchi e gli stemmi delle potenti famiglie gentilizie e di mercanti, ripercorrendo la storia che ha segnato profondamente la Val Brembana e ricostruendone le connessioni con i territori esterni.<br><br>
+<b>Indirizzo: </b>Strada provinciale n. 8 - Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.63172,45.988099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 362 ">
+		<name>SAN GIOVANNI BIANCO - Palazzo dei Conti Boselli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/362_PalazzodeiContiBoselli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il palazzo dei conti Boselli, risalente all'epoca medievale, sorge fra le principali vie di comunicazione dell'alta valle, la via Mercatorum e la via Priula, sulla confluenza dei fiumi Brembo e Enna; all'epoca delle fazioni Guelfe e Ghibelline, tale posizione appariva particolarmente strategica. L'edificio presenta al suo esterno un'architettura medioevale fortificata, mentre gli ornamenti decorativi testimoniano il potere conquistato dai proprietari che si sono succeduti.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.653102000000001,45.874428,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 391 ">
+		<name>GROMO - Palazzo Bonetti &quot;ex ospedale Bonetti&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/391_PalazzoBonetti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In passato questo elegante edificio fu dimora della potente famiglia Bonetti, dedita al commercio di armi bianche nel corso del  XVII secolo. Restituita di recente all' antico splendore, la residenza è oggi abitata e quindi non visitabile negli interni. Una lunga scala scenografica realizzata in pietra di Sarnico conduce all' edificio disposto su tre lati, con una facciata impreziosita da un portico e da un loggiato.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.928276,45.96888400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 393 ">
+		<name>GROMO - Palazzo Comunale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/393_PalazzoComunale.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Costruito del XV secolo, il palazzo comunale di Gromo è rivestito di marmo grigio venato proveniente delle vicine cave di Ardesio. L'edificio ha mantenuto intatta la sua facciata; attualmente il Palazzo è sede dell'Amministrazione Comunale e dell'Ufficio Turistico, mentre ai piani superiori ospita il Museo delle Pergamene ed il Museo EcoNaturalistico. <br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.929843,45.968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 404 ">
+		<name>SCHILPARIO - Casa del Cardinale Maj</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/404_CasadelCardinaleMaj.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Cardinale Angelo Maj, teologo e filologo italiano, nacque a Schilpario nel 1782.  La sua casa natale è situata nella piazza centrale che porta il nome dello stesso cardinale. Allo studioso si deve la scoperta di ampi frammenti di una delle opere politiche più importanti di Cicerone, il «De Re Publica». <br><br>
+<b>Indirizzo: </b>Piazza C. Maj 17 - Schilpario, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.lombardiabeniculturali.it/architetture/schede/BG020-00446/">www.lombardiabeniculturali.it/architetture/schede/BG020-00446/</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.152691,46.009593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 425 ">
+		<name>GANDELLINO - Masso utilizzato come altare</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/arte_religiosa/425_Massoaltare.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Salendo da Tezzi lungo un antico sentiero che porta alla Val Sedornia, si giunge nella località Spias de Martisola, in una radura dove spicca un masso erratico a forma di parallelepipedo.  Lungo un lato del masso son ritagliati una serie di gradini che conducono alla sommità e le incisioni visibili sulla sua superficie sono riconducibili all'opera dell'uomo. Secondo alcuni studi, fra il terzo e il primo millennio a.C. questo masso fu impiegato come altare per sacrifici, probabilmente dalle popolazioni druide che si insediarono in questa zona. Sulla superficie sono ben visibili dei solchi chiamati coppelle, mentre la faccia rivolta a Nord mostra una serie di incisioni circolari e di linee oblique.<br><br>
+<b>Indirizzo: </b>Località Spiazzi di Martisola, Tezzi - Gandellino, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.968051000000001,45.98650700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 429 ">
+		<name>ONETA - Contrada rurale Ortello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/429_Ortello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Dalla frazione di Chignolo di Oneta, percorrendo la mulattiera che porta verso Barbata si incontra la bella contrada di Ortello, un grappolo di case incontaminate immerse nel verde dei prati circondate dai boschi secolari.<br><br>
+<b>Indirizzo: </b>Oneta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.828747999999999,45.855229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 430 ">
+		<name>TALEGGIO - Fontana di San Carlo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/430_fontanascarlo.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La fonte si trova lungo la mulattiera che dalla frazione di Pizzino, nel comune di Taleggio, sale verso Borgo di Fraggio. Essa prende il nome dal Cardinale S. Carlo Borromeo che passò di qui e la benedisse durante il suo peregrinare per la valle nel periodo della Controriforma. Una lapide del '700 è posta a memoria di tale evento. Le acque della fontana vengono convogliate e depurate, prima di essere immesse nel sistema idrico dei paesi sottostanti. La fontana è uno degli esempi che dimostrano la ricchezza idrica della Val Taleggio.<br><br>
+<b>Indirizzo: </b>Borgo Fraggio - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.557822,45.90473300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 431 ">
+		<name>VALNEGRA - La casa della Misericordia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/431_LacasadellaMisericordia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo caratteristico edificio è collocato tra la strada comunale Vena e la via Curato, nel comune di Valnegra. In passato era di proprietà della Congregazione di carità e successivamente passò al Comune, che ristrutturò l'edificio nel 1978.  Sul muro esterno rivolto a nord è possibile ammirare l'affresco di una madonna dipinta .<br><br>
+<b>Indirizzo: </b>Via Curato - Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.691738000000001,45.949749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 432 ">
+		<name>VALNEGRA - La Fontana situata di via Marconi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/432_LaFontanaValnegra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa fontana, realizzata nel 1881, era la fontana principale del paese di Valnegra; in passato, una seconda vasca posta sul retro veniva utilizzata come abbeveratoio per le mucche.<br><br>
+<b>Indirizzo: </b>Via Marconi - Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.690573000000001,45.94916,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 433 ">
+		<name>VALNEGRA - Le Scuole (La Sorbona di Gogis)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/433_LeScuole.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le scuole di Valnegra furono istituite a metà dell'Ottocento su iniziativa della nobile Francesca Gervasoni, che decise di aprire la sua dimora domenicale per accogliere le ragazze orfane, trasformando parte della propria residenza in un istituto delle Figlie della Carità. Successivamente l'istituto divenne sede dell' Opera Pia Gervasoni, per l'istruzione dei giovani della valle. La scuola divenne così conosciuta come "Sorbona di Gogis" perché istruì diverse generazioni di studenti provenienti dall'Oltre Goggia.<br><br>
+<b>Indirizzo: </b>Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.690338000000001,45.94914799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 434 ">
+		<name>GROMO - Le ville Liberty</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/434_LevilleLiberty.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Lungo la mulattiera che porta dal borgo di Gromo, nella frazione Ripa, si trovano alcune ville in stile Liberty ad opera di Berardo Cittadini. Le abitazioni furono costruite nei primi Novecento, periodo in cui Gromo rappresentava una popolare meta di villeggiatura.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.928004,45.96906800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 435 ">
+		<name>SCHILPARIO - Monumento a ricordo dei caduti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/435_monumentocaduti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monumento ai caduti è stato eretto a ricordo delle dodici vittime, fra partigiani e civili, uccise il 28 aprile 1945. Questo fu uno degli episodi più tragici dei giorni della Liberazione della provincia di Bergamo: i militi fascisti della "Tagliamento" aprirono il fuoco su chi stava loro chiedendo la resa, infierendo poi sui cadaveri. Il monumento, realizzato su progetto di Walter Giliberto nel 2011, si trova in località Fondi ed è costituito da 17 aste in acciaio conficcate nel terreno che riproducono la costellazione dell'Orsa maggiore e l'orientamento dei corpi celesti nella notte del 28 aprile 1945 alle 20.30, ora dell'eccidio. A completare il monumento verso il bosco, a terra è stata posta la lapide originaria con i nomi delle vittime.<br><br>
+<b>Indirizzo: </b>Fondi - Schilpario, BG<br>
+<b>Telefono: </b>Comune di Schilpario tel. 034655056<br>
+<b>Mail: </b>info@comune.schilpario.bg.it <br>
+<b> Sito internet: </b><a href="www.comune.schilpario.bg.it ">www.comune.schilpario.bg.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.203785,46.018473,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 436 ">
+		<name>CLUSONE - Orologio meccanico di Pietro Fanzago</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/436_OrologioPalazzocomunale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Orologio Planetario rappresenta il cuore di Clusone e, oltre ad essere motivo di richiamo per i turisti, è soprattutto il simbolo dell'intera comunità clusonese. Costruito da Pietro Fanzago, illustre matematico e meccanico, fu collocato nel 1583 sulla torre civica del palazzo comunale; all'interno della torre, l'antico meccanismo viene caricato a mano tutti i giorni da circa quattrocento anni. L'orologio è attorniato dagli affreschi della facciata del Palazzo del Comune.<br><br>
+<b>Indirizzo: </b>Palazzo comunale - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.950866,45.88869,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 437 ">
+		<name>GORNO - Peròli Alti e Bassi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/437_PeroliAltiBassi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Peròli Alti e Bassi sono due frazioni del comune di Gorno. A Peròli Bassi sorge l'antica casa turrita dei Ghibellini, che nel Medioevo si insediarono qui per sfruttare le risorse minerarie del territorio. In questa zona si trova il sito minerario di Costa Jels, luogo di cantieri minerari dall'epoca Romana fino agli anni '60 del secolo XIX; poco prima dell'abitato di Peròli Alti si incontrano due imbocchi di miniere dismesse. Il vecchio borgo include una corte, due fontane con un lavatoio e la chiesetta dedicata a S. Mauro.<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.833695000000001,45.870205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 438 ">
+		<name>VALNEGRA - Portici</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/438_Portici.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questi portici risalgono al XV secolo e in passato, in occasione della festa dell'Epifania, venivano utilizzati per allestire un grande mercato, dove giungevano moltissimi visitatori e commercianti dai paesi vicini.<br><br>
+<b>Indirizzo: </b>Via Vecchia - Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.648789000000001,45.971952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 439 ">
+		<name>SERINA - Portico di San Bernardino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/439_PorticodiSanBernardino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo porticato è custodito nell'ex oratorio dei Disciplini, la chiesa più antica del comune di Serina. Sulle pareti sono ancora visibili gli antichi e suggestivi affreschi che risalgono alla fine del Cinquecento, fra cui una porzione che mostra la distribuzione dei viveri alimentari da parte dei Ministri della Misericordia.<br><br>
+<b>Indirizzo: </b>Via Caneva 6 - Serina, BG<br>
+<b>Telefono: </b>Pro Loco Serina Tel./Fax. 034566065 <br>
+<b>Mail: </b>ufficioturistico@comune.serina.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.73087,45.873173,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 440 ">
+		<name>VALLEVE - Resti della Guerra</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/440_RestidellaGuerra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Durante la Prima Guerra Mondiale, sullo spartiacque delle Orobie, venne predisposta una linea difensiva detta Linea Cadorna - dal nome del generale - che prevedeva una serie di fortificazioni nell'eventualità di un attacco austriaco. Oggi, nel territorio di Valleve è possibile intraprendere un itinerario storico per conoscere e riscoprire le postazioni usate dai combattenti, considerando queste trincee come patrimonio storico-culturale del territorio.<br><br>
+<b>Indirizzo: </b>Valleve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.743729999999999,46.027857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 441 ">
+		<name>RISO, GORNO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/441_Riso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada Riso rappresentava il vecchio centro produttivo delle miniere di Gorno, in cui si trova un impianto di lavorazione del minerale chiamato "Laveria di Riso" e l'imbocco principale delle miniere chiamato "Grande ribasso Riso", in località Turbina. Inoltre, qui si trova l'ingresso del "ribasso Noble", la galleria che porta in val Dossana attraverso un percorso sotterraneo sotto il paese di Premolo, dove è visibile anche un'esposizione di minerali.<br><br>
+<b>Indirizzo: </b>Riso - Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.839506,45.859466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 442 ">
+		<name>BARZESTO, SCHILPARIO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/442_Barzesto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Barzesto sorge a 1.069 metri sul livello del mare. Essa fa parte del territorio del comune di Schilpario insieme alle frazioni di Pradella e Ronco.<br><br>
+<b>Indirizzo: </b>Barzesto - Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.131617,46.009108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 443 ">
+		<name>PRADELLA, SCHILPARIO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/443_Pradella.jpg "WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Pradella sorge a 1078 metri sul livello del mare.  Essa fa parte del territorio del comune di Schilpario insieme alle frazioni di Barzesto e Ronco.<br><br>
+<b>Indirizzo: </b>Pradella - Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.128766,46.00262,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 444 ">
+		<name>RONCO, SCHILPARIO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/444_Ronco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Ronco, nel comune di Schilpario, sorge a 1075 metri sul livello del mare. Essa fa parte del territorio del comune di Schilpario insieme alle frazioni di Pradella e Barzesto.<br><br>
+<b>Indirizzo: </b>Ronco - Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.13943,46.013279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 445 ">
+		<name>GORNO - Vecchia laveria</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/445_Laveria.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il complesso della Laveria, chiamato anche Laveria n.2, è situato nella parte occidentale della contrada Riso; questo complesso industriale era impiegato per la lavorazione del minerale attraverso i processi di frantumazione, macinatura e flottatura con acqua e acidi, per separare il metallo dalla pietra sterile.<br><br>
+<b>Indirizzo: </b>Riso - Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.837431000000001,45.86026500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 446 ">
+		<name>VILLASSIO, GORNO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/446_Villassio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione Villassio, situata a 710 metri slm., fa parte del comune di Gorno. Nella località è possibile visitare il Museo delle Miniere; la struttura raccoglie numerose testimonianze dell'attività mineraria che, fino agli anni Settanta, ha costituito la principale risorsa economica dell'intera Val del Riso. La chiesa parrocchiale è dedicata a S. Martino Vescovo di Tours dal suo sagrato si può godere di uno splendido panorama che include la valle e il monte Alben.<br><br>
+<b>Indirizzo: </b>Villassio - Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.842594,45.861037,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 447 ">
+		<name>BUEGGIO, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/447_Bueggio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Bueggio è una frazione del comune di Vilminore di Scalve; la sua posizione è un buon punto di partenza per semplici passeggiate lungo le antiche strade di collegamento tra le diverse frazioni, per escursioni di media difficoltà (Passo della Manina e del Belviso) o per le ferrate più impegnative del Passo della Porta (Presolana) e del Pizzo Camino.<br><br>
+<b>Indirizzo: </b>Bueggio - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.076247,45.997673,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 448 ">
+		<name>DEZZOLO SANT&apos;ANDREA, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/448_DezzoloSantAndrea.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Dezzolo Sant'Andrea sorge a 857 metri sul livello del mare. Nella località è possibile visitare la chiesa di Sant'Andrea, realizzata sulla base di un progetto di Andrea Fantoni.<br><br>
+<b>Indirizzo: </b>Dezzolo Sant'Andrea - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.106095,45.996384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 449 ">
+		<name>NONA, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/449_Nona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il toponimo Nona deriva probabilmente dal nome latino "annona", che indica la provvigione e il deposito di generi alimentari e vettovaglie. In passato, infatti, Nona rappresentava il fulcro della distribuzione di alimenti nella Val Bondione; la rilevanza di questa frazione è da attribuire anche alle miniere della Manina, ricche di ferro, che hanno costituito in passato una delle maggiori risorse per questo piccolo borgo, così come per tutta la Val di Scalve.<br><br>
+<b>Indirizzo: </b>Nona - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.054853,46.00300300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 450 ">
+		<name>PEZZOLO, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/450_Pezzolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Pezzolo è inclusa nel comune di Vilminore di Scalve, situato ad un'altitudine di 1018 m slm al centro della Valle di Scalve, in una vallata adagiata sul territorio della provincia di Bergamo e confinante con Valtellina, Valcamonica, Valseriana.<br><br>
+<b>Indirizzo: </b>Pezzolo - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.062893,45.998077,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 451 ">
+		<name>PIANEZZA, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/451_Pianezza%C2%A0.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Pianezza è situata a 1265 m ed è inclusa nel comune di Vilminore di Scalve. La piccola frazione si caratterizza per la presenza di piccole abitazioni e vie ben curate, oltre che per la piccola chiesa. Il suo campanile è provvisto di un singolare orologio che sul quadrante segna solo sei ore, pertanto ogni giorno le lancette compiono quattro giri completi. Da qui parte uno degli itinerari che portano alla diga del Gleno, lungo la segnavia CAI n. 411. <br><br>
+<b>Indirizzo: </b>Pianezza - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.083782,46.000972,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 452 ">
+		<name>ROCCOLO, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/452_Roccolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Roccolo è una piccola località inclusa nella frazione di Pezzolo, nel comune di Vilminore di Scalve; il comune è situato ad un'altitudine di 1018 m slm al centro della Valle di Scalve, in una vallata adagiata sul territorio della provincia di Bergamo e confinante con Valtellina, Valcamonica, Val Seriana.<br><br>
+<b>Indirizzo: </b>Località Roccolo di Pezzolo - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.071552,45.99496199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 454 ">
+		<name>TEVENO, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/454_Teveno.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Teveno è inclusa nel comune di Vilminore di Scalve, situato ad un'altitudine di 1018 m slm al centro della Valle di Scalve, in una vallata adagiata sul territorio della provincia di Bergamo e confinante con Valtellina, Valcamonica, Val Seriana.<br><br>
+<b>Indirizzo: </b>Teveno - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.058305,45.995091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 455 ">
+		<name>VILMAGGIORE, VILMINORE DI SCALVE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/455_Vilmaggiore.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Vilmaggiore ha origini antiche e deve il proprio nome alla definizione di epoca romana che identificava come Vicus Maior (Vilmaggiore) l'abitato che fu sede di un presidio romano; nella frazioni si trovano ancora una torre ed i resti di antichi fortilizi. Vilminore, ovvero Vicus Minor (villaggio minore), identificava invece l'attuale capoluogo della Valle di Scalve, situato in una vallata adagiata sul territorio della provincia di Bergamo e confinante con Valtellina, Valcamonica, Valseriana.<br><br>
+<b>Indirizzo: </b>Vilmaggiore - Vilminore di Scalve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.109724,46.0039,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 570 ">
+		<name>GORNO - Antiche fontane</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/570_Antichefontane.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gorno si caratterizza per la presenza di numerose fontane e lavatoi pubblici, le cui prime testimonianze risalgono al XVI secolo. La dislocazione delle varie contrade in un territorio ampio e montano ha dato vita nei secoli alla costruzione di diverse fonti d'acqua per attingere l'acqua per le varie abitazioni , ma anche per abbeverare il bestiame e nel caso dei lavatoi per lavare la biancheria.<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it ">www.ecomuseominieredigorno.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.844867000000001,45.86373699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 576 ">
+		<name>CASTIONE DELLA PRESOLANA - Baita Cassinelli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/576_BaitaCassinelli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Baita Cassinelli è situata ad un'altezza di 1.568 metri s.l.m. ai piedi della Presolana. Di proprietà del comune di Castione della Presolana, nel passato era utilizzata come casera nel periodo estivo, mentre oggi è una testimonianza dell'attività antropica svolta dalle comunità locali in alpeggio.<br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+<b>Telefono: </b>3333204163<br>
+<b>Mail: </b>info@rifugiobaitacassinelli.it<br>
+<b> Sito internet: </b><a href="www.rifugiobaitacassinelli.it">www.rifugiobaitacassinelli.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.035859,45.90789699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 588 ">
+		<name>GORNO - Calchera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/588_Calchera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Calchera è una delle contrade di Gorno meglio conservate, caratterizzata dalla presenza di  case a cortile che consentivano di concentrare in un'unica costruzione l'abitazione della famiglia ai piani superiori, con stalla, fienile e granaio ai piani bassi, disposti attorno a cortili rettangolari. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.849382,45.86472600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 591 ">
+		<name>GORNO - Villaggio minerario di Campello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/591_Campello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada di Campello è la più recente, formatasi nella seconda metà dell'Ottocento quale villaggio minerario dove si trovavano la direzione, gli uffici, i servizi e gli alloggi dei tecnici al servizio dell'importante attività estrattiva che interessò l'area fino agli anni Settanta.<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it">www.ecomuseominieredigorno.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.823505000000001,45.868146,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 594 ">
+		<name>PIAZZATORRE - Casa Arioli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/594_CasaArioli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Arioli è il nome di un'antica e nobile casata che a partire dal XIV secolo ricoprì importanti incarichi pubblici nel comune di Piazzatorre. Nel centro del paese è situato l'edificio conosciuto come casa Arioli-Maisis, che rappresenta un esempio non comune di casa padronale, con notevoli facciate affrescate. In un'ala della casa trova attualmente sede l'asilo infantile, mentre il corpo principale di Casa Arioli è una casa vacanze data in autogestione dal Comune di Piazzatorre.<br><br>
+<b>Indirizzo: </b>Via XX Settembre 28 - Piazzatorre, BG<br>
+<b>Telefono: </b>3426836031<br>
+<b>Mail: </b>piazzatorre@casevacanzealtavallebrembana.it<br>
+<b> Sito internet: </b><a href="www.casevacanzealtavallebrembana.it/piazzatorre">www.casevacanzealtavallebrembana.it/piazzatorre</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.682193,45.99018000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 595 ">
+		<name>PIAZZATORRE - Casa Bianchi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/595_casabianchi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'edificio denominato Casa Bianchi, per quanto abbondantemente rimaneggiato e snaturato, mostra ancora evidenti i segni della sua storia: nella facciata sono presenti grandi motivi floreali e architettonici, festoni e un grande affresco centrale che raffigura la Vergine e il Bambino nella parte superiore, in basso il patriarca Mosè e l'arcangelo Gabriele.<br><br>
+<b>Indirizzo: </b>Piazzatorre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.piazzatorre.bg.it">www.comune.piazzatorre.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.681839,45.990181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 596 ">
+		<name>VALNEGRA - Casa dei Romanocc</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/596_CasaRomanocc.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo interessante edificio del comune di Valnegra risale  al XIV secolo. Il suo nome deriva dalla presenza di portici sottostanti la struttura; il termine dialettale "Romanocc" indica un passaggio coperto con portici chiusi.<br><br>
+<b>Indirizzo: </b>Via Vecchia - Valnegra, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.valnegra.bg.it">www.comune.valnegra.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.68999,45.94924699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 597 ">
+		<name>RUSIO, CASTIONE DELLA PRESOLANA</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/597_rusio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Rusio è una piccola frazione del comune di Castione della Presolana, situata a 921 m. Si caratterizza per la presenza di case in tipico stile montano. Vi si trova il primo edificio religioso della zona, la Chiesetta di San Peder, eretta intorno all'XI secolo, che domina la Valle dei Mulini e l'abitato di Castione.<br><br>
+<b>Indirizzo: </b>Rusio - Castione della Presolana, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="https://it-it.facebook.com/pages/Localit%C3%A0-Rusio-castione-della-presolana/123997243085">https://it-it.facebook.com/pages/Localit%C3%A0-Rusio-castione-della-presolana/123997243085</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.036997,45.91592,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 599 ">
+		<name>CAVAGNOLI, GORNO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/599_Cavagnoli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada di Cavagnoli è una delle meglio conservate del comune di Gorno. Sulla parete esterna di una delle case più antiche della contrada su trova un affresco degli inizi del XVI secolo che raffigura il Leone di San Marco, a testimonianza della dominazione veneta che durò fino al 1797.<br><br>
+<b>Indirizzo: </b>Cavagnoli, Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it ">www.ecomuseominieredigorno.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.842692,45.863865,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 628 ">
+		<name>CARBONERA, COLERE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/628_Carbonera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Carbonera è una frazione di Colere posta a 1063 metri slm. Nella piccola frazione è possibile visitare la chiesetta di San Rocco.<br><br>
+<b>Indirizzo: </b>Carbobera - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.073102,45.976153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 629 ">
+		<name>GRANA, COLERE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/629_Grana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Grana sorge a 1.020 metri sul livello del mare.<br><br>
+<b>Indirizzo: </b>Grana - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.103629,45.96837300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 630 ">
+		<name>MAGNONE, COLERE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/630_Magnone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione Magnone fa parte del comune di Colere ed è situata a 1.119 metri slm.<br><br>
+<b>Indirizzo: </b>Magnone - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.093338,45.980381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 631 ">
+		<name>VALLE RICHETTI, COLERE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/631_ValleRichetti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Valle Richetti sorge a 921 metri sul livello del mare.<br><br>
+<b>Indirizzo: </b>Valle Richetti - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.104267,45.9554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 632 ">
+		<name>VALLE SPONDA, COLERE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/632_ValleSponda.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Valle Sponda fa parte del comune di Colere ed è situata a 989 metri slm. Lungo la strada principale si incontra una pregevole scultura lignea che raffigura un crocifisso, circondato da diversi elementi simbolici.<br><br>
+<b>Indirizzo: </b>Valle Sponda - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.099395,45.94885099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 636 ">
+		<name>ERDENO, GORNO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/636_Erdeno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Erdeno è una delle contrade del Comune di Gorno. La frazione Villassio, posta a 710 metri s.l.m., è il capoluogo, mentre le altre contrade sono: Riso, Cavagnoli, Calchera, Peroli Alti e Bassi, San Giovanni, Sant'Antonio, Campello.<br><br>
+<b>Indirizzo: </b>Erdeno - Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.84404,45.859701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 638 ">
+		<name>CARONA - Trincee Linee Cadorna - Passo Dordona</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/638_TrinceeLineeCadorna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nell'area del Passo Dordona sono visibili le fortificazioni, le trincee e le strutture militari costruite durante la prima guerra mondiale per fronteggiare e prevenire gli attacchi austriaci sullo Stelvio. Questi reperti costituiscono un' importante testimonianza della guerra di trincea tra il 1899 e il 1918 lungo la cosiddetta Linea Cadorna.<br><br>
+<b>Indirizzo: </b>Passo Dordona - Carona, BG<br>
+<b>Telefono: </b>CAI Bergamo tel. 0354175475<br>
+<b>Mail: </b>trofeo.parravicini@gmail.com<br>
+<b> Sito internet: </b><a href="www.trofeoparravicini.org">www.trofeoparravicini.org</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.796665000000001,46.03509199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 641 ">
+		<name>CASTIONE DELLA PRESOLANA</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/641_castionedellapresolana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Castione della Presolana è situato alle pendici del Pizzo della Presolana e del Monte Pora, su un ampio terrazzamento posto sopra la valle di Tede. Il comune si compone di numerose frazioni: Bratto, Dorga con Lantana, Malga Alta di Pora, Cantoniera della Presolana, Rusio.<br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>10.035833,45.907901,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 642 ">
+		<name>CASSIGLIO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/642_cassiglio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Comune di Cassiglio si trova in Val Stabina, laterale dell'alta Val Brembana. Già in passato, la sua posizione strategica permetteva di raggiungere il sentiero che sale al Passo Baciamorti, tappa dell'antica via che conduceva in Val Taleggio e in Valsassina. Oggi è meta di escursionisti che intraprendono il sentiero delle Orobie Occidentali, partendo dal Lago di Cassiglio. Il borgo storico è rimasto immutato negli ultimi decenni, mantenendo il fascino caratteristico dei piccoli centri di montagna.<br><br>
+<b>Indirizzo: </b>Cassiglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.613332,45.96703699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 643 ">
+		<name>FINO DEL MONTE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/643_finodelmonte.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Fino del Monte è situato sull'altipiano di Clusone a circa 650 m; il piccolo borgo conserva l'impianto urbanistico in stile medievale, con caratteristici archi e loggiati. <br><br>
+<b>Indirizzo: </b>Fino del Monte, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.996725,45.891995,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 644 ">
+		<name>DOSSENA</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/644_dossena.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il borgo di Dossena è situato lungo l'antica via Mercatorum a circa 1.000 m.; in epoca medievale il borgo rappresentava un vivace centro di traffici commerciali, ma perse di importanza a partire dal XV secolo. Quando la provincia di Bergamo passò sotto la dominazione veneziana, infatti, venne costruito un nuovo collegamento viario lungo la bassa Valle Brembana - la via Priula - che ridimensionò il ruolo della via Mercatorum. Nel borgo rimangono comunque numerosi edifici che testimoniano il suo importante passato.<br><br>
+<b>Indirizzo: </b>Dossena, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.698287000000001,45.880051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 684 ">
+		<name>ONETA - Contrada rurale Mirarolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/684_contradamirarolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La contrada rurale di Mirarolo si caratterizza per l'architettura rurale tipica delle valli bergamasche, con cascinali dei secoli XIV e XV.Il territorio in cui questa contrada è inserita rappresenta un tipico esempio di alleanza tra natura e uomo, tipico degli ambienti montano. Qui infatti possiamo trovare ampi prati, sottratti al bosco con un duro lavoro di dissodamento, utilizzati sia per il pascolo che per ricavare piccoli campi da seminare, mentre il bosco, considerato una risorsa di alto valore, veniva utilizzato per il legname, prezioso materiale utilizzato per la costruzione, per il riscaldamento e per produrre attrezzi da lavoro. <br><br>
+<b>Indirizzo: </b>Mirarolo - Oneta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.811003,45.86816799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 685 ">
+		<name>ARDESIO - Ave</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/685_Ave.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione di Ave, a seguito del crollo dell'economia agro-silvo-pastorale, è stata quasi abbandonata, seppure la sua splendida posizione e le ricche abetaie che la circondano ne facciano un luogo di grande interesse ambientale. In occasione del 16 agosto qui si celebra la festa del patrono S. Rocco, la cui statua viene portata in processione, risalendo lungo i sentieri e le mulattiere dei versanti.<br><br>
+<b>Indirizzo: </b>Ave - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it">www.viviardesio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.963431,45.945186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 691 ">
+		<name>FOPPOLO - Resti della guerra al Passo Tartano</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/687_restiguerratartano.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nell'area del Passo Tartano è possibile visitare le fortificazioni e i bunker costruiti durante la prima guerra mondiale in difesa dagli austriaci, che costituiscono parte della Linea Cadorna, un complesso di strutture difensive della Pianura Padana, progettato tra il 1899 e il 1918. <br><br>
+<b>Indirizzo: </b>Foppolo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.718783999999999,46.063603,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 695 ">
+		<name>PIAZZATORRE - Casa Arioli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/695CasaArioli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Casa Arioli è una casa vacanze data in autogestione dal Comune di Piazzatorre. Arioli è il nome di un'antica e nobile casata che a partire dal XIV secolo ricoprì importanti incarichi pubblici nel comune di Piazzatorre. Nel centro del paese è situato l'edificio conosciuto come casa Arioli-Maisis, che rappresenta un esempio non comune di casa padronale, con notevoli facciate affrescate.  <br><br>
+<b>Indirizzo: </b>Via XX Settembre 28 - Piazzatorre, BG<br>
+<b>Telefono: </b>3426836031<br>
+<b>Mail: </b>piazzatorre@casevacanzealtavallebrembana.it<br>
+<b> Sito internet: </b><a href="www.casevacanzealtavallebrembana.it/piazzatorre">www.casevacanzealtavallebrembana.it/piazzatorre</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin29</styleUrl>
+		<Point>
+			<coordinates>9.682193,45.99018000000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

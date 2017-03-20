@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ricettivita</name>
+	<StyleMap id="m_ylw-pushpin02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin02">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/ricettivita.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin020">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/ricettivita.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl380">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/ricettivita.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl38">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/ricettivita.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl380</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 46 ">
+		<name>TALEGGIO - Baita Salzana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/46_BaitaSalzana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Baita Salzana è il primo edificio recuperato dall'Ecomuseo della Val Taleggio e rappresenta un esempio di recupero del patrimonio culturale, valorizzazione delle tradizioni locali e riconversione funzionale per il turismo sostenibile. La Baita, immersa nel verde della Val Taleggio, si trova a 500 mt dal centro di Sottochiesa (frazione di Taleggio) ed è facilmente raggiungibile percorrendo la mulattiera diretta al Santuario di Salzana. L'edificio conserva la caratteristiche delle dimore d'alpeggio: la struttura portante del tetto in travi di legno, incrociati a "X" per sopportare l'enorme peso delle piöde (pietre locali) utilizzate per la copertura; le falde molto pendenti; la porta del fienile a "T" per consentire il passaggio degli uomini con la gerla in spalla ma non degli animali. Il recupero ha consentito di ricavare due spazi: la stazione ecomuseale, collocata nel fienile, e Baita&Brekfast che offre la possibilità al visitatore di vivere un esperienza unica e degustare i prodotti locali.<br><br>
+<b>Indirizzo: </b>Sottochiesa - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseovaltaleggio.it">www.ecomuseovaltaleggio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.564162,45.898115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 64 ">
+		<name>BREMBILLA - Rifugio Monte Zucco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/64_RifugioMonteZucco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Zucco sorge in località Foppi, a 1.150 m, al margine di un verde pianoro, non lontano dalla cima dello Zucco. Questa montagna alta 1.232 m si trova nella parte sud del Gruppo del Sornadello. Sorge sulla destra orografica del fiume Brembo in Val Brembana.
+<br><br>
+<b>Indirizzo: </b>Brembilla, BG<br>
+<b>Telefono: </b>Gestore:
+034523050<br>
+ 
+<b> Sito internet: </b><a href="www.gruppogesp.it/rifugiozucco">www.gruppogesp.it/rifugiozucco</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.652227,45.819414,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 132 ">
+		<name>CLUSONE - Hotel Ambra</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/132_HotelAmbra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Hotel Ambra è situato nel borgo storico di Clusone, ricco di risorse culturali che testimoniano la sua lunga storia. Il ristorante propone i piatti della tradizione bergamasca, utilizzando prodotti provenienti dagli allevamenti e dalle coltivazioni dei contadini della vallata. La struttura possiede il marchio "Ristorante dei Mille Sapori" (cucina bergamasca di qualità).<br><br>
+<b>Indirizzo: </b>Via Querena 22 - Clusone, BG<br>
+<b>Telefono: </b>034621314<br>
+<b>Mail: </b>info@hotelambraclusone.com<br>
+<b> Sito internet: </b><a href="www.hotelambraclusone.com">www.hotelambraclusone.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.944709,45.88916,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 140 ">
+		<name>SAN GIOVANNI BIANCO - Agriturismo Stalle Alte</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ristorazione/140_AgriturismoStalleAlte.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Stalle Alte è situato in ambiente montano posto a mille metri  nella media Valle Brembana, offre una ospitalità rurale e prodotti tradizionali. Tutt'intorno vi sono prati e boschi dove si possono fare passeggiate con soventi avvistamenti di caprioli, volpi, tassi e anche la maestosa aquila.<br><br>
+<b>Indirizzo: </b>Località Ronco Trinità 20, San Gallo - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>034561010<br>
+<b>Mail: </b>stallealte@vodafone.it<br>
+<b> Sito internet: </b><a href="www.agriturismostallealte.com">www.agriturismostallealte.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.677042999999999,45.878432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 158 ">
+		<name>ONORE - Borgo Presolana - Living and Experience</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/158_Borgo%20Presolana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'albergo diffuso è un albergo "orizzontale", in cui un intero paese e il suo territorio diventano luogo di ricettività e ospitalità. Si tratta di un progetto di sviluppo sostenibile del territorio che mette in rete edifici inutilizzati, servizi del luogo e convenzioni con tutte le attività interessate. Il Borgo Presolana  Living and Experience mette in rete dieci appartamenti situati nel territorio di Onore, con una reception centralizzata che fornisce tutti i servizi di un hotel. <br><br>
+<b>Indirizzo: </b>Piazza Pozzo 35 - Onore, BG<br>
+<b>Telefono: </b>034674146; cell. 3423897672<br>
+<b>Mail: </b>info@borgopresolana.it<br>
+<b> Sito internet: </b><a href="www.albergodiffusopresolana.it">www.albergodiffusopresolana.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.009595,45.891408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 159 ">
+		<name>OLTRESSENDA ALTA - Ostello Baita Valle Azzurra</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/159_OstelloBaitaValleAzzurra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Ostello Baita Valle Azzurra prende il proprio nome dall'omonima località che si caratterizza per la presenza dei "laghetti azzurri", chiamati così perché a seconda delle stagioni si tingono delle tonalità più varie d'azzurro. La zona si trova lungo la strada per la frazione di Valzurio, nel territorio di Oltressenda Alta, suggestiva località immersa nella verde vallata che le fa da cornice. L'atmosfera che si respira appartiene ad un passato lontano ma che, grazie all'attività agricola di alcuni abitanti, rivive ancora oggi.<br><br>
+<b>Indirizzo: </b>Via Valzurio 9 - Oltressenda Alta, BG<br>
+<b>Telefono: </b>034628193; cell. 3356793515<br>
+<b>Mail: </b>info@baitavalleazzurra.it<br>
+<b> Sito internet: </b><a href="www.baitavalleazzurra.it">www.baitavalleazzurra.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.971838,45.92414,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 160 ">
+		<name>CASTIONE DELLA PRESOLANA - Rifugio Olmo Rino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/160_RifugioOlmo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio dedicato alla memoria di Rino Olmo, fondatore della sezione CAI Clusone, è ubicato a 1.819 metri di altezza con una posizione di tutto rispetto, adagiato in una conca poco sotto il Passo Olone. Il Rifugio Olmo gode di una vista sulla Presolana. Vicino al rifugio si trova una palestra di arrampicata naturale.
+<br><br>
+<b>Indirizzo: </b>Olone - Castione della Presolana, BG<br>
+<b>Telefono: </b>034661380; cell.  Elisa 3351657987 Simone 3495217868<br>
+<b>Mail: </b>info@rifugioolmo.it<br>
+<b> Sito internet: </b><a href="www.rifugioolmo.it">www.rifugioolmo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.037677,45.948202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 162 ">
+		<name>COLERE - Ostello 4 Matte</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/162_Ostello4Matte.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Ostello 4 Matte è situato a Colere, a quota 1.050 metri, ai piedi della parete nord della Presolana. La struttura deve il suo nome a una leggenda popolare, che racconta la storia di quattro sorelle che vivevano a Colere, trasformate in pietra dagli esseri del bosco. Ancora oggi a picco sul paese si ergono quattro pinnacoli incastonati tra due poderose cime. La struttura ha 10 stanze con bagno privato, grande cucina attrezzata in autogestione con 3 sale a disposizione, spazio esterno, deposito sci, ascensore per i piani e ampio terrazzo belvedere.<br><br>
+<b>Indirizzo: </b>Via Camposanto 7 - Colere, BG<br>
+<b>Telefono: </b>034654046<br>
+<b>Mail: </b>parrocchiacolere@pec.it<br>
+<b> Sito internet: </b><a href="www.ostello4matte.it">www.ostello4matte.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.081589,45.97498000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 163 ">
+		<name>SCHILPARIO - Rifugio Cimon della Bagozza</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/163_RifugioCimondellaBagozza.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Cimon della Bagozza si trova in località Cimalbosco Campelli di Schilpario, poco distante dalla strada che porta al Passo del Vivione. Il Cimone della Bagozza, che dà il suo nome al rifugio, è una montagna di 2.407 metri, che si innalza tra l'alta Val di Scalve e la valle di Lozio, breve ramo laterale della Valle Camonica, sulla dorsale che comprende anche il Pizzo Camino e che culmina nel gruppo montuoso della Concarena, all'estremità orientale. <br><br>
+<b>Indirizzo: </b>Cimalbosco Campelli - Schilpario, BG<br>
+<b>Telefono: </b>034656300<br>
+ 
+<b> Sito internet: </b><a href="www.cmscalve.bg.it">www.cmscalve.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.227292,46.02398600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 164 ">
+		<name>SCHILPARIO - Rifugio Vivione</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/164_RifugioVivione.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Vivione si trova in Valle di Scalve nel comune di Schilpario al Passo del Vivione, valico alpino a quota 1.828 m s.l.m. che collega questa Valle con la val Paisco, valle secondaria della Valle Camonica. Il rifugio, raggiungibile in auto o in moto, è base di partenza per numerose escursioni.
+<br><br>
+<b>Indirizzo: </b>Passo Del Vivione - Schilpario, BG<br>
+<b>Telefono: </b>Rifugio 3338984490  ; abitazione 034655259<br>
+<b>Mail: </b>info@passodelvivione.com<br>
+<b> Sito internet: </b><a href="www.passodelvivione.it">www.passodelvivione.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.199782,46.036707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 165 ">
+		<name>SCHILPARIO - Rifugio Tagliaferri</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/165_RifugioTagliaferri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Tagliaferri è tappa intermedia dell'itinerario naturalistico Antonio Curò trovandosi esattamente a metà strada tra il rifugio Curò e il passo del Vivione. Situato nella riserva faunistico-venatoria Valbelviso  Barbellino, è in una zona ricca di fauna e flora, oltre che vicino a numerosi specchi d'acqua sparsi lungo tutti i versanti delle montagne circostanti.
+<br><br>
+<b>Indirizzo: </b>Passo Del Venano - Schilpario, BG<br>
+<b>Telefono: </b>034655355<br>
+<b>Mail: </b> tagliachiara@virgilio.it<br>
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/rifugio/rifugio-nani-tagliaferri">geoportale.caibergamo.it/rifugio/rifugio-nani-tagliaferri</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.114469,46.055387,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 166 ">
+		<name>VALBONDIONE - Rifugio Barbellino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/166_RifugioBarbellino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Barbellino è situato alla sorgente del fiume Serio a quota 2.130 m nel comune di Valbondione. Nelle strette vicinanze del rifugio si trova l'omonimo "Lago Naturale" con il colore simile all'azzurro intenso del cielo spezzato dalle nevi perenni che circondano il ciglio del lago. E' raggiungibile a piedi da Valbondione seguendo il sentiero n°305-308 e da Lizzola seguendo il sentiero n° 306-308. E' base di numerose escursioni che sfiorano i 3.000 metri (Torena, Diavolo di Malgina, Caronella, Strinato, Gleno, Recastello, Pila, Tagliaferri).
+<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+<b>Telefono: </b>3396165067 <br>
+ 
+<b> Sito internet: </b><a href="www.rifugiobarbellino.com">www.rifugiobarbellino.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.079585,46.076518,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 167 ">
+		<name>VALBONDIONE - Rifugio Curò</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/167_RifugioCur%C3%B2.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Curò è stato il secondo rifugio ad essere inaugurato dal CAI di Bergamo nel 1886, dopo quello di Cà Brunona. E' situato a 1.915 m. nella conca del Barbellino,  un'area escursionisticamente molto interessante per la presenza di una serie di bellissime vette non troppo impegnative, a quote che spesso sfiorano i 3.000 m. La zona fa parte della riserva naturale Belviso-Barbellino e pertanto la fauna alpina pregiata, specialmente nelle conche più appartate, è molto abbondante. Nelle immediate vicinanze si trovano anche le Cascate del Serio, le più alte d'Italia e le seconde d'Europa. 
+<br><br>
+<b>Indirizzo: </b>Località Curò al Barbellino - Valbondione, BG<br>
+<b>Telefono: </b>Rifugio 0346.44.076 ; Gestore 333.10.13.878 (Fabio Arizzi); 328.32.65.100 ( Ghilardini Angelo )<br>
+<b>Mail: </b>info@antoniocuro.it<br>
+<b> Sito internet: </b><a href="www.antoniocuro.it">www.antoniocuro.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.049033,46.061656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 168 ">
+		<name>VALBONDIONE - Ostello al Curò</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/168_OstelloCur%C3%B2.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'ostello al Curò è situato a 1.915 m. s.l.m. nella conca del Bacino del Barbellino, di fronte alle creste del Recastello e del pizzo Coca, mentre sullo sfondo chiude l'ampio panorama la duplice cima del Monte Torena. L'Ostello, situato vicino a laghi artificiali e naturali e a numerose cime che gli fanno da corona (ben 20 cime oltre i 2.700 m.), è snodo per il sentiero delle Orobie, verso il rifugio Tagliaferri oppure il rifugio Albani. <br><br>
+<b>Indirizzo: </b>Località Curò al Barbellino - Valbondione, BG<br>
+ 
+<b>Mail: </b>infostellocuro@gmail.com<br>
+<b> Sito internet: </b><a href="www.ostelloalcuro.it">www.ostelloalcuro.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.046997,46.061376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 169 ">
+		<name>VALBONDIONE - Ostello Lizzola La Posta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/169_OstelloLizzolaLaPosta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situata nel territorio di Valbondione, la struttura, dotata di 25 posti letto, assicura un buon rapporto qualità-prezzo e la possibilità di raggiungere i molteplici rifugi e sentieri presenti nella zona. Gli impianti di risalita si trovano a soli due minuti dalla struttura e permettono, nel periodo invernale, il raggiungimento delle piste da sci di Lizzola. <br><br>
+<b>Indirizzo: </b>Via Don G. Bono 22 - Lizzola di Valbondione, BG<br>
+<b>Telefono: </b>034647603<br>
+<b>Mail: </b>ostlaposta@gmail.com<br>
+<b> Sito internet: </b><a href="www.hostellombardia.net/?post_type=ostello&p=3094">www.hostellombardia.net/?post_type=ostello&p=3094</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.012442,46.02545799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 170 ">
+		<name>VALBONDIONE - Ostello Casa Corti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/170_OstelloCasaCorti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Ostello Casa Corti è situato nel territorio di Valbondione, nella cornice delle più alte vette delle Orobie Bergamasche. Durante l'inverno la struttura offre a tutti gli sportivi la possibilità di sciare sulla pista di sci nordico. La struttura inoltre propone, in collaborazione con una guida alpina, diverse attività per la scoperta del territorio circostante. <br><br>
+<b>Indirizzo: </b>Via Casa Corti 2 - Valbondione, BG<br>
+<b>Telefono: </b>034644654 ; cell. 388 1268817 <br>
+<b>Mail: </b>giada.morandi@gmail.com <br>
+<b> Sito internet: </b><a href="www.ostellovalbondione.com">www.ostellovalbondione.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.000358,46.031346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 171 ">
+		<name>VALBONDIONE - Rifugio Coca</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/171_RifugioCoca.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Coca è situato nel comune di Valbondione, in Val Seriana, a 1.892 metri di quota. Sorge su uno sperone roccioso, in uno dei luoghi più severi e selvaggi delle Orobie all'ingresso della "Conca dei Giganti" per via della valle scavata sotto i massicci più alti delle Alpi Orobie (Pizzo Coca 3.050 m, Pizzo Redorta 3.037 m). L'ambiente selvaggio e severo preserva ancora oggi la fauna locale dove nel periodo estivo è facile incontrare stambecchi e marmotte. Da qui si può raggiungere il lago di Coca a 2.108 m in poco più di 30 minuti. 
+<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+<b>Telefono: </b>Fabrizio 3470867062 ; Silvana 3487316427<br>
+<b>Mail: </b> rifugio.coca@email.it<br>
+<b> Sito internet: </b><a href="www.rifugiococa.it">www.rifugiococa.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.009548,46.05468,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 175 ">
+		<name>OLTRE IL COLLE - Rifugio Capanna 2000</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/175_RifugioCapanna2000.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Capanna 2000 è situato nel territorio di Oltre il Colle, a 1.960 m Posto sulle pendici del monte Arera, offre una vista paesistica su gran parte delle Prealpi Orobie, nonché sull'alta val Seriana e sulla val Serina. E' la base ideale per escursioni di interesse alpinistico e naturalistico, specialmente lungo il "Sentiero dei fiori", lungo il quale è possibile osservare moltissime specie di fiori, che attraversa a quota 2.000 metri i ghiaioni della Val d'Arera e del Mandrone, offrendo un ricco panorama montano, sfiorando alla base le maestose pareti dell'Arera e della Corna Piana, raggiungendo il Passo Branchino.
+<br><br>
+<b>Indirizzo: </b>Alpe Arera - Oltre il Colle, BG<br>
+<b>Telefono: </b>Rifugio: 034595096 ; cell. 3396986367<br>
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/rifugio-capanna-2000">geoportale.caibergamo.it/it/rifugio/rifugio-capanna-2000</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.804245999999999,45.926359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 176 ">
+		<name>ARDESIO - Rifugio Alpe Corte Bassa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/176_RifugioAlpeCorteBassa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Alpe Corte Bassa è situato a 1.410 m di quota nella Valcanale, valle laterale della Val Seriana all'altezza di Ardesio, ed è raggiungibile solo a piedi tramite un'escursione di circa 1 ora. La struttura, immersa in una pineta al cospetto delle ripide pareti dolomitiche, costituisce la prima tappa del Sentiero delle Orobie Orientali ed è la base di partenza per raggiungere il lago Branchino. <br><br>
+<b>Indirizzo: </b>Valcanale - Ardesio, BG<br>
+<b>Telefono: </b>034635090<br>
+<b>Mail: </b>segreteria@caibergamo.it; alpecorte@caibergamo.it<br>
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/rifugio-alpe-corte-bassa">geoportale.caibergamo.it/it/rifugio/rifugio-alpe-corte-bassa</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.824171,45.95764800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 177 ">
+		<name>BRANZI - Rifugio Laghi Gemelli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/177_RifugioLaghiGemelli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio è situato a 1.968 m in alta Valle Brembana, nel Comune di Branzi. Il rifugio e l'omonima località "Laghi Gemelli" prendono il nome da due laghi originari, ora inglobati in un unico grande lago artificiale. Il rifugio è raggiungibile solo tramite escursioni a piedi, a partire da diverse località della Valle Brembana e Seriana, e offre la possibilità sia di pernottare che di gustare piatti tradizionali della Valle.<br><br>
+<b>Indirizzo: </b>Laghi Gemelli - Branzi, BG<br>
+<b>Telefono: </b>034571212 ; cell. 3470411638<br>
+<b>Mail: </b>info@rifugiolaghigemelli.it <br>
+<b> Sito internet: </b><a href="www.rifugiolaghigemelli.it">www.rifugiolaghigemelli.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.803568,45.99294799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 178 ">
+		<name>CARONA - Rifugio Terre Rosse</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/178RifugioTerreRosse.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Terre Rosse, situato in Val Carisole, nell'alta Valle Brembana, ad un'altezza di 1.815 m, è raggiungibile da Carona in seggiovia oppure sia da Carona che da Foppolo a piedi con 1,30 min. di cammino. La cucina propone piatti tipici della tradizione bergamasca.<br><br>
+<b>Indirizzo: </b>Via Carisole - Carona, BG<br>
+<b>Telefono: </b>3420522307 ;  3493785839<br>
+<b>Mail: </b>info@rifugioterrerosse.it<br>
+<b> Sito internet: </b><a href="www.rifugioterrerosse.it">www.rifugioterrerosse.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.785693999999999,46.033444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 179 ">
+		<name>MEZZOLDO - Rifugio Passo San Marco 2000</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/179_RifugioPassoSanMarco2000.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Passo San Marco 2000 è situato sotto l’omonimo passo (1830 m.) che collega la Valle Brembana alla Valtellina. Si trova lungo l'antica Via Priula (secolo XVI), ancora oggi percorribile a piedi, che collegava i territori transalpini con la città di Bergamo e, da lì, con Venezia. Offre una vista sulle Alpi Retiche, le Orobie e le valli circostanti e costituisce il punto di partenza per numerose escursioni. Muovendosi in questo territorio è possibile incontrare i molteplici alpeggiatori presenti, che ancora oggi producono formaggi tradizionali, come il "Bitto" e il "Casera". <br><br>
+<b>Indirizzo: </b>La Cola - Mezzoldo, BG<br>
+<b>Telefono: </b>034586020 ; cell. 349 8048505 - 334 3782632<br>
+<b>Mail: </b>sanmarco2000@live.it<br>
+<b> Sito internet: </b><a href="www.rifugi.lombardia.it/bergamo/mezzoldo/rifugio-passo-s-marco-2000.html">www.rifugi.lombardia.it/bergamo/mezzoldo/rifugio-passo-s-marco-2000.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin02</styleUrl>
+		<Point>
+			<coordinates>9.629721,46.038785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 180 ">
+		<name>RONCOBELLO - Rifugio La Valle del Drago</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/180_RifugioEscursionisticoLaValledelDrago.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio, situato a 900 m., è aperto tutto l'anno e ha sede in un edificio d'epoca ristrutturato. Propone prodotti locali con ingredienti autoprodotti e utilizza carni, salumi e formaggi provenienti da una filiera corta (o a circuito breve) e dispone di un giardino con alberi da frutto, frutti di bosco, erbe aromatiche e erbe spontanee, poiché pone tra i suoi obiettivi prioritari la conoscenza e il rispetto dell'ambiente naturale. A tal fine ha sottoscritto il Protocollo d'intesa per il Marchio di Qualità Ambientale Ecolabel "Legambiente Turismo". <br><br>
+<b>Indirizzo: </b>Via Stella Alpina 36, Loc. Baresi - Roncobello, BG<br>
+<b>Telefono: </b>034584099<br>
+ 
+<b> Sito internet: </b><a href="www.lavalledeldrago.it">www.lavalledeldrago.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.731222000000001,45.952868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 181 ">
+		<name>LENNA - Agriturismo Ferdy</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/181_AgriturismoFerdy.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Agriturismo Ferdy è situato a 500 m d'altitudine, nel comune di Lenna, in Valle Brembana, sulle rive del fiume Brembo.  Propone una cucina locale, utilizzando prodotti dell'azienda agricola . Oltre ai formaggi delle vacche Brune Alpine e delle Capre Orobiche, produce salumi tramite l'allevamento dei propri maiali. <br><br>
+<b>Indirizzo: </b>Via Fienili, Scalvino - Lenna, BG<br>
+<b>Telefono: </b>034582235<br>
+<b>Mail: </b>info@agriturismoferdy.com<br>
+<b> Sito internet: </b><a href="www.agriturismoferdy.com">www.agriturismoferdy.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.669536000000001,45.924554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 182 ">
+		<name>CAMERATA CORNELLO - Rifugio Cespedosio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/182_RifugioCespedosio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Cespedosio, inaugurato nel 2012, è situato sul versante orientale del Monte Venturosa, presso l'omonima frazione di Camerata Cornello. Propone una cucina tradizionale basata su prodotti a km 0 e costituisce la base di partenza per escursioni verso il monte Venturosa (1.999 m) e il monte Cancervo (1.803 m.), così come in direzione di Olmo al Brembo e, proseguendo per Baita Maffenoli, di Piazza Brembana, e verso le baite del Campo (1.440 m.) e dei Campelli, luoghi ancora utilizzati da contadini e pastori. <br><br>
+<b>Indirizzo: </b>Via Cespedosio 1 - Camerata Cornello, BG<br>
+<b>Telefono: </b>3496472491<br>
+<b>Mail: </b>info@comune.cameratacornello.bg.it<br>
+<b> Sito internet: </b><a href="www.rifugi.lombardia.it/bergamo/camerata-cornello/rifugio-cespedosio.html">www.rifugi.lombardia.it/bergamo/camerata-cornello/rifugio-cespedosio.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.649578,45.92601,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 183 ">
+		<name>TALEGGIO - Rifugio Gherardi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/183_RifugioGherardi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Gherardi, sito a quota 1.647 m., è facilmente accessibile dalla frazione Quindicina di Taleggio e offre un'ampia vista paesistica dell'intera valle, offrendo la possibilità di vivere un'esperienza a contatto con la natura.<br><br>
+<b>Indirizzo: </b>Pizzino - Taleggio, BG<br>
+<b>Telefono: </b>034547302 ; Gestore Associazione Alpi Ande Due 035814749 ; 3398128123<br>
+<b>Mail: </b>rifugiogherardi@hotmail.com<br>
+<b> Sito internet: </b><a href="geoportale.caibergamo.it">geoportale.caibergamo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.564798,45.92578400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 184 ">
+		<name>CASSIGLIO - Ostello della Gioventù</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/184_Ostellodellagiovent%C3%B9.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Ostello si trova nel piccolo comune di Cassiglio, nelle Prealpi Orobiche, da dove parte il Sentiero escursionistico delle Orobie Occidentali e possiede un ristorante, che propone piatti tradizionali di montagna.<br><br>
+<b>Indirizzo: </b>Via Del Ponte 1 - Cassiglio, BG<br>
+<b>Telefono: </b>034587347 <br>
+<b>Mail: </b>ostellodicassiglio@virgilio.it <br>
+<b> Sito internet: </b><a href="ostellodicassiglio.blogspot.it">ostellodicassiglio.blogspot.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.610785,45.96663,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 185 ">
+		<name>ORNICA - Albergo diffuso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/185_AlbergodiffusoOrnica.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ornica è un antico borgo montano distante 50 km da Bergamo e posto a 1.000 m. di altitudine, in alta Valle Brembana. All'interno di questo piccolo centro, che ha mantenuto intatto uno stile di vita a misura d'uomo, alcune vecchie abitazioni sono state recuperate e adibite ad alloggi per turisti, creando un innovativo sistema di turismo diffuso coordinati da una reception centrale e legato anche alle pratiche produttive tradizionali. Infatti, tra i pascoli della Val d'Inferno è possibile rivivere le attività d'alpeggio, soggiornando ai piedi del Pizzo dei Tre Signori nelle baite d'alta montagna. <br><br>
+<b>Indirizzo: </b>Via F.lli Calvi 82 - Ornica, BG<br>
+ 
+<b>Mail: </b>info@albergodiffusoornica.com<br>
+<b> Sito internet: </b><a href="www.albergodiffusoornica.it">www.albergodiffusoornica.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.578275,45.988924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 187 ">
+		<name>VALTORTA - Rifugio Grassi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/187_RifugioGrassi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Alberto Grassi è situato a breve distanza del Passo del Camisolo, all'inizio della cresta ovest del Pizzo dei Tre Signori. Domina l'ampio vallone pascolivo del Camisolo, dove ancor oggi si esercita la tradizionale pratica dell'alpeggio con la produzione del formaggio di monte. <br><br>
+<b>Indirizzo: </b>Bocchetta di Camisolo (2000 m) - Valtorta, BG<br>
+<b>Telefono: </b>Anna 3488522784 ; Amos 3394931340 ;  3315697849<br>
+<b>Mail: </b>info@rifugiograssi.it<br>
+<b> Sito internet: </b><a href="www.rifugiograssi.it">www.rifugiograssi.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.491764999999999,46.009405,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 336 ">
+		<name>CASTIONE DELLA PRESOLANA - Camping Presolana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/336_CampingPresolana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'International Camping Patrice è situato a quota 1000 m., nel territorio di Castione della Presolana, e offre servizi per un turismo prevalentemente familiare. Grazie alla sua posizione strategica, offre possibilità di brevi escursioni nelle vicine località montane.<br><br>
+<b>Indirizzo: </b>Via Cantoniera 18 - Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.072202,45.923969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 339 ">
+		<name>ISOLA DI FONDRA - Campeggio San Simone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/339_CampeggioSanSimone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Campeggio San Simone è situato nel piccolo centro abitato di Isola di Fondra, in Alta Val Brembana. Nei dintorni sono presenti numerosi itinerari escursionistici, oltre che la possibilità di fare passeggiate in mountain bike o a cavallo. Sono facilmente raggiungibili le piste da sci di Foppolo, San Simone e Carona e le piste di sci di fondo.<br><br>
+<b>Indirizzo: </b>Via Piazzola 2 - Isola di Fondra, BG<br>
+<b>Telefono: </b>034571332<br>
+<b>Mail: </b>campingsansimone@libero.it<br>
+<b> Sito internet: </b><a href="www.campingsansimone.it">www.campingsansimone.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.752404,45.98349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 536 ">
+		<name>VALBONDIONE - Rifugio Baroni al Brunone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/536_RifugioBaronialBrunone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Baroni al Brunone, localizzato a circa 2.300 m, è uno dei più alti delle Orobie. Situato tra il Pizzo del Diavolo di Tenda e il Pizzo Redorta, permette di raggiungere le maggiori elevazioni delle Orobie, che superano i 3.000 m e conservano tra i loro anfratti ancora qualche piccolo apparato glaciale. É il più antico rifugio della Bergamasca ed è intitolato alla guida alpina Antonio Baroni, uno dei pionieri dell'alpinismo orobico. <br><br>
+<b>Indirizzo: </b>Fiumenero - Valbondione, BG<br>
+<b>Telefono: </b>034641235<br>
+<b>Mail: </b>marcobrigno@libero.it<br>
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/rifugio-baroni-al-brunone">geoportale.caibergamo.it/it/rifugio/rifugio-baroni-al-brunone</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.960651,46.062156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 537 ">
+		<name>ORNICA - Rifugio Benigni</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/537_Rifugio_Benigni.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Benigni, localizzato a quota 2.200 m, si trova sull'estremità più elevata della Valle di Salmurano, in prossimità del Lago Piazzotti, all'interno di un pianoro che permette di ammirare le Alpi Centrali e le Orobie. <br><br>
+<b>Indirizzo: </b>Lago Piazzotti - Ornica, BG<br>
+<b>Telefono: </b>034589033<br>
+<b>Mail: </b>rifugiobenigni@tiscali.it<br>
+<b> Sito internet: </b><a href="www.caialtavallebrembana.it/lista.php/it/rifugi/533">www.caialtavallebrembana.it/lista.php/it/rifugi/533</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.561624,46.021515,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 538 ">
+		<name>CARONA - Rifugio F.lli Calvi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/538_RifugioF.lliCalvi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio F.lli Calvi si trova nel territorio di Carona, al centro di una delle conche più belle dell'arco Orobico, a cui fanno capo tutte le maggiori elevazioni della Val Brembana, la tra le quali spicca la cuspide del Diavolo di Tenda. Il rifugio costituisce la base per di partenza per salite escursionistiche e alpinistiche. <br><br>
+<b>Indirizzo: </b>Conca del Calvi - Carona, BG<br>
+<b>Telefono: </b>034577047<br>
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/rifugio-fratelli-calvi">geoportale.caibergamo.it/it/rifugio/rifugio-fratelli-calvi</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.876586,46.023485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 539 ">
+		<name>CARONA - Rifugio F.lli Longo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/539_RifugioF.lliLongo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio F.lli Longo è situato a circa 2.000 m, nel territorio di Carona, lungo un itinerario escursionistico secondario. Da tale sito è possibile raggiungere il monte Aga, così come la Val d'Ambria  in Valtellina  per raggiungere il rifugio Mambretti nella valle di Scais.<br><br>
+<b>Indirizzo: </b>Lago del Diavolo - Carona, BG<br>
+<b>Telefono: </b>3383192051<br>
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/rifugio-fratelli-longo">geoportale.caibergamo.it/it/rifugio/rifugio-fratelli-longo</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.861687,46.040069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 540 ">
+		<name>COLERE - Rifugio Luigi Albani</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/540_RifugioLuigiAlbani.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il rifugio Albani si trova in località Lago del Polzone, a circa 2.000 m, vicino agli impianti di risalita del comprensorio di Colere. Situato sotto la parete della Presolana, costituisce l'ultima tappa del Sentiero delle Orobie e la base di partenza per i percorsi d'arrampicata lungo la parete Nord della Presolana, nonché transito per la via ferrata del Passo della Porta. Attraverso il Passo dello Scagnello, il rifugio collega la Val di Scalve alla Val Seriana Superiore, tramite la Valzurio.<br><br>
+<b>Indirizzo: </b>Lago del Polzone - Colere, BG<br>
+<b>Telefono: </b>34651105<br>
+ 
+<b> Sito internet: </b><a href="www.rifugioalbani.com">www.rifugioalbani.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.055831,45.96655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 575 ">
+		<name>GORNO - Rifugio Alpe Grem</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/575_RifugioAlpeGrem.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Baita Alpe Grem è situato sulle pendici meridionali del Monte Grem a 1.190 m, tra l'Alta Valle Seriana e la Val del Riso. Il rifugio è stato ricavato dalla vecchia casa del sorvegliante (caporal) costruita nel 1937 in località "Spini" sull'alpe Grem, dove sono ancora ben visibili gli scavi e gli scarichi delle miniere di calamina d'un tempo. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+<b>Telefono: </b>3337237201<br>
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.825438,45.879818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 577 ">
+		<name>VALGOGLIO - Baita Cernello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/577_BaitaCernello.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Baita Cernello è situato in Valgoglio nei pressi dell'omonimo lago. Negli anni 50 era una costruzione di servizio per gli operai che lavoravano nella realizzazione della vicina diga. In seguito venne utilizzato dai pastori come ricovero per le mandrie. Infine nel 1978 è stato risistemato e trasformato in rifugio.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+<b>Telefono: </b>330931419<br>
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/baita-cernello">geoportale.caibergamo.it/it/rifugio/baita-cernello</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.886953999999999,46.002087,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 579 ">
+		<name>PREMOLO -Baita Golla</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/579_BaitaGolla.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Baita Golla è situato in località Baitello della Golla, sul versante sud dell'omonimo monte, a 1756 mt. <br><br>
+<b>Indirizzo: </b>Premolo, BG<br>
+<b>Telefono: </b>035732766<br>
+<b>Mail: </b>caileffe@alice.it <br>
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.835279,45.90141,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 581 ">
+		<name>VALGOGLIO - Baita Lago Nero</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/581_BaitaLagoNero.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Rifugio Baita Lago Nero è situato in Valgoglio poco sotto la diga che chiude l'omonimo lago artificiale, costruito all'inizio degli anni Venti dall' Azienda Elettrica Crespi e C. Nella stessa vallata troviamo altri quattro bacini artificiali (Lago di Aviasco, Campelli, Sucotto e Cernello) di cui il Lago Nero è il maggiore.  La Baita è meta facilmente raggiungibile dai rifugi Laghi Gemelli e Calvi, permettendo così una varietà di escursioni in ambiente particolarmente suggestivo. E' gestita dalla Sottosezione CAI di Ardesio Alta Valle Seriana.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+<b>Telefono: </b>34634550<br>
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/rifugio/baita-lago-nero">geoportale.caibergamo.it/it/rifugio/baita-lago-nero</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.878119,45.997288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 582 ">
+		<name>GORNO - Baita Mistri</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/582_BaitaMistri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Baita Mistri, a 1.800 m di altitudine, era originariamente una baracca ad uso dei minatori che lavoravano nella zona. Nel 1908 è stata trasformata in rifugio per gli escursionisti dopo la cessazione dei lavori inerenti l'attività mineraria nella Valle dell'Orso, sull'alpe Grem. 
+<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it ">www.ecomuseominieredigorno.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.825987,45.901166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 584 ">
+		<name>MEZZOLDO - Bivacco Alberto Zamboni</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/584_BivaccoAlbertoZamboni.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il bivacco Zamboni si trova a circa 1.000 m, nell'area dell'ex Foresta di Lombardia Azzaredo-Casù, costituita ormai in prevalenza da pascoli. La morfologia del versante è uniforme, con prevalenza di abete bianco e rosso e sporadica presenza di faggio e latifoglie minori. I fabbricati del bivacco sono utilizzati per l'attività casearia d'alpe, con la produzione del formaggio D.O.P. "Bitto", cui si affianca l'attività turistica, grazie al sentiero 101 denominato "Sentiero delle Orobie". Il bivacco, infatti, è accessibile a piedi in circa due ore a partire dalla località Madonna delle Nevi o da Mezzoldo, lungo il sentiero 124. <br><br>
+<b>Indirizzo: </b>Mezzoldo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.caialtavallebrembana.it/lista.php/it/rifugi/533">www.caialtavallebrembana.it/lista.php/it/rifugi/533</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.662788000000001,46.057186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 585 ">
+		<name>VALBONDIONE - Bivacco Aldo Frattini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/585_BivaccoAldoFrattini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il bivacco Aldo Frattini, situato nel comune di Valbondione, è una costruzione in metallo posizionata dal CAI di Bergamo sulla cresta che divide la Valsecca dalla valle dei Piani del Campo, subito sotto il passo di Valsecca.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/rifugi-e-bivacchi">geoportale.caibergamo.it/rifugi-e-bivacchi</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.922483,46.042651,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 586 ">
+		<name>ONETA - Bivacco Nembrini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/586_BivaccoNembrini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Bivacco Nembrini è situato a 1.760 m sul Monte Alben, lungo il sentiero 501 che da Zambla Alta va verso il Passo della Crocetta. Il monte Alben (2.019 m) è situato lungo il crinale che separa la valle Brembana dalla valle Seriana, in provincia di Bergamo. È formato alla sommità da una cresta che si allunga da est a ovest e la vetta più elevata si trova sul lato est. <br><br>
+<b>Indirizzo: </b>Oneta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/rifugi-e-bivacchi">geoportale.caibergamo.it/rifugi-e-bivacchi</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.781192000000001,45.870771,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 587 ">
+		<name>GORNO - Bivacco Telini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/587_BivaccoTelini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il bivacco Telini è posto sulla cima di "Preda Balaranda" ad un'altezza di metri 1.647, nel territorio del comune di Premolo, sul dorso dei monti Grem e Golla. E' situato in posizione dominante sulla Valle del Riso, da cui si gode un ottimo panorama verso le montagne che gli fanno da corona. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scenariorobici.it/Valseriana/BivaccoTelini_02032013/gallery-dark.html">www.scenariorobici.it/Valseriana/BivaccoTelini_02032013/gallery-dark.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.833049000000001,45.891804,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 590 ">
+		<name>VALBONDIONE - Campeggio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/590_Campeggio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Campeggio Valbondione si trova in alta Valle Seriana, nel cuore delle montagne bergamasche, ad una quota di 890 m, ai piedi delle più alte vette delle Orobie, circondato da prati e pinete alla confluenza dei fiumi Serio e Bondione. Questo campeggio rappresenta una buona base di partenza per i rifugi Brunone, Coca, Curò e Barbellino oppure per ammirare le Cascate del Serio. Inoltre sono facilmente raggiungibili le gli impianti di risalita di Lizzola e degli Spiazzi di Gromo.
+<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.campeggiovalbondione.it">www.campeggiovalbondione.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>10.000767,46.030813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 645 ">
+		<name>ORNICA - Agriturismo Ferdy d&apos;Alpe</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/645_ferdydalpe.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'agriturismo nasce nell'antica sede della Casera della Valle d'Inferno, nel comune di Ornica, a circa 1.400 m. ai piedi del Pizzo Tre Signori. E' possibile soggiornarvi all'interno di una baita, di uno chalet rustico o presso l'Agricampeggio, e assistere alla preparazione del "Formai de Mut", il tradizionale formaggio locale. La struttura mira alla cura e alla valorizzazione del territorio, proponendo prodotti locali frutto di conoscenze e di tradizioni secolari.<br><br>
+<b>Indirizzo: </b>Val d'Inferno - Ornica, BG<br>
+<b>Telefono: </b>034582235<br>
+<b>Mail: </b>info@agriturismoferdy.com<br>
+<b> Sito internet: </b><a href="www.agriturismoferdy.com">www.agriturismoferdy.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin020</styleUrl>
+		<Point>
+			<coordinates>9.558465999999999,45.999301,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

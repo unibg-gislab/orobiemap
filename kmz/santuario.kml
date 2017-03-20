@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>santuario</name>
+	<Style id="s_ylw-pushpin_hl42">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/santuario_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin43">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/santuario_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 43 ">
+		<name>TALEGGIO - Santuario di Salzana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/43_SantuariodiSalzana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo suggestivo santuario si trova nella frazione di Pizzino. La denominazione "Salzana" indicherebbe la presenza in loco di sorgenti saline ("salse"). Il santuario fu edificato nel 1466 per volontà del popolo della valle, colpito dallo smottamento del 1359. Del borgo si salvò soltanto una santella raffigurante la Madonna con il bambino, reliquia che rappresenta un importante elemento della storia religiosa ed artistica della Val Taleggio. 
+Il Santuario, situato in un'area esterna all'abitato, è luogo di celebrazioni in specifici periodi dell'anno (maggio, 15 agosto e luglio) a testimonianza della sacralità del luogo immerso nella natura. 
+<br><br>
+<b>Indirizzo: </b>Pizzino - Taleggio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.561659000000001,45.901401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 56 ">
+		<name>SANTA BRIGIDA - Santuario Beata Vergine Addolorata</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/56_SantuarioBeataVergineAddolorata.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo santuario in stile romanico risale al XI secolo. Gli interventi di restauro hanno mantenuto la semplicità dell'edificio ed è ancora possibile ammirare gli  affreschi che ricoprono il portico dell'entrata.<br><br>
+<b>Indirizzo: </b>Via Pascoli - Santa Brigida, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.621537,45.981584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 228 ">
+		<name>ORNICA - Santuario della Madonna del Frassino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/228_SantuariodellaMadonnadelFrassino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L' edificazione di questo santuario è legata alla leggenda di un viandante che, catturato da dei banditi e legato ad un frassino, chiese aiuto alla Madonna; in seguito alla sua liberazione, decise di far erigere una cappelletta. La struttura fu successivamente ampliata fino alle dimensioni attuali e al suo interno sono custodite alcune opere artistiche di pregio.<br><br>
+<b>Indirizzo: </b>Strada Provinciale - Ornica, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseodiornica.com">www.ecomuseodiornica.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.575081000000001,45.990546,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 231 ">
+		<name>OLMO AL BREMBO - Santuario Madonna dei Campelli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/231_SantuarioMadonnadeiCampelli.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La costruzione del santuario ricorda l'episodio miracoloso di cui fu protagonista uno dei numerosi viandanti che percorrevano la via Priula.  Il racconto vuole che il viandante, invocando la Madonna mentre veniva disarcionato da cavallo, venne salvato dalla caduta in un precipizio; così nel XVII secolo venne edificato il santuario che ricorda questo avvenimento miracoloso.<br><br>
+<b>Indirizzo: </b>Via ai Campelli - Olmo al Brembo, BG<br>
+<b>Telefono: </b>034587002<br>
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.656340999999999,45.96302899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 266 ">
+		<name>TALEGGIO - Madonna degli Asturi - Peghera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/266_MadonnadegliAsturi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta della Madonna degli Asturi, costruita verso la fine del '700, è localizzata nella frazione di Peghera, dove esiste un bell'esempio di architettura contadina, in particolare in una casa del '300. La festa della Madonna dall'Annunciazione (25 marzo), è stata recentemente abbinata a quella dell'Assunta (5 agosto) tenendo conto dell'esodo migratorio che ritorna al paese natale. Vi si conserva la statua lignea dorata del '700 che rappresenta l'Immacolata, portata in processione per l'Assunta. <br><br>
+<b>Indirizzo: </b>Fraz. Peghera - Taleggio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.574068000000001,45.872542,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 267 ">
+		<name>ARDESIO - Santuario Madonna Delle Grazie</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/267_SantuarioMadonnaDelleGrazie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Santuario dedicato alla Madonna delle Grazie sorge poco sopra Piazza Moretto. Tale collocazione rimanda ad un evento miracoloso seicentesco fatto risalire all'apparizione della Madonna. La collocazione dei Santuari nelle aree montane hanno sempre un forte valore simbolico dal momento che tali edificazioni religiose o richiamano puntualmente avvenimenti legati alla fede cristiana, o rimandano in modo più generico ad una sacralità legata alla natura.<br><br>
+<b>Indirizzo: </b>Sagrato del Santuario - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.santuarioardesio.it">www.santuarioardesio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.943567,45.941504,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 283 ">
+		<name>VALGOGLIO -  Santa Maria Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/283_SantaMariaAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Risalente al XV secolo, l'edificio presenta al suo esterno un porticato affrescato con archi a tutto sesto. All'interno sono visibili le tracce di affreschi dell'antica chiesa, di cui il presbiterio conserva un ciclo decorativo inspirato alla vista della Madonna risalente al Seicento. <br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.912281999999999,45.975826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 286 ">
+		<name>GANDELLINO - Chiesa di S. Maria Nascente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/286_SantaMariaNascente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa parrocchiale di Santa Maria Nascente sorge su un colle nella frazione di Gromo San Marino del comune di Gandellino; l'edificio era anticamente annessa a un convento risalente al XIV secolo. All'interno, tra alcuni dipinti di pregio, spicca uno dei più antichi cicli d'affreschi della valle, risalente al Quattrocento.<br><br>
+<b>Indirizzo: </b>Via Bocchetta 3 - Gandellino, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.946108000000001,45.99911900000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 287 ">
+		<name>LENNA - Santuario Madonna della Coltura</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/287_SantuarioMadonnadellaColtura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>In un ampio prato, a ridosso del Bosco, sorge questo santuario, edificato verso il 1600 in seguito al miracolo dell'apparizione della Madonna. La tradizione orale narra che un tempo sorgeva in quello stesso punto una fucina, "la fucina da Gromo" e un giorno un fanciullo, che lavorava come garzone per il fabbro, vide apparire la Madonna. Tuttavia il toponimo Coltura, si riferisce alla coltura del gelso per il baco da seta, un'antica pratica diffusa in tutta l'alta valle a partire dall'800.<br><br>
+<b>Indirizzo: </b>Via coltura - Lenna, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.687296999999999,45.942669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 300 ">
+		<name>CUSIO - Santuario di Sant&apos;Alberto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/300_santuariosantalberto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Santuario di Sant'Alberto, di epoca medioevale, si trova immerso nel verde a lato del paese di Cusio. Questo luogo custodisce importanti opere dei Rovelli, una delle famiglie di intagliatori attivi fra il XVII e XVIII secolo, autori di opere di intarsio di grande pregio.<br><br>
+<b>Indirizzo: </b>Cusio, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.606498,45.99104500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 323 ">
+		<name>CASSIGLIO - Santuario dell&apos;Immacolata</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/323_Santuariodell%60Immacolata.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Santuario dell'Immacolata, costruito nel 1630 durante la diffusione della peste nera che colpì questa vallata, è situato all'inizio del paese di Cassiglio. Situato in posizione privilegiata su un'altura che domina la vallata, era meta di processioni individuali e collettive.<br><br>
+<b>Indirizzo: </b>via Roma 2 - Cassiglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.618086999999999,45.967432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 379 ">
+		<name>CASTIONE DELLA PRESOLANA - Santuario di Lantana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/379_santuarioLantana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa sorge sull'area di un vecchio oratorio dedicato a San Silvestro. Costruita tra il XIII - XV secolo e ampiamente rimaneggiata nel secolo scorso, conserva due dipinti quattrocenteschi. Localizzata fuori dal centro abitato è oggi luogo di una celebrazione religiosa annuale in agosto.<br><br>
+<b>Indirizzo: </b>via Lantana, Dorga - Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>10.071655,45.912955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 382 ">
+		<name>CLUSONE - Santuario di Santa Maria del Paradiso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/382_Chiesadelparadiso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di Santa Maria del Paradiso fu costruita nel 1495 e ristrutturata varie volte prima nel '500 e poi nei secoli XVIII e XIX. La facciata austera si contrappone ad un interno ricco di dipinti e opere di scultori, cesellatori e intagliatori clusonesi.<br><br>
+<b>Indirizzo: </b>Piazza Del Paradiso 2 - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.944697,45.889503,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 383 ">
+		<name>COLERE - Santuario della Madonnina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/383_santuariomadonnina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Santuario della Madonnina di Colere è situato a 500 metri da Dezzo, salendo verso Schilpario. Secondo la tradizione, l'edificio sorge sul luogo di una cappella del Quattrocento molto venerata, dove apparve la Vergine a un pastore di Borno malato di tubercolosi che si fermò a pregare mentre pascolava le pecore. Il santuario e la cappella vennero distrutti da una rovinosa frana del Gleno nel 1923, ma subito dopo ricostruiti dagli abitanti di Colere. Situato tra i pascoli, il santuario è ancora oggi un importante punto di riferimento per la comunità locale.<br><br>
+<b>Indirizzo: </b>Via Papa Giovanni XXIII - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>10.098287,45.98594600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 401 ">
+		<name>ONETA - Santuario della Madonna del Frassino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/401_SantuariodellaMadonnadelFrassino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel comune di Oneta, alle pendici dell'Alben nella Valle del Riso, sorge il Santuario della Madonna del Frassino. Il nome del luogo deriva dall'antico toponimo "Frasen", ad indicare probabilmente la presenza di un frassino.<br><br>
+<b>Indirizzo: </b>Via Santuario 13 - Oneta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.803939,45.871104,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 558 ">
+		<name>SAN GIOVANNI BIANCO - Madonna del Carmelo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/558_MadonnadelCarmelo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella frazione di Oneta all'interno della Chiesa del carmine è conservato il dipinto della Madonna del Carmelo, opera di Carlo Ceresa, pittore nato nella contrada Grabbia di San Giovanni Bianco nel 1609. La piccola chiesetta, situata lungo la via Mercatorum, antica strada cavalcatoria che collegava la città di Bergamo con la Val Brembana, raggiungendo la Val Seriana, conserva tracce di affreschi interni e nel portico esterno del '400.  <br><br>
+<b>Indirizzo: </b>Oneta - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>A metà luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 559 ">
+		<name>SAN GIOVANNI BIANCO - Madonna della Pietà</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/559_MadonnadellaPieta_pianca.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella frazione di Pianca, situata sotto il Monte Cancervo, si trova una chiesa che conserva, nella cappella fatta erigere nel 1700 dai Rota, una prestigiosa famiglia locale, il quadro della Madonna della Pietà, venerato dagli abitanti. Questo è uno dei numerosi santuari mariani presenti nella valle, a testimonianza della forte religiosità popolare. Inoltre, nell'edificio si trovano affreschi del '400-500, numerose tele, fra cui SS. Rocco, Sebastiano e Girolamo del Ceresa ('600) e una statua di S. Antonio Abate, in legno policromo del '400.<br><br>
+<b>Indirizzo: </b>Pianca - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Prima domenica di luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 560 ">
+		<name>GORNO - Santuario del SS Crocifisso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/560_SantuarioCrocifisso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Cristo Crocifisso è oggi custodito in una chiesa risalente all'inizio del XX secolo,  costruita in sostituzione di una "tribulina" che conservava precedentemente il Cristo. Il santuario a croce greca è di stile gotico-lombardo. Di fronte alla chiesa esisteva un portichetto sotto cui passava la strada carrozzabile della Valle del Riso, che  venne successivamente demolito per permettere un ampliamento stradale. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it">www.ecomuseominieredigorno.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.857374,45.85858,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 561 ">
+		<name>PARRE - Santuario della SS Trinità</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsenaturaliculturali/santuari/561_SantuariodellaSSTrinita.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sulla sommità del monte C?sen dove già probabilmente esisteva un'edicola o una cappella semidistrutta, si erge oggi l'oratorio della S.S Trinità. Il primo documento che ne attesta l'esistenza riguarda la visita del vescovo Cornaro del 1565.  All'interno è conservato l'affresco della Madonna col Bambino, che da quasi cinque secoli attira la devozione dei fedeli. La sua localizzazione, in posizione panoramica e fuori dal cento abitato testimonia il modo attraverso cui i valligiani hanno concepito nel tempo l'unitarietà tra religione e natura e il rapporto dell'uomo con la montagna.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoparre.com">www.prolocoparre.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.884675,45.88203299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 679 ">
+		<name>SAN GIOVANNI BIANCO - Santuario Costa San Gallo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/679_Santuario_costasangallo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il santuario della Madonna fu eretto a Costa San Gallo, nel comune di San Giovanni Bianco, in seguito a diversi avvenimenti prodigiosi legati all'immagine della Vergine. L'interno dell'edificio presenta eleganti linee in stile barocco.<br><br>
+<b>Indirizzo: </b>Costa San Gallo-Santuario - San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin43</styleUrl>
+		<Point>
+			<coordinates>9.666134,45.87692,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

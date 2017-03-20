@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="0">
+	<name>tin</name>
+	<Snippet maxLines="0"></Snippet>
+	<drawOrder>1000</drawOrder>
+	<Icon>
+		<href>http://www.orobiemap.it/hill/hill.png</href>
+	</Icon>
+	<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+	<LatLonBox>
+		<north>46.158224</north>
+		<south>45.357357</south>
+		<east>10.343943</east>
+		<west>9.366106</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

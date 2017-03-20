@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>morfologico</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/morfologico_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/morfologico_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 1 ">
+		<name>VALTORTA - Marmitte dei Giganti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/1_MarmittedeiGiganti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val d'Ancogno è percorsa da un torrente che a quota 1.115 m forma le caratteristiche "Marmitte dei Giganti". Queste affascinanti conformazioni presenti nei torrenti si formano in seguito all'attività erosiva dei ciottoli trasportati dall'acqua e sono caratterizzate da una cavità di forma sferica; il termine "marmitta", cioè "pentola", deriva infatti dalla loro particolare forma.<br><br>
+<b>Indirizzo: </b>Torrente Ancogno - Valtorta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.570748999999999,45.957031,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 57 ">
+		<name>SERINA - Carsismo superficiale Monte Zucco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/57_MonteZucco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Zucco, come altri rilievi della Valle Brembana, è interessata da fenomeni di tipo carsico, dove l'acqua agisce chimicamente sulle pareti rocciose, modificandone la superficie.<br><br>
+<b>Indirizzo: </b>Monte Zucco - Serina, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.705572999999999,45.857539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 66 ">
+		<name>SAN PELLEGRINO TERME - Grotte del sogno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/66_Grotte%20del%20sogno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella località Vetta San Pellegrino Terme è possibile visitare le famose Grotte del sogno, meta escursionistica di grande interesse. La visita alle grotte, scoperte nel 1931 e riaperte di recente, dura circa 30 minuti e prevede un percorso in salita composto da umidi cunicoli e affascinanti stalattiti.<br><br>
+<b>Indirizzo: </b>Loc. Vetta - San Pellegrino Terme, BG<br>
+<b>Telefono: </b>034521020<br>
+<b>Mail: </b>info@turismosanpellegrinoterme.it<br>
+<b> Sito internet: </b><a href="www.grottedelsogno.altervista.org">www.grottedelsogno.altervista.org</a><br>
+ 
+<b>Info: </b>Visitabili il sabato, la domenica e nei giorni festivi dalle 13,30 alle 18. Negli altri giorni e orari solo su prenotazione (0345.21020) con almeno cinque persone. Il contributo minimo richiesto è di quattro euro per adulto e di tre per i bambini fino a dieci anni (riduzioni per i gruppi).<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.656354,45.84229300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 188 ">
+		<name>VALBONDIONE - Cascate del Serio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/188_cascateserio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Con i loro 315 m. di altezza, le cascate del Serio rappresentano le più alte d'Italia e le seconde in Europa. Il triplice salto delle cascate ha origine da un dislivello di 166 m. Prima del 1931, anno di costruzione della diga, per scendere verso valle era necessario percorrere il lato sud del sovrastante piano del Barbellino.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+<b>Telefono: </b>Consorzio Turistico Valbondione tel. 034644665<br>
+<b>Mail: </b>info@turismovalbondione.it <br>
+<b> Sito internet: </b><a href="www.turismovalbondione.it/cascate_serio.php">www.turismovalbondione.it/cascate_serio.php</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.036375,46.06166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 190 ">
+		<name>SCHILPARIO - Cascata del Vo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/190_CascatedelVo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il torrente del Vò scorre lungo l'omonima valle, diramazione occidentale della Val di Scalve, e la sua cascata rappresenta uno spettacolo molto suggestivo.  Durante il periodo invernale la cascata ghiaccia e si trasforma in una parete molto apprezzata dagli arrampicatori.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.141555,46.03096299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 194 ">
+		<name>OLTRESSENDA ALTA -  Marmitte dei Giganti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/194_marmittevalzurio.JPG"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Valzurio si sviluppa lungo il torrente Ogna, che sorge dalle pendici del pizzo della Presolana, partendo dall'antico borgo che porta lo stesso nome. Lungo questo corso d'acuqa è possibile osservare le "Marmitte dei Giganti", conformazioni che si formano nei torrenti in seguito all'attività erosiva dei ciottoli trasportati dall'acqua, caratterizzate da una cavità di forma sferica. Il termine "marmitta", cioè "pentola", deriva infatti dalla loro particolare forma. La Valzurio è situata nell'incantevole anfiteatro naturale del Möschel, ed è raggiungibile percorrendo il cammino conosciuto come "strada delle sette coste", che offre una suggestiva visuale dell'intera valle.<br><br>
+<b>Indirizzo: </b>Valzurio - Oltressenda Alta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.015285,45.95268100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 195 ">
+		<name>VALBONDIONE - Toboga di Fiumenero</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/195_TobogadiFiumenero.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A ridosso del piccolo paese di Fiumenero, frazione di Valbondione, il torrente e il ghiacciaio hanno scavato una forra ricca di acqua che deriva dalla confluenza di più torrentelli che scendono dai monti circostanti. Il corso d'acqua percorre le alte pareti di roccia e l'ambiente è dominato da cascate e marmitte, divenendo via via più tranquillo e regolare. L'azione erosiva ha così modellato il paesaggio, dando origine a curiosi fenomeni geologici: tra i tanti, una pozza profonda circa 2 metri, piscine naturali di acqua cristallina, cascatelle e toboga, scivoli naturali scavati dallo scorrere dell'acqua. In circa 10 minuti a piedi, partendo dal parcheggio del parco giochi di Fiumenero, si raggiungono alcune pozze che sono l'inizio di un percorso attrezzato in cui praticare attività di canyoning con l'assistenza di guide alpine qualificate.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.95088,46.023405,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 201 ">
+		<name>CARONA - Cascata di Valsambuzza</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/201_CascatadiValsambuzza.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La cascata di Valsambuzza si trova vicino al Borgo di Pagliari, nel comune di Carona, nel punto in cui le acque della Valle omonima confluiscono nel fiume Brembo. In questo punto si apre la Val Sambuzza, una tributaria della Val Brembana, che si estende a nord fino alla conca delimitata dal Monte Chierico, dal Passo di Publino, dal Pizzo Zerna e dal Monte Masoni, mentre al centro si trovano il Lago di Valle Sambuzza e i Laghi di Caldirolo.<br><br>
+<b>Indirizzo: </b>Carona, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.81331,46.025828,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 207 ">
+		<name>VEDESETA - Abisso della Remola</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/207_AbissodellaRemola.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Oltre gli orridi di Taleggio, risalendo il corso del torrente Enna e superando le sue sorgenti, è possibile raggiungere un orrido di grande imponenza, lungo ed inaccessibile, conosciuto come il canyon della Remola. Le alte pareti della montagna si stringono tra abissi vertiginosi e ponticelli sospesi nel vuoto, fino alle porte di Morterone.<br><br>
+<b>Indirizzo: </b>Vedeseta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.498381,45.88360500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 211 ">
+		<name>SAN GIOVANNI BIANCO - Orrido della Val Taleggio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/211_OrridodellaValTaleggio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Orrido della Val Taleggio, chiamato anche Orrido dei Serrati o anche Orrido di San Giovanni Bianco, è una gola lunga circa 3 km scavata dal torrente Enna nel suo tratto finale, ed è situato nella bassa Val Taleggio, tra i monti Cancervo e Sornadello. Nonostante il susseguirsi di curve che seguono il corso dell'Enna e di ponticelli che lo scavalcano, l'orrido è percorribile pressoché con ogni veicolo, grazie alla strada tracciata a inizio '900. Di forte suggestività è l'attraversamento dell'orrido a piedi.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.org">www.sangiovannibianco.org</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.599572,45.886264,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 217 ">
+		<name>PIAZZATORRE - Arco del Pegherolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/217_ArcodelPegherolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Arco di Pegherolo trae origine da un fenomeno di carsismo che nel tempo ha prodotto, all'interno del massiccio, una cavità sotterranea. Le successive fasi erosive hanno portato in superficie un lembo di questa grotta, facendo scomparire la parte del condotto posta sottoterra. <br><br>
+<b>Indirizzo: </b>Piazzatorre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.piazzatorre.bg.it">www.comune.piazzatorre.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.67888,46.031822,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 497 ">
+		<name>SAN GIOVANNI BIANCO - Monte Cancervo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/497_monteCancervo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il carsismo superficiale si manifesta con depressioni di varie forme e dimensioni, sviluppandosi sulla superficie degli ammassi rocciosi. Sul monte Cancervo si possono ammirare le doline, depressioni con forma di conca, sulle sue superfici rocciose.<br><br>
+<b>Indirizzo: </b>Monte Cancervo - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.621180000000001,45.910311,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 498 ">
+		<name>SAN PELLEGRINO TERME - Carsismo Monte Zucco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/498_pinnacolimontezucco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Zucco è una montagna delle Prealpi Orobiche alta 1.232 m, che si trova nella parte sud del Gruppo del Sornadello. Raggiungendo la zona dei Foppi, in cui si trova una cappelletta, nelle vicinanze del piccolo Rifugio del C.A.I. di Zogno, si apre un'area in cui si possono osservare i risultati dell'azione erosiva dell'acqua con fenomeni carsici superficiali, quali guglie e pinnacoli.<br><br>
+<b>Indirizzo: </b>San Pellegrino Terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.656819000000001,45.821016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 499 ">
+		<name>VEDESETA - Il Corno Zoccone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/499_CornoZoccone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Corno Zuccone è una delle montagne delle Prealpi Bergamasche, alta 1.458 m, di recente formazione e composta da dolomia principale. Con la sua forma ad artiglio, domina la Val Taleggio, mentre dal suo versante occidentale nasce il torrente Chignolo. Anche questo, come altri rilievi della Val Brembana, presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano l'aspetto geologicamente più interessante della zona, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>Vedeseta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.540984,45.89092600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 501 ">
+		<name>CASTIONE DELLA PRESOLANA - Valle dei mulini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/501_Valledeimulini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Valle dei Mulini è una delle valli che scendono da Castione della Presolana e si caratterizza per la ricchezza d'acqua che, nel passato, veniva utilizzata per alimentare i cinque mulini che sorgevano lungo il torrente. Questa valle costituisce un luogo di interesse idrogeologico, grazie alla presenza di sovrascorrimenti, tipiche delle formazioni montuose costituite da sedimenti calcareo-dolomitici di origine marina, che presentano delle fratture nella roccia con il loro relativo slittamento orizzontale.<br><br>
+<b>Indirizzo: </b>Castione della Presolana, BG<br>
+<b>Telefono: </b>Turismo Presolana, ufficio di Castione della Presolana tel. 034660039<br>
+<b>Mail: </b>info@presolana.it<br>
+<b> Sito internet: </b><a href="www.presolana.it">www.presolana.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.036795,45.91454300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 502 ">
+		<name>SAN GIOVANNI BIANCO - Orrido della Val Parina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/502_OrridoValParina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'orrido della Val Parina è lungo circa 500 metri, con una larghezza media di 2 - 3 metri e pareti che salgono quasi in verticale per  50 - 100 metri. E' raggiungibile in circa 5 - 6 ore, partendo da Scalvino di Lenna, da Zorzone di Oltre il Colle o da Lavaggi di Dossena. E' possibile osservare le marmitte dei giganti, gorghi e cascatelle.<br><br>
+<b>Indirizzo: </b> San Giovanni Bianco, BG (L'itinerario inizia dopo Camerata Cornello)<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.org">www.sangiovannibianco.org</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.673849000000001,45.910797,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 503 ">
+		<name>VALBONDIONE - Marmitte dei giganti - Maslana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/503_Marmittedeigiganti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le marmitte dei giganti sono delle particolari cavità a forma sferica, da cui deriva il termine marmitta, cioè pentola, presenti nei torrenti. Queste cavità si formano a causa dell'attività erosiva dei ciottoli trasportati dai vortici d'acqua in rapido movimento. Nella Valle Brembana queste particolari formazioni sono visibili nella zona di Maslana, lungo il fiume Serio, che più in alto forma imponenti cascate. <br><br>
+<b>Indirizzo: </b>Contrada Maslana - Valbondione, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.031345,46.050115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 504 ">
+		<name>OLTRE IL COLLE - Monte Alben</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/504_MonteAlben.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Alben è situato lungo il crinale che separa la Val Brembana da quella Seriana e, come gli altri rilievi della zona, presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano un aspetto geologicamente molto interessante, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>Oltre il Colle, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.772579,45.860505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 505 ">
+		<name>SAN GIOVANNI BIANCO - Monte Cancervo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/505_MonteCancervo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Cancervo permette di ammirare il paesaggio della media valle Brembana, con la sua grande varietà botanica e faunistica. Come gli altri rilievi della Valle, il monte presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano l'aspetto geologicamente più interessante della zona, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>Monte Cancervo - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.621302,45.91415799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 506 ">
+		<name>VALLEVE - Monte Pegherolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/506_MontePegherolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Pegherolo presenta vie d'accesso sdrucciolevoli e una caratteristica particolare della sua  struttura morfologica è il susseguirsi di faglie e fratture della parete rocciosa. Questi accavallamenti rappresentano l'aspetto geologicamente più interessante della zona, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti. Uno dei possibili sentieri che si può percorrere è quello che parte dal comune di Valleve, vicino al cimitero.<br><br>
+<b>Indirizzo: </b>Monte Pegherolo - Valleve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.713713,46.024715,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 507 ">
+		<name>PARRE - Monte Secco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/507_MonteSecco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val Las è una valle laterale della Valcanale, situata immediatamente a nord del Monte Secco, in Val Seriana. Il suo nevaio, ai piedi del Monte, è il più basso in Italia (900 m slm). Un tempo il nevaio era più esteso e raggiungeva un centinaio di metri, ma le mutate condizioni climatiche e la diminuzione delle precipitazioni nevose hanno progressivamente ridotto le sue attuali dimensioni. <br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="geoportale.caibergamo.it/it/sentiero/118">geoportale.caibergamo.it/it/sentiero/118</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.881800999999999,45.929769,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 508 ">
+		<name>VALTORTA - Monte Sodadura</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/508_MonteSodadura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo monte raggiunge un'altitudine di 2.010 m e presenta una caratteristica punta a forma di piramide. Partendo dalla località Pizzino, si giunge fino in cima attraverso un'antica mulattiera. Come gli altri rilievi della Valle, il monte presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano un aspetto geologicamente molto interessante, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.520528000000001,45.966674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 509 ">
+		<name>SAN GIOVANNI BIANCO - Monte Sornadello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/509_MonteSornadello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Sornadello (1.580 m), come altri rilievi della Val Brembana, presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano l'aspetto geologicamente più interessante della zona, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG <br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.624345999999999,45.859032,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 510 ">
+		<name>VALLEVE - Monte Cavallo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/510_MontiCavallo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il monte Cavallo è situato lungo la dorsale che collega il monte Pegherolo al pizzo Rotondo, in alta Val Brembana. Ha la forma di piramide appiattita su due lati: il lato est è composto da pietraie, e il lato ovest che invece è composto da depositi di terreno ed è quindi più ricco di vegetazione. Anche questo, come altri rilievi della Val Brembana, presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano l'aspetto geologicamente più interessante della zona, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>Valleve, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.691891999999999,46.03483899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 511 ">
+		<name>CAMERATA CORNELLO - Monte Venturosa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/511_MontiVenturosa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>I sovrascorrimenti sono delle caratteristiche geologiche tipiche della Valle Brembana, nello specifico delle formazioni montuose costituite da sedimenti calcareo-dolomitici di origine marina, che presentano delle fratture nella roccia con il loro relativo slittamento orizzontale. Queste superfici rocciose caratterizzano un aspetto identitario del paesaggio di questa valle. Una delle zone in cui queste formazioni sono presenti è il Monte Venturosa, situato a nord del Monte Cancervo. Le creste di questo monte, si elevano tra il Passo di Baciamorti e il Passo Grialeggio, tra Val Taleggio e Valle Brembana.<br><br>
+<b>Indirizzo: </b>Camerata Cornello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.619104,45.929282,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 512 ">
+		<name>TALEGGIO - Piani di Artavaggio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/512_PianidiArtavaggio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>I sovrascorrimenti sono delle caratteristiche geologiche tipiche della Valle Brembana, nello specifico delle formazioni montuose costituite da sedimenti calcareo-dolomitici di origine marina, che presentano delle fratture nella roccia con il loro relativo slittamento orizzontale. Queste superfici rocciose caratterizzano un aspetto identitario del paesaggio di questa valle, la zona del Corno del Bruco nei Piani di Artavaggio<br><br>
+<b>Indirizzo: </b>Taleggio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.564612,45.8856812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 513 ">
+		<name>SAN PELLEGRINO TERME - Pizzo di Spino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/513_PizzodiSpino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Pizzo Spino (m 958) si trova alla fine del sentiero escursionistico lungo il crinale che divide la Val Brembana e la Val Seriana, da cui si gode di una vista a 360 gradi su entrambe le valli. Come altri rilievi della zona, il Pizzo Spino presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano un aspetto geologicamente molto interessante, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>San Pellegrino Terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.691052000000001,45.820117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 514 ">
+		<name>SAN PELLEGRINO TERME - Pizzo Rabbioso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/514_PizzoRabbioso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Pizzo Rabbioso, conosciuto anche come Sass Baloss, presenta una particolare struttura morfologica costituita da sovrascorrimenti e faglie. Questi accavallamenti rappresentano un aspetto geologicamente molto interessante, poiché sono caratterizzati dalla sovrapposizione di rocce più antiche a rocce più recenti.<br><br>
+<b>Indirizzo: </b>Pizzo Rabbioso - San Pellegrino Terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.702795,45.837464,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 563 ">
+		<name>GROMO - Grotta Bus di Tacoi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/563_GrottaBusdiTacoi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Bus di Tacoi è una grotta che si trova sul territorio di Gromo, in località Spiazzi con accesso sul monte Redondo. Il nome in dialetto bergamasco significa "Buco dei Gracchi", dove per gracchio si intende un grosso corvo montano, che nidificava nell'androne del pozzo di ingresso della grotta, posto a 1500 metri di quota in un ripido canale del monte, dove una fessura nella roccia calcarea indica l'accesso ad una serie di grotte e cunicoli.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.952157,45.96105200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 598 ">
+		<name>VALGOGLIO - Cava di Ardesia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/598_CavadiArdesia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Ardesia è una roccia quarzifera di colore grigio o nero, trasformata da processi dinamici molto intensi durati milioni di anni. Questo porfiroide è facilmente divisibile in lastre molto sottili, molto resistenti, da cui si ricavano le "piode", utilizzate per coprire case e malghe. Gli affioramenti di queste rocce sono concentrati nell'estrema porzione settentrionale della provincia bergamasca ed in particolare nei comuni di Schilpario, Valbondione, Valgoglio, Carona, Branzi, Isola di Fronda, Piazzatorre, Mezzoldo, Averara, Santa Brigida, Cusio, Ornica e Valtorta. <br><br>
+<b>Indirizzo: </b>Colarete - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.913918000000001,45.9760994,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 600 ">
+		<name>ONETA - Cavità della Corna Rondena</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/morfologico/600_Cavit%C3%A0dellaCornaRondena.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sul versante destro di Chignolo, sopra la contrada di Ortello, nel territorio di Oneta, si trova una grossa roccia a forma di grotta denominata "Corna Rondena". Il nome deriva dal fatto che in passato molte rondini si fermavano sulla sommità per fare il nido. <br><br>
+<b>Indirizzo: </b>Chignolo - Oneta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.827999999999999,45.8592,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

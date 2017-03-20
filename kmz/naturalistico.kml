@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>naturalistico</name>
+	<Style id="s_ylw-pushpin37">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/naturalistico_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl36">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/naturalistico_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 8 ">
+		<name>VALTORTA - Val d&apos;Ancogno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/8_ValdAncogno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La valle è caratterizzata da interessanti fenomeni erosivi e carsici, da un canyon maestoso e da stupende marmitte dei giganti. L'ambiente permette la crescita di alcune specie rare, come la Primula Albenensis. Una leggenda vuole che in questa valle, chiusa fra maestose rocce e aspramente selvaggia, venissero confinate le persone indemoniate. <br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+<b>Telefono: </b>AltoBrembo tel. 3481842781<br>
+ 
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.569613,45.95362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 63 ">
+		<name>SAN PELLEGRINO TERME - Monte Zucco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/63_MonteZucco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Monte Zucco (1.232 m) è parte delle Prealpi Orobiche e sorge sulla destra orografica del fiume Brembo in Val Brembana. Sulla sua cima si trovano una cappella in cemento e vetri di Murano, il monumento che ricorda la guida alpina Antonio Baroni e una croce di ferro. Quest'ultima è stata eretta per rappresentare l'usanza della comunità locale,  che nel lunedì di Pasqua era solita trascorrere la giornata di festa sulla cima del monte, costruendo una croce composta da semplici legni incrociati.<br><br>
+<b>Indirizzo: </b>San Pellegrino Terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.655533,45.82074500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 88 ">
+		<name>RONCOBELLO - Baite di Mezzeno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/88_BaitediMezzeno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Dal piccolo agglomerato di Roncobello è possibile fare un'escursione verso la località delle Baite di Mezzeno, un luogo molto caratteristico con una splendida vista sulla vallata. Oltre ai molti sentieri escursionistici che partono da questo punto, è possibile intraprendere un itinerario alternativo attraverso i roccoli della Valle.<br><br>
+<b>Indirizzo: </b>Roncobello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.801608,45.963976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 189 ">
+		<name>VALBONDIONE - Osservatorio floro-faunistico</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/189_OsservatorioMaslana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Osservatorio floro-faunistico di Maslana è una struttura didattica aperta a tutti gli appassionati di montagna ed edificata sui ruderi della vecchia baita utilizzata per decenni dai pastori che salivano agli alpeggi con le greggi di pecore. L'area, conosciuta anche come zona dei Grandi Massi, consente di godere di una spettacolare vista sulle famose Cascate del Serio. <br><br>
+<b>Indirizzo: </b>Località Maslana - Valbondione, BG<br>
+<b>Telefono: </b>338999997<br>
+<b>Mail: </b>info@osservatoriomaslana.com<br>
+<b> Sito internet: </b><a href="www.osservatoriomaslana.com">www.osservatoriomaslana.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.04289,46.052821,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 191 ">
+		<name>VILMINORE DI SCALVE - Arboreto Alpino Gleno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/191_ArboretoAlpinoGleno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Alboreto nasce con l'obiettivo di conservare la memoria storica di ciò che il bosco ha rappresentato per la popolazione, sottolineando il suo ruolo nello sviluppo economico-sociale del territorio. Con questo obiettivo, la struttura propone visite turistiche tradizionali e a scopo didattico.<br><br>
+<b>Indirizzo: </b>Vilminore di Scalve, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.gleno.it">www.gleno.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.076247,45.997672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 192 ">
+		<name>COLERE - Via Mala</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/192_ViaMala.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il nome "Via Mala" identifica un tratto della storica strada d'accesso alla Val di Scalve dalla direzione di Angolo Terme. Il percorso si sviluppa fra le pareti rocciose della profonda forra del fiume Dezzo e si affaccia sul corso d'acqua passando tra insenature e orridi, offrendo spettacolari scorci visuali e permettendo di osservare le diverse  forme geologiche tipiche della zona.<br><br>
+<b>Indirizzo: </b>Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.104613,45.948274,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 193 ">
+		<name>CLUSONE - La Selva di Clusone-Piario</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/193_SelvadiClusone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sotto iniziativa dell'allora sindaco di Clusone, nel 1922 la Pineta fu inclusa nel  "Catalogo delle Bellezze Naturali" d'Italia. Al suo interno, è possibile scorgere i "massi erratici", enormi massi di pietra trasportati dai ghiacciai, e le "buche del freddo", enormi buche lasciate dai ghiacciai in fase di scioglimento.<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.turismoproclusone.it/la-selva-di-clusone">www.turismoproclusone.it/la-selva-di-clusone</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.918067000000001,45.882035,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 196 ">
+		<name>VALGOGLIO -  Val Sanguigno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/196_ValSanguigno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val Sanguigno è una valle minore che si sviluppa sulla destra orografica della Val Seriana, di cui è tributaria. Nella parte bassa scorre l'omonimo torrente che, raccogliendo i numerosissimi rigagnoli che bagnano la zona, crea pozze, forre e cascate, rendendo il paesaggio molto suggestivo, che la rende un'interessante meta escursionistica in tutte le stagioni. <br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.884569000000001,45.966937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 197 ">
+		<name>OLTRE IL COLLE - Cattedrale Vegetale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/197_CattedraleVegetale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Opera del celebre artista Giuliano Mauri, la Cattedrale Vegetale del comune di Oltre il Colle, rappresenta un interessante esempio di intervento artistico direttamente sul territorio, conosciuto come "land art". Oltre ad essere un ottimo punto di partenza per gli escursionisti, esso si presenta come un potenziale luogo di aggregazione per momenti formativi ed educativi, per la promozione di un rapporto rispettoso fra uomo e natura.<br><br>
+<b>Indirizzo: </b>Località Plassa - Oltre il Colle, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.cattedralevegetale.oltreilcolle.info">www.cattedralevegetale.oltreilcolle.info</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.788871,45.910523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 200 ">
+		<name>CARONA - Valle di Carona</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/200_VallediCarona.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Carona è una località situata nel cuore delle Alpi Orobie, adatta agli amanti dello sci di alpinismo e agli escursionisti che apprezzano la tranquillità dei panorami montani. Una seggiovia collega Carona con la Val Carisole (1.700 m), dove è possibile utilizzare altri impianti sciistici.<br><br>
+<b>Indirizzo: </b>Carona, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.789087,46.02181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 203 ">
+		<name>MOIO DE&apos; CALVI - Val Fondra</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/203_ValFondra.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val Fondra, con le località di Branzi, Carona e Roncobello, rappresenta una buona base di partenza per i distretti alpinistici del Calvi e dei Laghi Gemelli, aree di notevole valore naturalistico, apprezzate dagli amanti dello scialpinismo. La zona comprende un tratto di fondovalle percorso dalla strada e dal Brembo, nonché' i ripidi versanti dei monti Torcola (1.636 m) ad ovest e Pietra Quadra (2.356 m) e i Tre Pizzi a est.<br><br>
+<b>Indirizzo: </b>Moio de' Calvi, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.isoladifondra.provinciabergamasca.com">www.isoladifondra.provinciabergamasca.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.719654,45.956203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 204 ">
+		<name>DOSSENA - Val Parina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/204_ValParina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val Parina presenta due particolarità geologiche: la presenza di fossili e le miniere del Vaccaregio. La valle gode di una buona esposizione ed è protetta dai venti; per questi motivi vi è una notevole presenza sia faunistica che botanica: si incontrano boschi di faggi, frassini e abeti rossi. Dal punto di vista faunistico, è possibile avvistare cervi e aquile.<br><br>
+<b>Indirizzo: </b>Dossena, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.717062,45.907927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 206 ">
+		<name>VEDESETA - Sorgenti dell&apos;Enna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/206_SorgentidellEnna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le sorgenti del fiume Enna, in Val Taleggio, rappresentano una meta escursionistica di grande interesse ambientale-naturalistico, di moderata difficoltà e perciò adatta anche ai non esperti. Il luogo è interessato dal fenomeno di carsismo sotterraneo, tipico dell'ambiente a substrato calcareo, e da una grande varietà di specie vegetali ed animali.<br><br>
+<b>Indirizzo: </b>Vedeseta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.504481999999999,45.883792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 212 ">
+		<name>ONETA - Faggi secolari Valpiana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/212_faggivalpiana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sui versanti della Val Piana i sentieri verso il Monte Alben si snodano tra boschi di latifoglie e alti faggi secolari.<br><br>
+<b>Indirizzo: </b>Oneta, BG<br>
+<b>Telefono: </b>Comune di Oneta tel. 035707117<br>
+<b>Mail: </b>info@comune.oneta.bg.it<br>
+<b> Sito internet: </b><a href="www.comune.oneta.bg.it">www.comune.oneta.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.812626,45.86656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 213 ">
+		<name>CUSIO - I Piani dell&apos;Avaro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/213_IPianidellAvaro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>I Piani dell'Avaro sono un altopiano situato a nord di Cusio, in Alta Val Brembana, sopra i 1.700 m. In estate essi ospitano pascoli di bovini, mentre in inverno vengono adibiti a pista di sci di fondo, con impianti di risalita per lo sci alpino. Durante l'anno vengono inoltre organizzati incontri dedicati all'astronomia.<br><br>
+<b>Indirizzo: </b>Cusio, BG<br>
+<b>Telefono: </b>AltoBrembo tel. 3481842781<br>
+ 
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.598039,46.00465899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 215 ">
+		<name>VALBONDIONE - Le Piane di Lizzola</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/215_PianediLizzola.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le piane di Lizzola, in Valbondione, sono raggiungibili percorrendo un'aspra salita, dapprima asfaltata e poi sassosa, che porta al grande pianoro  dove scorre il torrente Bondione. Le piane si prestano anche a diverse attività sportive, jogging, pesca, percorsi con il rampichino, attività di gruppo. L'area offre anche due strutture attrezzate per il campeggio.<br><br>
+<b>Indirizzo: </b>Lizzola - Valbondione, BG<br>
+<b>Telefono: </b>Consorzio Turistico Valbondione tel. 034644665<br>
+<b>Mail: </b>info@turismovalbondione.it <br>
+<b> Sito internet: </b><a href="www.turismovalbondione.it/cascate_serio.php">www.turismovalbondione.it/cascate_serio.php</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.005531,46.021143,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 289 ">
+		<name>SCHILPARIO - Acero di monte di Schilpario</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/289_AcerodimontediSchilpario.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Percorrendo la camminata dei Campelli è possibile raggiungere il grande acero di Schilpario; l'albero presenta un tronco slanciato ma ingrossato alla base, una chioma relativamente irregolare e sommità appiattita. Fra gli aceri di monte della provincia di Bergamo è certamente uno dei più belli e rappresenta una rarità.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.225297,46.02343100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 290 ">
+		<name>SCHILPARIO - Abete rosso di Schilpario</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/290_Abeterosso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'abete rosso di Schilpario è un raro esemplare nostrano: presenta un tronco ingrossato e, data la sua posizione isolata, ha uno sviluppo in altezza relativamente limitato, dovuto alla scarsa competizione per la luce. La chioma è relativamente irregolare, mentre la cima è sdoppiata a causa di una rottura.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.195167,46.015544,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 291 ">
+		<name>OLTRE IL COLLE - Peri di Grimoldo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/291_PeridiGrimoldo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella località di Oltre il Colle è possibile individuare alberi di pero fatti crescere a ridosso dei muri delle abitazioni, secondo un impianto a spalliera che svolge anche una funzione ornamentale.<br><br>
+<b>Indirizzo: </b>Oltre il Colle, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.767169071250001,45.892859,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 292 ">
+		<name>RONCOBELLO - Abete bianco di Roncobello</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/292_AbetebiancodiRoncobello.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Con i suoi 46 m di altezza ed i 350 cm di circonferenza, il "Pinetù" di Roncobello è il più alto abete bianco della bergamasca. Il racconto degli abitanti del luogo narra di un giovane che incise sulla corteccia il proprio nome e che morì durante la Prima Guerra Mondiale. Successivamente il padre del ragazzo acquistò l'albero affinché non fosse abbattuto, in ricordo del figlio morto in guerra.<br><br>
+<b>Indirizzo: </b>Roncobello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.777015000000001,45.953693,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 293 ">
+		<name>SAN GIOVANNI BIANCO - Castagno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/293_CastagnodiSPietro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella zona di San Pietro d'Orzio, nel comune di San Giovanni Bianco, lungo l'antica via Mercatorum, crescono numerosi esemplari di castagno, favoriti dalla fertilità del suolo. La coltivazione del castagno ha rappresentato fino al secondo dopoguerra un elemento base dell'economia agricola montana e i suoi frutti costituivano parte fondamentale dell'alimentazione quotidiana. <br><br>
+<b>Indirizzo: </b>S. Pietro d'Orzio - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.662357,45.88426700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 294 ">
+		<name>AVERARA - Castagno di Averara</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/294_CastagnoAverara.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il territorio di Averara è conosciuto per i suoi castagneti secolari, che in passato sfamavano la popolazione locale; la raccolta si effettuava nei mesi di Ottobre-Novembre e in quel periodo era consuetudine cuocere le castagne tutte le sere come cena per la famiglia. Presso l'azienda Agricola Soluna, a Redivo di Averara, è possibile ammirare un imponente castagno  dal tronco imponente, con grandi branche che si spingono molto in alto.<br><br>
+<b>Indirizzo: </b>Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.634695000000001,45.987519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 295 ">
+		<name>LENNA - Pero di Lenna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/295_PerodiLenna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il pero di Lenna, notevole esemplare, cresce in prossimità di una cascina e presenta un'espansione e un'altezza notevoli.<br><br>
+<b>Indirizzo: </b>Lenna, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.668668,45.92312,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 342 ">
+		<name>OLTRESSENDA ALTA - Colle Palazzo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/342_CollePalazzo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Colle Palazzo sorge a quota 1267 m., in una zona che fa da spartiacque tra il versante sud di Valzurio e quello a nord di Ardesio ,in frazione Ave. In passato la località era conosciuta per le sue attività commerciali, che riguardavano il bestiame, la lana, i prodotti caseari. Il commercio attirava mercanti dall'alta valle Seriana, dalla valle di Scalve, dalla Valtellina e perfino dalla Svizzera e dalla Germania.<br><br>
+<b>Indirizzo: </b>Oltressenda Alta, BG<br>
+<b>Telefono: </b>Comune di Oltressenda Alta tel. 034621524<br>
+<b>Mail: </b>info@comune.oltressendaalta.bg.it<br>
+<b> Sito internet: </b><a href="www.comune.oltressendaalta.bg.it">www.comune.oltressendaalta.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.993418,45.93713199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 525 ">
+		<name>SAN GIOVANNI BIANCO - Massiccio del Cancervo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/525_MassicciodelCancervo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il massiccio si estende tra la Valle Taleggio e la Valle Brembana fino a 1750 metri di altezza. Secondo una leggenda diffusa, un tempo i prati di questo grande massiccio erano frequentati da numerosi cervi, dai quali il monte prese il nome. Ad oggi, sebbene non ci sia traccia di cervi, sul monte è possibile scorgere camosci e caprioli e ammirare il volo delle aquile.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG <br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.org ">www.sangiovannibianco.org </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.618023000000001,45.915042,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 526 ">
+		<name>GORNO - Monte Grem</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/526_MonteGrem.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il monte Grem è posto tra l'Alta Valle Seriana e la Val del Riso. Si caratterizza per la lunga cresta sud, che termina sui pascoli erbosi delle baite dove sono ancora ben visibili gli scavi e gli scarichi delle miniere di calamina. Le pendici del monte sono indicate per lo sci d'alpinismo. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.82291,45.906957,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 527 ">
+		<name>ARDESIO - Nevaio del Monte Secco (Val  Las)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/527_NevaiodelMonteSecco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Val Las è una valle laterale della Valcanale, situata immediatamente a nord del Monte Secco, in Val Seriana. Il suo nevaio, ai piedi del Monte, è il più basso in Italia (900 m slm). Un tempo il nevaio era più esteso e raggiungeva un centinaio di metri, ma le mutate condizioni climatiche e la diminuzione delle precipitazioni nevose hanno progressivamente ridotto le sue attuali dimensioni. <br><br>
+<b>Indirizzo: </b>Val Las - Valcanale - Ardesio, BG<br>
+<b>Telefono: </b>Pro loco Ardesio tel. 034633289 <br>
+<b>Mail: </b>info@prolocoardesio.it <br>
+<b> Sito internet: </b><a href="www.prolocoardesio.it ">www.prolocoardesio.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.931005000000001,45.9382,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 528 ">
+		<name>SCHILPARIO - Passo del Vivione</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/528_PassodelVivione.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il passo del Vivione è un valico alpino a quota 1.828 m che collega due valli secondarie della val Camonica: la valle di Scalve e la val Paisco. Da qui è possibile accedere all'itinerario Naturalistico "Antonio Curò", che collega il passo al Rifugio "A. Curò" nella conca del Barbellino in alta val Seriana.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>10.199125,46.036533,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 529 ">
+		<name>VALTORTA - Piani di Rava - Osservazione orchidee</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/529_OrchidieSalvatiche.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'interessante area dei Piani di Rava è un esempio pressoché unico di torbiera su substrato carbonatico nel contesto orobico. La permeabilità e la solubilità proprie delle rocce carbonatiche sfavoriscono infatti i ristagni d'acqua superficiali. Nell'area in questione risiedono 79 specie vegetali, dovute ad un mosaico di micro-ambienti diversi. Tra queste, a inizio luglio, è possibile osservare numerose specie rare di Orchidea selvatica, tra cui l'Orchidea Epipactis, l'Orchidea dactylorhiza maculata e l'Orchidea dactylorhiza Traunsteineri.<br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+<b>Telefono: </b>AltoBrembo tel. 3481842781<br>
+ 
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.546148000000001,45.972129,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 531 ">
+		<name>ORNICA - Val d&apos;Inferno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/531ValInfernoOrobie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa valle comprende l'area che si estende dal paese di Ornica alla cima del Pizzo dei Tre Signori, antico confine che separava la Repubblica di Venezia, il Ducato di Milano e la Repubblica dei Grigioni. L'itinerario che percorre la Val d'Inferno attraversa ambienti incontaminati dove è possibile avvistare marmotte e stambecchi, mentre dalla cima è possibile godere di un suggestivo panorama che spazia dalle Alpi Retiche fino al Monte Rosa, al Cervino e al Vallese.<br><br>
+<b>Indirizzo: </b>Ornica, BG<br>
+<b>Telefono: </b>AltoBrembo tel. 3481842781<br>
+ 
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.563544,45.99549199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 569 ">
+		<name>AVERARA - Alpeggio Cantedoldo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/569_AlpeggioCantedoldo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo alpeggio presenta un panorama molto suggestivo e un ambiente naturale in cui è possibile avvistare camosci e caprioli. Recentemente, la zona è stata ulteriormente valorizzata grazie al recupero della vecchia casera "cantedoldo", adibita a baita per i numerosi escursionisti e visitatori che intraprendono passeggiate in questa vallata.<br><br>
+<b>Indirizzo: </b> Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.631335999999999,45.99021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 637 ">
+		<name>CLUSONE - &quot;Fontanino della mamma&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/naturalistico/637_Fontaninodellamamma.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Partendo dal centro del paese, salendo lungo un percorso sterrato, è possibile raggiungere il Fontanino della Mamma, situato a circa 770 mt., immerso in un bosco di castagno. Da qui l'acqua veniva diretta a Clusone attraverso un acquedotto di cui è ancora visibile parte della struttura. L'acqua che sgorga dalla piccola fontana, già citata in allucini documenti del '500, era considerata terapeutica.<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.956179000000001,45.895324,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 653 ">
+		<name>OLTRESSENDA ALTA - Laghetti azzurri</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/laghi/653_LaghettiAzzurri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>I Laghi Azzurri si trovano lungo il corso del torrente Ogna, nel tratto compreso fra i comuni di Oltressenda Alta, Rovetta e Villa d'Ogna; questi piccoli bacini variano il proprio colore a seconda delle stagioni.<br><br>
+<b>Indirizzo: </b>Villa D'Ogna, BG<br>
+<b>Telefono: </b>Comune di Oltressenda Alta tel. 034621524<br>
+<b>Mail: </b> info@comune.oltressendaalta.bg.it<br>
+<b> Sito internet: </b><a href="www.comune.oltressendaalta.bg.it">www.comune.oltressendaalta.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin37</styleUrl>
+		<Point>
+			<coordinates>9.960642,45.916404,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

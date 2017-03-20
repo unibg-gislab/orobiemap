@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>roccolo</name>
+	<Style id="s_ylw-pushpin_hl40">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/roccoli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin41">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/roccoli.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id=" 90 ">
+		<name>COLERE - Roccolo &quot;del Fantoni&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/90_RoccoloFantoni.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Passo della Presolana - Colere, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.103713,45.93103700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 91 ">
+		<name>PARRE - Roccolo sul Monte Alino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/91_RoccoloMonteAlino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.898586,45.89671,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 92 ">
+		<name>PARRE - Roccolo sul Monte Vaccaro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/92_RoccoloMonteVaccaro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.89855,45.90377099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 93 ">
+		<name>SCHILPARIO - Roccolo a Cimalbosco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/93_RoccoloCimalbosco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il roccolo di Cimalbosco è situato sopra al bivio tra la strada che va al Passo del Vivione e quella in terra battuta che si dirige verso il Passo dei Campelli. Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scalve.it/roccoli">www.scalve.it/roccoli</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.204423,46.016384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 94 ">
+		<name>SCHILPARIO - Roccolo della Clusorina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/94_RoccoloClusorina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il roccolo della Clusorina sorge a 1510 m sul versante sinistro orografico della Valle di Scalve ed è rivolto verso Schilpario. Situato in mezzo al bosco, è l'unico roccolo al momento in funzione in Val di Scalve. Lo si scorge bene da Vilmaggiore. La sua "armada" o "sigaler" (impalcatura circolare mascherata con piegatura dei rami a volontà dell'uccellatore sulla quale venivano montate le reti per la cattura degli uccelli) è abbastanza visibile lungo il profilo della costa di bosco davanti alla vetta del Pizzo Camino. <br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scalve.it/roccoli">www.scalve.it/roccoli</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.161209,46.015413,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 95 ">
+		<name>VILMINORE DI SCALVE - Roccolo della Pieve</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/95_RoccolodellaPieve.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il roccolo della Pieve, situato a Vilminore di Scalve, conserva oggi solo il casello. Questa struttura, rimasta in funzione fino agli anni '70, era utilizzata per la cattura degli uccelli. Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Vilminore di Scalve, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scalve.it/roccoli">www.scalve.it/roccoli</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.105792,46.00675600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 96 ">
+		<name>VILMINORE DI SCALVE - Roccolo di Pezzolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/96_RoccoloPezzolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il roccolo di Pezzolo si trova sulla strada che porta da Vilminore a Teveno ed è caratterizzato da un casello cadente ma molto grande e con alberi secolari. Va precisato che il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Vilminore di Scalve, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scalve.it/roccoli">www.scalve.it/roccoli</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.071669,45.99488199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 97 ">
+		<name>AZZONE - Roccolo &quot;delle Streghe&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/97_RoccoloStreghe.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il roccolo delle Streghe, situato su di un colle sopra Azzone, è piccolo, abbastanza ben conservato, in mezzo ad un prato con una vista verso il massiccio della Presolana. Lo si scorge in lontananza scendendo dal Passo della Presolana prima di giungere all'abitato di Dezzo. Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Azzone, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scalve.it/roccoli">www.scalve.it/roccoli</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.115931,45.98368799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 98 ">
+		<name>AZZONE - Roccolo di Biandine</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/98_RoccoloBiandine.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Montenuovo - Azzone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.110649,45.976631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 99 ">
+		<name>AZZONE - Roccolo di Pianezza</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/99_RoccoloPianezza.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Località Giovetto di Paline - Azzone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.124208,45.95607099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 100 ">
+		<name>CASTIONE DELLA PRESOLANA - Roccolo &quot;Imberti&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/100_RoccoloImberti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il roccolo Imberti è situato sui pendii che salgono verso la Presolana. Un tempo isolato, è ora circondato da abitazioni. La struttura originaria, ossia il "casello" interno è stata riconvertita in casa privata. Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Passo della Presolana - Castione della Presolana, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.scalve.it/roccoli ">www.scalve.it/roccoli </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.09318,45.928027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 101 ">
+		<name>CASTIONE DELLA PRESOLANA - Roccolo Colle Vareno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/101_RoccoloColleVareno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Colle Vareno - Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>10.108469,45.90281000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 102 ">
+		<name>CLUSONE - Roccolo &quot;Poletti&quot;, San Lucio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/102_RoccoloSanLucio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>San Lucio - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.936439,45.868404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 103 ">
+		<name>CLUSONE - Roccolo della Bosgarina</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/103_RoccoloBosgarina.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Fiorine - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.941392000000001,45.871937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 104 ">
+		<name>CLUSONE - Roccolo &quot;Giudici&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/104_RoccoloGiudici.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.954333,45.893694,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 105 ">
+		<name>OLTRE IL COLLE - Roccolo de la Crusèta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/105_Roccolorus%C3%A8ta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Colle di Zambla - Oltre il Colle, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.800388,45.893893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 106 ">
+		<name>OLTRE IL COLLE - Roccolo basso di Zambla</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/106_RoccolobassoZambla.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Zambla - Oltre il Colle, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.795679,45.898803,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 107 ">
+		<name>PREMOLO - Casello di Roccolo sul Monte Belloro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/107_CaselloRoccolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Premolo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.849997999999999,45.88708499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 108 ">
+		<name>ARDESIO - Roccolo a Cacciamali</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/108_RoccoloCacciamali.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Cacciamali -Ardesio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.912782999999999,45.93613499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 109 ">
+		<name>OLTRESSENDA ALTA - Roccolo della Rasga</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/109_RoccoloRasga.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>M.te Blum - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.996814000000001,45.937655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 110 ">
+		<name>VALGOGLIO -  Roccolo in Selva d&apos;Agnone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/110_RoccoloSelvaAgnone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.908175999999999,45.984598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 111 ">
+		<name>SERINA - Roccolo a Valpiana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/111_RoccoloValpiana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Serina, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.747006000000001,45.887581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 112 ">
+		<name>DOSSENA - Roccolo di Foppa Spessa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/112_RoccoloFoppaSpessa.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Dossena, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.702206,45.885092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 113 ">
+		<name>SAN GIOVANNI BIANCO - Roccolo del Dutùr</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/113_RoccoloDut%C3%B9r.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Oneta di San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.649206,45.882435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 114 ">
+		<name>SAN GIOVANNI BIANCO - Bresciana alla Pianca</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/114_brescianaallapianca.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.632870000000001,45.895253,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 115 ">
+		<name>SAN GIOVANNI BIANCO - &quot;Il Roccolone del Milesi&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/115_RoccoloneMilesi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Pianca - San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.636203,45.89790299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 116 ">
+		<name>CAMERATA CORNELLO - Roccolo di &quot;San Lodovico&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/116_RoccoloSanLodovico.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Camerata Cornello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.65067,45.90331800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 117 ">
+		<name>CAMERATA CORNELLO - Roccolo &quot;Canali&quot;</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/117_RoccoloCanali.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>San Giacomo di Brembella - Camerata Cornello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.64289,45.927544,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 118 ">
+		<name>CAMERATA CORNELLO - Roccolo di Boffalora</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/118_RoccolodiBoffalora.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Cespedosio - Camerata Cornello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.650579000000001,45.930019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 119 ">
+		<name>RONCOBELLO - Roccolo di Campo Alto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/119_RoccolodiCampoAlto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Roncobello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.757491999999999,45.954205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 120 ">
+		<name>RONCOBELLO - Roccolo di Campo Basso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/120_RoccoloCampoBasso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Roncobello, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.750555,45.953425,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 121 ">
+		<name>VALNEGRA - Roccolo di Calche sul Monte Sole</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/121_RoccoloCiar%C3%A8i.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Valnegra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.688976,45.951039,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 122 ">
+		<name>BRANZI - Roccolo Ciarèi sul Monte Badile</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/122_RoccoloCiar%C3%A8i.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b> Branzi, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.752094,46.00749200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 123 ">
+		<name>PIAZZATORRE - Roccolo &quot;Grumelli&quot; a Torcola Vaga</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/123_RoccoloTorcolaVaga.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Piazzatorre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.725652999999999,45.98944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 124 ">
+		<name>MEZZOLDO - Roccolo &quot;Arizzi&quot; in Gambetta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/124_RoccoloArizzi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Mezzoldo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.653563,46.03409,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 125 ">
+		<name>ORNICA - Roccolo a Piazza Alta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/125_RoccoloPiazzaAlta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Ornica, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.572566999999999,45.9999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 126 ">
+		<name>VEDESETA - Roccolo a Reggetto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorsi_naturali/roccoli/126_RoccoloReggetto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il "roccolo" (ròcol in dialetto bergamasco) è una costruzione diffusa nel bergamasco e utilizzata per la cattura degli uccelli. Queste strutture, nonostante nella maggior parte dei casi non siano più attive, costituiscono risorse culturali e naturali di pregio, dal momento che conservano una varietà vegetale importante mantenuta mediante conoscenze e saperi tradizionali che ne fanno un luogo di spessore culturale oltre che della biodiversità. Per quanto riguarda la cattura degli uccelli di passo, va precisato che non si tratta di un'attività venatoria, ma gli uccelli sono utilizzati come richiamo.<br><br>
+<b>Indirizzo: </b>Vedeseta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin41</styleUrl>
+		<Point>
+			<coordinates>9.524760000000001,45.90559300000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

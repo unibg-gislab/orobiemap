@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>dogana_dazi</name>
+	<open>1</open>
+	<StyleMap id="failed2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/daziedogane.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="failed00">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/daziedogane.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="failed10">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/daziedogane.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="failed1">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/slowbg2/icone/icone-legenda/daziedogane.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 358 ">
+		<name>AVERARA - Antica casa Bottagisi, Dogana veneta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/358_casabotagisi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'antica casa Bottagisi del 1500 si trova nella frazione Redivo di Averara. Spesso considerata erroneamente l'ex dogana veneta, la struttura si caratterizza per le possenti e simmetriche scale lignee esterne e la struttura in pietra. La presenza di questo edificio, così come quella delle torri di vedetta, della via porticata e dell'antica parrocchiale nel territorio di Averara, testimoniano ancora oggi il ruolo storico che questo comune montano ha svolto, grazie al passaggio dell'antica via Mercatorum, la strada medievale che collegava l'Alta Val Brembana con la Val Seriana raggiungendo Bergamo, nonché l'importante terra di confine della Repubblica Veneta. 
+<br><br>
+<b>Indirizzo: </b>Via Averara, Revido - Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#failed</styleUrl>
+		<Point>
+			<coordinates>9.635847,45.986026,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 699 ">
+		<name>AVERARA - Casa Cantoniera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/micro-business-s-low/ricettivita/360_CasaCantoniera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b> La casa cantoniera Cà San Marco, edificata nel 1593, era originariamente un posto di guardia per proteggere i confini della Repubblica di Venezia. L'edificio, infatti, è situato lungo l'antica Strada Priula che nel '500 collegava la Valtellina con la Valle Brembana e Bergamo, giungendo fino a Venezia. Qui venivano ospitati i mercanti che trasportavano prodotti fra i territori della Serenissima e i Grigioni, inserendo l'area orobica in una rete commerciale di ampio raggio. Ancora oggi sulla facciata dell'edificio si può vedere un bassorilievo raffigurante il leone, simbolo della Repubblica di Venezia, testimonianza del ruolo storico svolto da questo comune montano. Attualmente la costruzione è sede di uno dei più antichi rifugi delle montagne europee. <br><br>
+<b>Indirizzo: </b>Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#failed2</styleUrl>
+		<Point>
+			<coordinates>9.626637000000001,46.04261099999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

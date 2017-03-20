@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>chiese</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/chiese.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/chiese.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0.6</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark id=" 675 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa Parrocchiale di Fuipiano al Brembo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_interesse_storico/308_FuipianoalBrembo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La parrocchiale di Fuipiano al Brembo, frazione di San Giovanni Bianco, conserva diverse opere di pregio ed in particolare di tre tele del Ceresa.<br><br>
+<b>Indirizzo: </b>Via Giovanni Busi Cariani, Fuipiano Al Brembo - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>034543007<br>
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.654154999999999,45.863508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 680 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa parrocchiale di San Pietro d&apos;Orzio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/680_Chiesa%20San%20Pietro%20dOrzio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa parrocchiale di San Pietro D'Orzio, frazione di San Giovanni Bianco, conserva tre tele del Ceresa e una preziosa tavola raffigurante la Pietà, datata intorno alla fine del '400 e attribuita ad Adolfo Venturi o Andrea Previtali.<br><br>
+<b>Indirizzo: </b>Via D'Orzio, San Pietro D'Orzio - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>034541183<br>
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.662006,45.885949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 678 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa del Carmine a Oneta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/678_ChiesaCarmine.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta del Carmine, nella frazione di Oneta, custodisce alcune tele del Ceresa e diversi affreschi, fra cui una Madonna con Bambino collocata in sagrestia e un grande San Cristoforo, posto a protezione dei viandanti lungo la via Mercatorum.<br><br>
+<b>Indirizzo: </b>Oneta - San Giovanni Bianco, BG <br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.651253000000001,45.882039,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 677 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa Parrocchiale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/677_Parrocchiale%20San%20Giovanni%20Bianco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'attuale chiesa parrocchiale di S. Giovanni Bianco venne edificata fra il 1857 e il 1864, sul luogo stesso dove sorgeva la vecchia chiesa, che fu in parte demolita per far posto alla nuova. Del vecchio edificio rimangono l'abside, l'oratorio dei Disciplini Bianchi, la sagrestia, la cappella della Santa Spina e la torre dei Boselli. Al suo interno è custodita la reliquia della Sacra Spina, tuttora orgoglio del paese e motivo di profonda devozione popolare.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.653115,45.87494499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 676 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa Parrocchiale della Pianca</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/676_Parrocchiale_pianca.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa della Pianca, frazione del comune di San Giovanni Bianco, presenta un aspetto molto sobrio; all'esterno dell'edificio, in corrispondenza di un antico cimitero, si trova un portico con affreschi del '400.<br><br>
+<b>Indirizzo: </b>Pianca - San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.634772,45.895229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 674 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa Parrocchiale di San Gallo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/674_ParrocchialeSanGallo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella frazione di San Gallo, comune di San Giovanni bianco, si trova la parrocchiale dell'Assunta che vanta lo splendido polittico quattrocentesco a sei scomparti di Leonardo Boldrini da Murano, raffigurante l'Annunciazione e l'Incoronazione di Maria.<br><br>
+<b>Indirizzo: </b>Via S. Giovanni Bianco, San Gallo - San Giovanni Bianco, BG<br>
+<b>Telefono: </b>034545020<br>
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.671958999999999,45.864291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 625 ">
+		<name>VALGOGLIO - Chiesetta di Sant&apos;Antonio Abate</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/625_ChiesettadiSantAntonio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situata in una grande conca verde, la frazione di Selvadagnone si caratterizza per la presenza di un minuscolo e antico nucleo di case e della chiesetta dedicata a Sant'Antonio Abate. Qui la terza domenica di luglio si festeggia il santo, con una processione tra i prati.<br><br>
+<b>Indirizzo: </b>Selvadagnone - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.908284,45.982442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 624 ">
+		<name>VALGOGLIO - Chiesetta di San Rocchino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/624_ChiesettadiSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Oratorio di San Rocco si trova nella contrada Bonaldi, sulla strada dei Bortolotti verso Casa Ratti. La chiesa fu costruita per servire le contrade di Bonalda e Bortolotti, interessate da un ampio mercato del bestiame nei periodi in cui bovini e ovini tornavano alle stalle. All'interno spiccano alcune opere di pregio, tra cui due Madonne con Bambino, un'Addolorata e una Madonna che allatta Gesù.<br><br>
+<b>Indirizzo: </b>Bortolotti - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.89414,45.98067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 623 ">
+		<name>VALGOLGIO - Chiesetta di San Pasquale Baylon</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/623_SanPasqualeBaylon.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel piccolo nucleo di Martorasco sorge l'antica chiesetta dedicata a S. Pasquale Baylòn, un edificio di semplice architettura caratterizzata tuttavia da un porticato antistante la facciata sotto il quale passa l'antica mulattiera che porta a Sant'Alberto.<br><br>
+<b>Indirizzo: </b>Martorasco - Valgolgio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.919347999999999,45.89854100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 622 ">
+		<name>VALGOGLIO - Chiesetta di San Michele</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/622_ChiesettadiSanMichele.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sulla strada provinciale che porta a Valgoglio, adagiate in una conca verde sorgono alcune nuove e antiche case che formano la frazione di Colarete. Davanti a questo agglomerato si trova la chiesa dedicata a S. Michele del sec. XV. All'interno si possono ammirare numerosi affreschi quattrocenteschi e nella parete centrale del presbitero l'ancora lignea secentesca nella quale è inserita una tela raffigurante la Vergine col bambino, S. Michele, S. Giovanni Battista e S. Antonio Abate. All'esterno sono visibili due meridiane, di levante e di ponente.<br><br>
+<b>Indirizzo: </b>Strada Provinciale, Colarete - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.919582999999999,45.971141,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 621 ">
+		<name>TALEGGIO - Chiesetta di San Lorenzo del 1400</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/621_sanlorenzo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Borgo di Fraggio, posto a 992 m., nel XV secolo costituiva l'ultimo borgo della Repubblica di Venezia prima della frontiera con il Ducato di Milano. Ciò che maggiormente caratterizza Fraggio è la sua architettura, realizzata unicamente in pietra calcarea con i caratteristici tetti in piöde, secondo una tradizione che si tramandava di generazione in generazione. Nella frazione oggi ormai disabitata si trova la Chiesetta di San Lorenzo risalente al 1400. Questa struttura, insieme a quella di Ca'Corviglio, rappresenta un esempio dell'architettura degli oratori tra il 1300 e il 1500. Ogni anno la chiesa viene aperta durante le celebrazioni del 10 agosto.<br><br>
+<b>Indirizzo: </b>Borgo di Fraggio - Taleggio,BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.555714,45.90674700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 620 ">
+		<name>PARRE - Chiesetta di S. Antonio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/620_chiesasantantonio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situato nel mezzo dei prati del Monte Alino si trova l'oratorio di S. Antonio da Padova, costruito dopo la peste del 1630. La chiesa ha rappresentato per secoli un punto di riferimento per le famiglie che vivevano nelle cascine, coltivando la terra e allevando bestiame. All'interno sull'altare è posta la pala che raffigura Sant'Antonio, una copia della preziosa pala originale, opera del pittore bergamasco Carlo Ceresa conservata nella cappella di Lourdes annessa alla parrocchiale. Sulla parete di sinistra è esposto un dipinto settecentesco di notevole pregio che raffigura il Beato Alberto da Villa d'Ogna morente. La chiesa è raggiungibile da Cima Campella in un'ora di cammino, servendosi del sentiero segnalato C.A.I. 241.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.901538,45.890497,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 62 ">
+		<name>SAN PELLEGRINO TERME - Chiesa di Santa Maria Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/62_ChiesadiSantaMariaAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa è costruita in pietra locale e presenta una caratteristica facciata con mattoni a vista, Dedicata a S. Maria Assunta, venne fatta erigere verso il 1928 dai nobili villeggianti nella località di Vetta, perché fossero celebrate le funzioni domenicali nella stagione estiva.<br><br>
+<b>Indirizzo: </b>Località Vetta, San Pellegrino terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.654702,45.839899,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 619 ">
+		<name>GROMO - Chiesetta della Crocetta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/619_ChiesettadellaCrocetta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta della Crocetta, costruita in occasione del colera del 1856, è posta appena fuori dal paese ed è dedicata alla B.V. Addolorata. Ad accogliere il visitatore è un piccolo porticato di costruzione recente dato da due archi con in mezzo una colonna in pietra con capitello. Affreschi del '500 sono venuti alla luce nel corso di recenti restauri. Sulla parete di fondo si nota un piccolo affresco dedicato alla Madonna Addolorata.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.929622999999999,45.969918,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 618 ">
+		<name>VALGOGLIO - Chiesa S. Pietro e Paolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/618_ChiesaSPietroePaolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa della frazione Novazza, dedicata ai Santi Pietro e Paolo e risalente al XIX secolo, possiede un ciclo di affreschi sulla vita di San Pietro, eseguito da Ponziano Loverini. Qui, a fine giugno, si celebra la festa dedicata ai Santi, con una processione lungo le vie del borgo. <br><br>
+<b>Indirizzo: </b>Novazza - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.918849,45.96838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 617 ">
+		<name>ONETA - Chiesa Parrocchiale Apostolo San Bartolomeo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/617_ChiesaParrochialeApostoloSanBartolomeo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa Parrocchiale dedicata all'Apostolo San Bartolomeo si trova a Chignolo, frazione del comune di Oneta, posta su di una collina nella val del Riso. L'edifico risale al 1600.<br><br>
+<b>Indirizzo: </b>Chignolo - Oneta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.828554000000001,45.86012,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 616 ">
+		<name>GORNO - Chiesa Parrocchiale San Martino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/616_ChiesaParrocchialeSanMartino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa più importante e più grande del paese è la chiesa parrocchiale dedicata a San Martino di Tour. Situata nella contrada centrale del paese, Villassio, vede la sua prima edificazione nel 1478. L'edificio attuale fu inaugurato nel 1933 e venne successivamente affrescato da Emilio Nembrini tra il 1938 e il 1939; al suo interno sono state ricollocate tutte le opere asportabili della precedente chiesa, tra cui alcune opere della Bottega dei Manni e dei Fantoni.<br><br>
+<b>Indirizzo: </b>Via Madonna 11, Villassio - Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseominieredigorno.it">www.ecomuseominieredigorno.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.843646,45.861088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 615 ">
+		<name>PARRE - Chiesa parrocchiale di San Pietro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/615_ChiesaparrocchialediSanPietro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'attuale edificio della Parrocchiale di San Pietro risale al 1700, ma rimangono alcune tracce sia dell'edificio preesistente del 1200 che della struttura cinquecentesca. L'edificio subì ulteriori trasformazioni nell'800 e nel '900; al suo interno sono conservate diverse opere del Fantoni, tra cui il coro ligneo e l'altare maggiore. L'opera più importante della chiesa è la pala cinquecentesca di Giovan Battista Moroni, raffigurante la Madonna col Bambino, i santi Pietro, Paolo e Giovanni. Nella chiesa si trovano altre pregevoli tele come il Battesimo di Gesù di Enea Salmeggia detto il Talpino, una Crocifissione di Giovan Paolo Cavagna e altre opere artistiche di scultura e intarsio.<br><br>
+<b>Indirizzo: </b>Via Don Palamini 1 - Parre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.891912,45.877466,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 613 ">
+		<name>VALTORTA - Chiesa di Sant&apos;Antonio Abate</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/613_ChiesaSantAntonioAbate.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di Sant'Antonio Abate situata nella contrada Torre del comune di Valtorta, è una delle più antiche e meglio conservate della Valle Brembana; al suo interno conserva pregiati affreschi del cinquecento.<br><br>
+<b>Indirizzo: </b>Torre - Valtorta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.531813400000001,45.97753500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 612 ">
+		<name>GROMO - Chiesa di Santa Maria Elisabetta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/612_ChiesadiSantaMariaElisabetta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di Santa Maria Elisabetta si trova nella contrada di Ripa Bassa. Dell'esistenza di quest'oratorio si ha menzione nel 1565, ma il tempio originario fu demolito nell'anno 1945 e sostituito dall'attuale chiesa che domina la vallata e che rivolge la sua entrata principale al mezzogiorno. La chiesa, di dimensioni notevoli, possiede un campanile con tre campane e conserva un unico affresco raffigurante Maria Elisabetta.<br><br>
+<b>Indirizzo: </b>Ripa Bassa - Gorno, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.929569000000001,45.976887,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 611 ">
+		<name>OLTRESSENDA ALTA - Chiesa di Santa Margherita</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/611_ChiesadiSantaMargherita.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa presenta un ampio portico che si sviluppa su due lati dell'edificio con eleganti colonnette in pietra locale. Al suo interno custodisce due sculture lignee di scuola fantoniana che raffigurano San Rocco e San Sebastiano.  Di notevole pregio è l'altare della Madonna del Rosario, opera dei Fantoni; la struttura è realizzata in marmo policromo e raffigura le statue di San Domenico e Santa Caterina da Siena e alcuni angeli in adorazione, mentre un medaglione nel paliotto raffigura la fuga in Egitto.<br><br>
+<b>Indirizzo: </b>Valzurio - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.9705,45.923078,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 610 ">
+		<name>ONETA - Chiesa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/610_ChiesaSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di San Rocco è una delle numerose chiese del Comune di Oneta, situata in località Chignolo. <br><br>
+<b>Indirizzo: </b>Chignolo - Oneta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.828716,45.860098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 609 ">
+		<name>PARRE - Chiesa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/609_ChiesadiSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel centro di Parre sotto, uno dei nuclei originari del paese, si erge la chiesa o oratorio di S. Rocco, la cui origine risale alla fine del '400. Pare che la costruzione di questa chiesa sia stata iniziativa dei discendenti degli antichi feudatari di Parre, i Belliboni. All'interno dell'edificio sono conservati un organo settecentesco, una pala d'altare del Seicento che rappresenta la Madonna in gloria con Gesù Bambino, San Pietro, San Rocco e San Sebastiano e un affresco cinquecentesco della Madonna delle Grazie.<br><br>
+<b>Indirizzo: </b>Via San Rocco, Parre di Sotto - Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoparre.com">www.prolocoparre.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.888349,45.872959,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 608 ">
+		<name>MEZZOLDO - Chiesa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/608_SanroccoMezzoldo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La piccola chiesa di San Rocco fu costruita nel Cinquecento lungo la via Priula, l'antica strada che collegava i Grigioni a Bergamo e da lì a Venezia, correndo sul fondovalle quando l'intera provincia di Bergamo passò sotto la dominazione veneziana per volere del podestà Alvise Priuli.<br><br>
+<b>Indirizzo: </b>Strada provinciale 8 - Mezzoldo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.665917,46.01104100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 607 ">
+		<name>GORNO - Chiesa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/607_ChiesadiSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Rocco è situata nella contrada Riso. Nel XVI secolo in questo luogo venne edificata una cappella, successivamente trasformata in chiesa nel XVII secolo.  All'interno della chiesa è conservata la statua di San Rocco, un'opera lignea dipinta del XVII secolo che tradizionalmente viene portata in processione in occasione della festa del santo il 16 agosto.<br><br>
+<b>Indirizzo: </b>Contrada Riso - Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.gorno.bg.it">www.comune.gorno.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.839036999999999,45.859377,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 606 ">
+		<name>GORNO - Chiesa di San Mauro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/606_ChiesadiSanMauro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa, situata in contrada Peroli Alti, era inizialmente dedicata alla Madonna di Loreto, poi successivamente convertita in chiesa dedicata al culto di San Mauro. La chiesa è stata in passato oggetto di forte culto, ricevendo ex voto per grazia ricevuta (oggi se ne conservano 14, tra cui il più antico tra quelli conservato nelle chiese di Gorno datato 1740), la maggior parte dedicati a San Mauro e in parte dedicati alla Madonna di Loreto.<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.gorno.bg.it">www.comune.gorno.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.834146000000001,45.87031,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 605 ">
+		<name>SAN GIOVANNI BIANCO - Chiesa di San Marco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/605_ChiesadiSanMarco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa San Marco si trova nella contrada di Sentino, lungo l'antica via Mercatorum, e al suo interno è custodita la Pietà del Ceresa, un'opera di grande rilevanza artistica.<br><br>
+<b>Indirizzo: </b>Sentino - San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.com/opuscolo/ceresa.htm">www.sangiovannibianco.com/opuscolo/ceresa.htm</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.648319000000001,45.884703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 603 ">
+		<name>GROMO - Chiesa di San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/603ChiesaSgiacomoGromo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa di San Giacomo è del XII sec. La sua struttura architettonica è romanica a tre navate. La navata posta a nord presenta un forte intervento barocco. Il presbiterio offre uno scenario straordinario: un altare ligneo dorato opera fantoniana (1645); un coro fantoniano con 34 cariatidi; sei tele del Cifrondi (1690) che ci descrivono episodi della vita di S. Giacomo e di S. Vincenzo martire. Si possono inoltre ammirare tre ancone lignee cinquecentesche di ottima fattura. Sulla parete di fondo: la tela di S. Luigi (Saverio della Rosa 1782), S. Antonio (Panfilo Nuvolari sec. XVII). Un bellissimo organo, (E. Sgritta 1885. Alcuni registri risalgono al 1634. Vi suonò pure Antonio Gonzales che ebbe come alunno Gaetano Donizzetti) completa lo splendore di questa chiesa che vanta pure un bellissimo Battistero (1512). All'esterno al termine del portico (XVII sec.) si può ammirare la cappella di S. Benedetto (1456) i cui affreschi ne cantano la bellezza. A fianco di questa cappella si può visitare il museo le cui opere custodite sono tutte appartenenti alla storia cristiana di Gromo.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+<b> Sito internet: </b><a href="www.gromo.eu">www.gromo.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.930618000000001,45.972097,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 602 ">
+		<name>GROMO - Chiesa di San Bartolomeo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/602ChiesaSBartolomeoGromo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di San Bartolomeo si trova nella frazione di Boario. I primi documenti che attestano la sua esistenza risalgono al 1429. Si narra che nel 1575 San Carlo Borromeo in una delle sue visite pastorali, stabilì di ridurre l'altare maggiore e di adornare la chiesa. Nel 1677 divenne una parrocchia a se stante grazie al Vescovo Giustiniani. Il portico della Chiesa è il punto di arrivo di una mulattiera selciata e punteggiata di santelle che collega Boario con il Comune di Gromo.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345 <br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+<b> Sito internet: </b><a href="www.gromo.eu/index.php/arte-e-cultura/item/31-chiesa-di-san-bartolomeo#.VToHNyHtlBc">www.gromo.eu/index.php/arte-e-cultura/item/31-chiesa-di-san-bartolomeo#.VToHNyHtlBc</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.942372000000001,45.96843100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 601 ">
+		<name>GORNO - Chiesa della Madonna delle Grazie</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/601_ChiesadellaMadonnadelleGrazie.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa della Madonna delle Grazie si trova nella frazione Villassio e venne edificata grazie alla concessione data alle suore che abitavano l'annesso piccolo convento nel 1448. A seguito degli ultimi restauri del 2000 vennero alla luce alcuni affreschi tipicamente prerinascimentali che raffigurano l'immagine di una Natività e di alcuni santi risalenti al  '500. <br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.gorno.bg.it">www.comune.gorno.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.845769000000001,45.862508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 59 ">
+		<name>SAN PELLEGRINO TERME - Tempio dei caduti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/59_Tempiodeicaduti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Tempio dei Caduti, un tempo conosciuto come Tempio della Vittoria, è un edificio in stile romanico costruito in pietra locale, dedicato ai combattenti che hanno perso la vita nella prima e seconda guerra mondiale. Al suo interno custodisce una serie di mosaici di particolare interesse.<br><br>
+<b>Indirizzo: </b>Viale della Vittoria - San Pellegrino Terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.663779999999999,45.839478,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 58 ">
+		<name>SAN PELLEGRINO TERME - Chiesa Parrocchiale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/58_ChiesaPSanPellegrinoTerme.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Percorrendo la gradinata che parte dalla statale, è possibile raggiungere la chiesa di San Pellegrino Terme, dedicata al vescovo martire. La chiesa si staglia in un suggestivo paesaggio montano e presenta una facciata in stile neoromanico.<br><br>
+<b>Indirizzo: </b>Piazza San Francesco d'Assisi - San Pellegrino Terme, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.665513000000001,45.832585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 562 ">
+		<name>GORNO - Chiesa della SS Trinità</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/562_ChiesadellaSSTrinit%C3%A0.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa della SS Trinità è situata in località Grumello. Esternamente l'edificio si presenta leggermente sopraelevato rispetto al livello del giardino antistante. Fu consuetudine della Parrocchia e del Comune di Gorno tenere nella casa attigua alla chiesa un romito (remet). Uno dei  suoi compiti era quello di suonare le due campane della chiesa (la più antica reca inciso l'anno 1595, l'altra l'anno 1769) per annunciare il cattivo tempo, dall'inizio di maggio alla fine di settembre di ogni anno.<br><br>
+<b>Indirizzo: </b>Gorno, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.gorno.bg.it">www.comune.gorno.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.839881,45.863462,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 48 ">
+		<name>SERINA - Chiesa di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/48_ChiesadiSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Rocco, situata nella contrada Bosco, ha una pianta rettangolare con abside quadrata ed è stata costruita nel secolo xv. Sull'altare maggiore vi è una tela di  Jacopo Palma il Giovane rappresentante San Francesco San Rocco e San Sebastiano, e la Madonna in Gloria.<br><br>
+<b>Indirizzo: </b>Serina, BG<br>
+<b>Telefono: </b>Pro Loco Serina Tel./Fax. 034566065 <br>
+<b>Mail: </b>ufficioturistico@comune.serina.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.728605,45.867142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 47 ">
+		<name>SERINA - Chiesa Santa Maria Annunciata</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/47_ChiesaSantaMariaAnnunciata.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa chiesa risal al Settecento e fu realizzata su disegno di Gian Battista Caniana.  Il campanile è antecedente alla costruzione della chiesa e ha subito diversi interventi di ristrutturazione nel corso dei secoli. La facciata dell'edificio spicca dal paese; al suo interno la chiesa custodisce un notevole numero di affreschi e pale di artisti della valle, fra cui le opere di Palma del Vecchio.<br><br>
+<b>Indirizzo: </b>Via Caneva - Serina, BG<br>
+<b>Telefono: </b>Pro Loco Serina Tel./Fax. 034566065 <br>
+<b>Mail: </b>ufficioturistico@comune.serina.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.729782999999999,45.87242400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 459 ">
+		<name>GORNO - Chiesa di Sant&apos;Antonio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/459_ChiesadiSantAntonio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di Sant'Antonio è situata nell'omonima contrada e fu costruita presumibilmente nel XVII secolo. Esternamente l'edificio è abbastanza semplice, con la facciata principale decorata da un affresco che raffigura Sant'Antonio. L'interno della chiesa conserva un altare marmoreo di recente fattura e un antico altare ligneo del '700, caratterizzato da un tabernacolo a tempietto e due angeli lignei porta ceri.<br><br>
+<b>Indirizzo: </b>Contrada San'Antonio - Gorno, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.849665,45.86268199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 458 ">
+		<name>GORNO - Chiesa di San Giovanni Battista</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/458_ChiesadiSanGiovanni.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa di San Giovanni Battista è situata nell'omonima contrada di San Giovanni nel paese di Gorno. Costruita nel 1478, si caratterizza per il portico esterno, sul quale di trovano alcuni affreschi. L'interno è a navata unica. La parete sinistra della navata risulta spoglia, mentre nella parete di destra sono conservati gli affreschi quattrocenteschi ripristinati durante l'ultimo restauro dell'edificio, tra cui una rappresentazione dell'ultima cena.<br><br>
+<b>Indirizzo: </b>Contrada San Giovanni - Gorno, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.comune.gorno.bg.it">www.comune.gorno.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.854989,45.863846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 457 ">
+		<name>VALGOGLIO -  Parrocchia di Santa Maria Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/457_ParrocchiaSantaMariaAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La parrocchiale di Valgoglio, dedicata a Santa Maria Assunta, risale al secolo XV. E' caratterizzata dal particolare campanile a cipolla e dall'ampio porticato esterno che segue due lati del perimetro. Presenta, sia sotto il portico esterno che all'interno, pregevoli affreschi del XIV e del XV secolo, tra i quali una magnifica Ultima Cena. Al suo interno conserva diverse tele e sculture, un polittico ligneo e diverse sculture del primo Cinquecento.<br><br>
+<b>Indirizzo: </b>Via Vittoria 2 - Valgoglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.912405,45.975301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 456 ">
+		<name>VALNEGRA - La Chiesa di San Carlo Borromeo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/456_ChiesaSanCarloBorromeo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa piccola  chiesa è situata sull'omonima collina morenica. In questo luogo vennero sepolti i morti della peste durante l'epidemia del 1630.  In seguito ad un voto fatto dalla popolazione, al suo interno venne incisa la scritta "Il popolo di Valnegra nel colera del 1867", oggi non più leggibile. A causa del deterioramento venne sconsacrata e decisa la vendita. Oggi è di proprietà comunale.<br><br>
+<b>Indirizzo: </b>Valnegra, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.valnegra.bg.it">www.comune.valnegra.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.68999,45.94924699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 422 ">
+		<name>FINO DEL MONTE - Chiesa Parrocchiale di S. Andrea</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/422_ChiesaParrocchialeFino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa Parrocchiale di S. Andrea, situata nel piccolo comune di Fino del Monte, fu edificata tra il XIX ed il XX secolo in stile neorinascimentale, in sostituzione della vecchia parrocchiale demolita nel 1957. La chiesa custodisce opere di notevole pregio, tra cui spicca una tela attribuita a Giovan Battista Moroni. Tra le opere maggiori un crocefisso ad opera di Andrea Fantoni, una Pietà attribuita al Ceresa e un Cristo Risorto attribuito al Lotto.<br><br>
+<b>Indirizzo: </b>Via Da Fin - Fino del Monte, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.991644000000001,45.89043,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 420 ">
+		<name>CLUSONE - Chiesa di San Defendente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/420_ChiesadiSanDefendente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa di S. Defendente fu eretta nel 1470 in adempimento di un voto fatto dalla Comunità di Clusone durante una pestilenza. Negli Atti della Visita Apostolica di S. Carlo Borromeo, avvenuta nel settembre del 1575, è indicata come Oratorio quasi campestre; oggi invece costituisce un anello di congiunzione tra il centro storico e la nuova zona residenziale orientale. L'abside ricoperto di affreschi realizzati tra il '400 e il '600 costituisce un'importante testimonianza di arte votiva rivolta a San Defendente e San Rocco.<br><br>
+<b>Indirizzo: </b>Via San Defendente - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.954456,45.890779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 419 ">
+		<name>CLUSONE - Chiesa di S. Anna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/419_ChiesadiSAnna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di Sant'Anna, di origine quattrocentesca, era parte del complesso architettonico che sorse come Convento delle Terziarie Francescane. La piccola chiesetta è sempre stata un punto di riferimento importante per le comunità delle contrade circostanti -Invico, Somvico e Longarete - mentre il convento fu sede di numerose istituzioni, tra cui la gendarmeria austriaca e il primo Ospedale Civile. L'edificio conserva affreschi sia all'interno che sulla facciata e alcuni dipinti di Lorenzo Lotto. 
+<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.949481000000001,45.89014499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 417 ">
+		<name>CLUSONE - Chiesetta di San Lucio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/417_sanlucio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesetta di San Lucio è situata sul dorsale del monte Pianone, a 1027 m., in posizione dominante sull'altopiano. La cappella dedicata a S. Lucio, protettore dei mandriani e dei casari, è anteriore al 1529 e venne eretta dai numerosi mandriani che per buona parte dell'anno si stabilivano sul monte per il pascolo del bestiame e la falciatura del fieno. Nel 1800 questa chiesetta è stata restaurata e dotata di un campanile e una sacrestia.<br><br>
+<b>Indirizzo: </b>Loc. San Lucio - Clusone, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.953987,45.863575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 416 ">
+		<name>CASTIONE DELLA PRESOLANA - Chiesa di San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/416_Chiesa_SanGiacomo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di San Giacomo Maggiore Apostolo si trova a Castione della Presolana e risale al sec. XVII  XVIII. La chiesa ha la facciata molto semplice con ingresso in contorno di pietra di Sarnico, preceduto da cinque gradini in arenaria, affiancato ai lati da due finestre contornate come l'ingresso e protette da inferriata. Internamente la chiesa presenta una navata unica divisa in due campate coperte da volto a vela.<br><br>
+<b>Indirizzo: </b>Via Rusio - Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.037007,45.915939,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 415 ">
+		<name>ARDESIO - Chiesetta di San Pietro</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/415_ChiesettadiSanPietro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Pietro, costruita sul confine di un antico terrazzo fluviale, è collocabile nel periodo romanico e ha subito numerosi rifacimenti a partire dal XIV secolo. Sicuramente posteriore è la costruzione del porticato. La chiesa, insieme ad altri luoghi dell'alta Val Seriana, fu meta delle visite pastorali di S. Carlo Borromeo nel 1575.<br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it">www.viviardesio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.930585000000001,45.934587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 40 ">
+		<name>TALEGGIO - Chiesa parrocchiale di Peghera</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/40_ChiesaPeghera.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La frazione Peghere, nel comune di Taleggio, è il primo nucleo abitato che si incontra nella Val Taleggio giungendo dalla forcella di Bura.
+L'antica chiesa parrocchiale dedicata a San Giacomo, già esistente nel 1370 e ricostruita nel 1868, conserva al suoi interno, nell'abside dietro l'altar maggiore, una delle opere più importanti della valle realizzata da Palma il Vecchio di Serina, ovvero un polittico a sette scomparti dedicato a san Giacomo. Questa è una delle poche opere dell'artista ancora conservate in Valle.
+<br><br>
+<b>Indirizzo: </b>Via chiesa, 1, Peghera - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.565619,45.87434399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 392 ">
+		<name>GROMO - Chiesa San Gregorio Magno</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/392_ChiesaSanGregorioMagno.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa di San Gregorio Magno è situata nella piazza principale del paese. Di costruzione cinquecentesca, presenta un portale in pietra di Sarnico e soffitto a botte leggermente decorato. Il pezzo più interessante conservato al suo interno è una pala di Enea Talpino, detto Salmeggia, denominata "La Vergine col Bambino", datata 1625 e posta sull'altare all'interno di un ancòna di legno intagliata. <br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.929594,45.969052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 354 ">
+		<name>AVERARA - Chiesa di San Pantaleone</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/354_chiesasanpantaleone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa di San Pantaleone si trova nella località medioevale di Redivo (a 750 m), nel comune di Averara. Si caratterizza per il suo elegante e imperdibile campanile romanico a bifore del '400. <br><br>
+<b>Indirizzo: </b>Via Redivo, Loc. Redivo - Averara, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.634925000000001,45.985849,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 3 ">
+		<name>VALTORTA - Chiesa dell&apos;Assunta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/3_ChiesadellAssunta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa dell'Assunta nel comune di Valtorta deve il proprio nome alla conformazione tortuosa della Val Stabina. L'edificio, che si trova nel centro del paese, è stata realizzata verso la fine dell'Ottocento in stile rinascimentale. Al suo interno custodisce opere importanti, fra cui due polittici e intarsi. In quest'area, a partire dal medioevo, si sviluppò una florida economia legata all'estrazione e alla lavorazione del ferro, che durò fino alla fine della dominazione veneta. A ricordo della storia passata del paese rimane ancora oggi un affresco sulla parete esterna della parrocchiale che raffigura il Leone di San Marco.
+<br><br>
+<b>Indirizzo: </b>Via Roma - Valtorta, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.ecomuseodivaltorta.com/chiesa-valtorta.html">www.ecomuseodivaltorta.com/chiesa-valtorta.html</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.534535999999999,45.97764700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 299 ">
+		<name>CUSIO - Parrocchiale di Santa Margherita D&apos;Antiochia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/299_ParrocchialeCusio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa Parrocchiale di Santa Margherita d'Antiochia, risale al XV secolo. Al suo interno custodisce un polittico di Andrea Previtali e un pulpito intarsiato ad opera dei Rovelli, famiglia originaria di Cusio e attiva in valle fra il XVII e XVIII secolo. Quest'opera costituisce uno splendido esempio dei maestri del legno brembani, un tempo definiti "marangoni" (dal dialetto marengù o maringù).<br><br>
+<b>Indirizzo: </b>Piazza della Vittoria - Cusio, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.603113000000001,45.99103899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 285 ">
+		<name>DOSSENA - Parrocchiale di Dossena</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/285_ParrocchialediDossena.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Parrocchiale di Dossena edificata nel XV secolo si trovò a capo di ben ventitré chiese site nei borghi limitrofi e divenne sede dell'autorità religiosa arcipresbiteriale plebana. La chiesa custodisce un elevato numero di quadri, arredi e paramenti provenienti da Venezia, donati dalle famiglie originarie di Dossena emigrate nella città lagunare prima e durante il dominio della Serenissima.<br><br>
+<b>Indirizzo: </b>Via Chiesa - Dossena, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.700780999999999,45.878045,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 284 ">
+		<name>ROVETTA - Chiesa Parrocchiale di San Lorenzo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/284_ChiesaParrocchialediSanLorenzo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella frazione San Lorenzo sorge l'omonima chiesa parrocchiale, edificata nel 1899. L'edificio è affiancato dal campanile risalente al 1910 circa e dalla vecchia parrocchiale costruita nel 1777. Il complesso è costruito sopra l'area di un antico castello risalente al 1300; all'interno della chiesa sono custodite alcune opere di valore di Lattanzio Querena e Domenico Carpinoni.<br><br>
+<b>Indirizzo: </b>Piazza Castello 6, Fraz. San Lorenzo - Rovetta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.978092,45.87717,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 282 ">
+		<name>GANDELLINO - Parrocchia di San Martino Vescovo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/282_ParrocchiadiSanMartino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La parrocchiale di San Martino, è un maestoso edificio in porfido quarzifero lavorato a mano, la cui costruzione si è protratta per 64 anni, fino al 1984. Disposta su due piani, la cripta si trova dove sorgeva la vecchia chiesa cinquecentesca nello stesso luogo in cui è rimasta solo l'attuale sacrestia. <br><br>
+<b>Indirizzo: </b>Piazza Adua 2 - Gandellino, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.94699,45.989765,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 281 ">
+		<name>OLTRESSENDA ALTA - Chiesa di San Bernardo in Nasolino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/281_ChiesadiSanBernardo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La parrocchiale cinquecentesca di Nasolino, dedicata a S. Bernardo da Mentone, conserva lavori di intaglio e sculture di Gian Giuseppe Piccini e una tavola di Francesco Rizzo di Santa Croce raffigurante la Madonna con il Bambino e i Santi Giovanni Battista e Francesco. L'altare maggiore di scuola fantoniana rappresenta un'opera di notevole pregio.<br><br>
+<b>Indirizzo: </b>Nasolino - Oltressenda Alta, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.94506,45.914283,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 280 ">
+		<name>ARDESIO - Parrocchia di San Giorgio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/280_ParrocchiadiSanGiorgio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Parrocchia di S. Giorgio è situata al centro del paese di Ardesio; la sua importanza è attestata dalle numerose  celebrazioni religiose che ancora oggi si svolgono nel paese. Risalente al 1176, venne ricostruita nel 1455 dal vescovo Barozio; il suo presbiterio fu costruito su disegno di Gianbattista Caniana, appartenente alla famiglia dei celebri intarsiatori originari di Romano di Lombardia.<br><br>
+<b>Indirizzo: </b>P.zza S. Giorgio 6 - Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.viviardesio.it">www.viviardesio.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.931445999999999,45.936611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 279 ">
+		<name>PREMOLO - Chiesa parrocchiale di Sant&apos;Andrea e cripta ipogea</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/279_ChiesaparrocchialePremolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Verso il centro del paese è possibile visitare la chiesa parrocchiale di Sant'Andrea, di origine antichissima ma più volte riedificata tra il XVI e il XVIII secolo. All'interno sono presenti alcune sculture di Andrea Fantoni ed altri dipinti. Sotto la struttura si trova una cripta ipogea in pietra, dove sono conservate le spoglie di Don Antonio Seghezzi, morto in campo di concentramento a Dachau.<br><br>
+<b>Indirizzo: </b>Via Ranica 38 - Premolo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.87499,45.868258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 278 ">
+		<name>SERINA - Chiesa SS Trinità Antico Convento di Clausura</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/278_ChiesaSSTrinit%C3%A0.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ampia costruzione risalente al 1675, finanziata da Giovanni Pietro Tiraboschi Bombello e destinata alle monache claustrali Domenicane. All'interno si trova un chiostro quadrangolare con archi poggiati su colonne ricavate dalla pietra Dolomia, in dialetto comunemente denominata "mültì". Oltre ai chiostri e al refettorio del piano terra, al primo piano si trovano le celle originariamente riservate alle monache, mentre a monte dell'edificio principale, circondata da un alto muro di cinta, si trova l'ortaglia con vani un tempo adibiti a stalla e magazzino. Nella chiesa  sull'altare maggiore si trova una tela di Palma il Giovane che rappresenta la SS. Trinità, a cui si affiancano altre opere di prego realizzate da artisti locali.<br><br>
+<b>Indirizzo: </b>Via Palma il Vecchio 20 - Serina, BG<br>
+<b>Telefono: </b>Pro Loco Serina Tel./Fax. 034566065 <br>
+<b>Mail: </b>ufficioturistico@comune.serina.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.729118,45.870403,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 276 ">
+		<name>SCHILPARIO - Chiesetta di Santa Elisabetta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/276_ChiesettadiSantaElisabetta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Costruita attorno al 1460 , la chiesa di Sant'Elisabetta sorge adiacente alla strada statale della Presolana. Il  porticato è accessibile solo dai lati, attraverso aperture ad arco a tutto sesto. <br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+<b>Telefono: </b>Comune di Schilpario Tel. 034655056<br>
+<b>Mail: </b>info@comune.schilpario.bg.it <br>
+<b> Sito internet: </b><a href="www.comune.schilpario.bg.it ">www.comune.schilpario.bg.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.165681,46.009795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 275 ">
+		<name>PIAZZATORRE - Chiesa di San Giacomo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/275_ChiesadiSanGiacomo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Situata sul poggio che domina l'ingresso del paese, la chiesa di San Giacomo fu edificata nel 1500 e consacrata il 29 luglio 1514. La chiesa appare oggi molto diversa da un tempo, in quanto l'edificio è stato oggetto di numerosi interventi e ristrutturazioni. La chiesa si trova relativamente lontano dal centro abitato di Piazzatorre e - nonostante il Vescovo avesse suggerito di costruirla in una posizione più comoda - gli abitanti insistettero perché fosse edificata nel luogo di preghiera delle generazioni passate, così da poter essere visibile anche ai pastori che abitavano le baite del Pegherolo.<br><br>
+<b>Indirizzo: </b>Via IV Novembre 11 - Piazzatorre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.piazzatorre.bg.it">www.comune.piazzatorre.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.677324000000001,45.989918,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 274 ">
+		<name>CUSIO - Chiesa di San Giovanni Battista</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/274_ChiesadiSanGiovanniBattista.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Giovanni Battista a Cusio si trova sulla linea di spartiacque fra il Monte Disner e il Pizzo di Cusio. All'interno presenta numerosi affreschi di Cristoforo Baschenis il Giovane, datati 1583. La rilevanza sociale dell'edificio per la comunità locale è testimoniato al suo esterno dalla pozza per abbeverare gli animali, da un piccolo sagrato di pietra e da una fontanella.<br><br>
+<b>Indirizzo: </b>Cusio, BG<br>
+ 
+ 
+ 
+ 
+<b>Info: </b>Per eventuali visite chiedere informazioni al comune di Cusio o al parroco di Cusio, Santa Brigida, Ornica e Valtorta<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.60235,45.9839,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 273 ">
+		<name>SANTA BRIGIDA - Chiesa di S. Brigida</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/273_ChiesadiSBrigida.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La prima chiesa della valle, antecedente al XIII secolo, sorgeva nella località di Santa Brigida, lungo la parte alta dell'antica via Mercatorum. Dell'edificio originario rimangono importanti tracce nelle forme architettoniche e nei dipinti conservati nella chiesa attuale. La chiesa presenta una sola navata, un campanile a cuspide piramidale, una piccola cella campanaria e un vasto porticato all'esterno. Gli affreschi che decorano il portico sembrano appartenere alla chiesa originaria.<br><br>
+<b>Indirizzo: </b>Santa Brigida, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.624749,45.982149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 272 ">
+		<name>FINO DEL MONTE - Chiesa di San Salvatore</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/272_ChiesadiSanSalvatore.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesetta di San Salvatore è stata costruita intorno all'anno 1520 dal nobile Giovanni Simone Da Fin all'ordine, all'interno del convento delle monache Clarisse di clausura. Il convento, soppresso nel 1575 dal cardinale Carlo Borromeo, venne frazionato e divenne proprietà di alcune famiglie del paese che lo trasformarono in un agglomerato di abitazioni private, conservando solo la chiesetta.<br><br>
+<b>Indirizzo: </b>Piazza Olmo 25 - Fino del Monte, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.991778,45.891142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 271 ">
+		<name>LENNA - Oratorio di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/271_OratoriodiSanRocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'Oratorio cinquecentesco di San Rocco conserva una cappella campestre di cui è emerso il valore grazie i restauri del secolo scorso. I lavori hanno infatti ripristinato un affresco databile all'inizio del Cinquecento, che in passato era stato ricoperto per questioni sanitarie a seguito dell'epidemia di peste che aveva colpito la Valle nel 1630.<br><br>
+<b>Indirizzo: </b>Lenna, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.680270999999999,45.944617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 270 ">
+		<name>VALNEGRA - Chiesa di San Michele Arcangelo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/270_ChiesadiSanMichele.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Secondo le ricostruzioni storiche, la chiesa di S. Michele Arcangelo, a Valnegra, risale alla metà del XV secolo. La chiesa attuale è posta all' inizio del paese e sorge in corrispondenza della chiesa antica. Nel corso dei secoli l'edificio ha subito numerosi interventi strutturali, architettonici e decorativi; al suo interno sono custodite alcune opere di pregio.<br><br>
+<b>Indirizzo: </b>Via Chiesa 2 - Valnegra, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.valnegra.bg.it">www.comune.valnegra.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.689719,45.949288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 269 ">
+		<name>PIAZZA BREMBANA - Chiesa di San Martino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/269_ChiesadiSanMartino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa parrocchiale di San Martino oltre la Goggia risale al VII sec. e sorge lungo un'antica via di transito che ha rivestito un'importanza considerevole, sia per il commercio, che come via di pellegrinaggio. L'edificio, che oggi si presenta in stile neo-gotico ottocentesco, conserva diverse opere lignee dei Fantoni, la famosa famiglia di intagliatori bergamaschi, e alcuni temi 'macabri' ricorrenti nelle celebri 'danze macabre' di Cassiglio. <br><br>
+<b>Indirizzo: </b>Piazza Brembana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.675708,45.944274,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 268 ">
+		<name>SCHILPARIO - Chiesa di S. Antonio da Padova - Contrada Serta</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/268_ChiesadiSanAntoniodaPadova.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La parrocchiale di Schilpario sorge nello stesso luogo in cui fu costruita la prima chiesa parrocchiale nel 1338, dedicata a S. Antonio da Padova. L'imponente chiese attuale è il risultato delle varie opere realizzate tra il 1664 e il 1682, che hanno previsto anche la costruzione del campanile. Al suo interno la chiesa custodisce dipinti e intarsi di notevole pregio e diverse sculture di scuola fantoniana.<br><br>
+<b>Indirizzo: </b>Piazza Angelo Maj - Schilpario, BG<br>
+<b>Telefono: </b>Comune di Schilpario Tel. 034655056<br>
+<b>Mail: </b>info@comune.schilpario.bg.it <br>
+<b> Sito internet: </b><a href="www.comune.schilpario.bg.it ">www.comune.schilpario.bg.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.149281,46.006798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 265 ">
+		<name>TALEGGIO - Chiesetta di San Rocco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/265_sanrocco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesetta di San Rocco (XV secolo) è situata nella contrada di Ca' Corviglio raggiungibile mediante deviazione sulla destra lungo la strada che dalla frazione di Sottochiesa porta a Pizzino. La Chiesa è dedicata da San Rocco e si trova all'interno del borgo che conserva numerosi edifici rurali con tetti rivestiti di piöde calcaree della valle. La Chiesa, all'interno della quale si possono ammirare la Pala dell'Altare e un quadro raffigurante la Vergine con il bambino, svolse un ruolo importante nel passato in occasione di epidemie, specialmente per quelle infettive che colpiscono i bambini. Attualmente viene aperta durante le celebrazioni del 16 agosto, il giorno di S. Rocco.<br><br>
+<b>Indirizzo: </b>Contrada Cà Corviglio - Taleggio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valtaleggio.com">www.valtaleggio.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.574807,45.89949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 264 ">
+		<name>RUSIO, CASTIONE DELLA PRESOLANA - Chiesetta di S. Pietro (San Peder)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/264_ChiesettaSanPietro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesetta di San Peder si trova sul territorio del comune di Castione della Presolana, nella frazione di Rusio. La chiesetta, eretta intorno al XI secolo, sorge su un picco roccioso che domina la Valle dei Mulini. È considerata il primo edificio religioso della zona, internamente ed esternamente sono presenti pitture murali risalenti al 400-500. L'ubicazione in un contesto naturale lontano dal centro edificato e la sua antichità la assimila al significato del "santuario" ossia un ruolo religioso immerso nella natura.<br><br>
+<b>Indirizzo: </b>Rusio - Castione della Presolana, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.037971,45.91599,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 262 ">
+		<name>CASSIGLIO - Parrocchia di San Bartolomeo Apostolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/262_parrocchiale_cassiglio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Parrocchia di San Bartolomeo Apostolo, situata nel territorio di Cassiglio, è un antico luogo di culto risalente al 1468. In quegli anni la parrocchia apparteneva alla diocesi di Milano e infatti mantiene ancora oggi il rito ambrosiano, come le altre sette parrocchie del ramo nord-ovest dell'alta Valle Brembana. L'interno è ornato di tele, tra cui la settecentesca pala centrale di Volonterio e quella della "Presentazione della Vergine al tempio", realizzata dai pittori Bianchi di Averara. Durante i lavori di restauro è riemerso un grande affresco della "Danza macabra" su una facciata esterna, un tema iconografico tardomedievale che si rivolge ai posteri come monito. L'opera risale alla seconda metà del XV secolo ed è attribuita ad Angelo Baschenis. <br><br>
+<b>Indirizzo: </b>Via alla Chiesa  - Cassiglio, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.612287,45.96645199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 261 ">
+		<name>MEZZOLDO - Chiesa parrocchiale San Giovanni Battista</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/261_ChiesaparrocchialeSanGiovanniBattista.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa parrocchiale di San Giovanni Battista sorge poco distante dal centro del paese. Venne edificata nel XVI secolo e al proprio interno conserva un'importante opera pittorica di Lattanzio di Rimini ed un suggestivo altare in marmo nero.<br><br>
+<b>Indirizzo: </b>Mezzoldo, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.666949000000001,46.008438,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 260 ">
+		<name>MEZZOLDO - Chiesetta Madonna delle Nevi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/260_ChiesettaMadonnadelleNevi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Mezzoldo è il paese dell'alta Val Brembana conosciuto come l'accesso alla Valtellina, attraverso il Passo san Marco. Qui sorgeva, al centro del paese, la dogana veneta che tassava i commercianti che attraversavano il confine.
+La Chiesetta Madonna delle Nevi, situata a fianco dell'omonimo rifugio, fu costruita nel XIX secolo per volere della comunità, essendo ancora oggi un luogo di ritrovo molto animato e attivo sia per i paesani, che per gli ospiti del rifugio.
+<br><br>
+<b>Indirizzo: </b>Mezzoldo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.madonnadellenevibg.it/it/storia/tradizioni-del-rifugio">www.madonnadellenevibg.it/it/storia/tradizioni-del-rifugio</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.655118,46.04276800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 226 ">
+		<name>ORNICA - Chiesa di Sant&apos;Ambrogio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/226_ChiesadiSantAmbrogio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Chiesa parrocchiale di Sant'Ambrogio è situata nel piccolo borgo di Ornica. Essa custodisce importanti testimonianze del passato come l'antico ossario, oltre a prospettare opere artistiche di grande rilievo come gli affreschi di Angelo Baschenis.<br><br>
+<b>Indirizzo: </b>Ornica, BG<br>
+ 
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.578412999999999,45.98843999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 222 ">
+		<name>PIAZZATORRE - Chiesa di Santa Lucia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/222_ChiesadiSantaLucia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nella parte alta del paese, discosta dalla strada, è possibile notare la chiesa di Santa Lucia, costruita in muratura e legno e caratterizzata da un'architettura semplice.<br><br>
+<b>Indirizzo: </b>Via S. Lucia 21 - Piazzatorre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.686809,45.990769,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 221 ">
+		<name>PIAZZATORRE - Chiesa di Sant&apos;Antonio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/221_ChiesadiSantAntonio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa piccola chiesetta, presenta un'elegante facciata dipinta a fresco. La cappella è ad una sola navata e al suo interno custodisce tele, stucchi e statue che rappresentano la Madonna col Bambino e altri santi.<br><br>
+<b>Indirizzo: </b>Via XX Settembre 28 - Piazzatorre, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.682248,45.990328,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 216 ">
+		<name>PIAZZOLO - Chiesa Parrocchiale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/religiose/chiese/216_ChiesaPiazzolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La chiesa parrocchiale di Piazzolo si erge su una costruzione risalente al XV secolo. Riedificata nel corso del XVIII secolo, è affiancata da una piccola cappelletta detta dei morti, in commemorazione alle vittime della peste. Recentemente è stato ristrutturato anche l'orologio della chiesa stessa: risalente alla prima metà del XX secolo, è dotato di una struttura in legno ed ha un funzionamento manuale.<br><br>
+<b>Indirizzo: </b>Piazzolo, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.670647000000001,45.97933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 411 ">
+		<name>SCHILPARIO - Tempio ai Dodici Martiri (ora chiesa di Santa Barbara)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/religiosi/411_tempiododicimartiri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Tempio dei dodici martiri, oggi chiesa di Santa Barbara, ricorda l'eccidio di 12 partigiani, caduti in un'imboscata fascista ai Fondi di Schilpario nella notte del 28 aprile 1945.<br><br>
+<b>Indirizzo: </b>Via Fondi - Schilpario, BG<br>
+<b>Telefono: </b>Comune di Schilpario Tel. 034655056<br>
+<b>Mail: </b>info@comune.schilpario.bg.it <br>
+<b> Sito internet: </b><a href="www.comune.schilpario.bg.it ">www.comune.schilpario.bg.it </a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.204894,46.01835700000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

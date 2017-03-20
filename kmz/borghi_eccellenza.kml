@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>borghi_eccellenza</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/borghi_eccellenza.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/borghi_eccellenza.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark id=" 351 ">
+		<name>CLUSONE</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/351_Clusone.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Clusone, posta su un altopiano di circa 600 metri, è circondata da colline e montagne. Il centro storico conserva ancora oggi importanti risorse artistiche: l'orologio astronomico, il palazzo comunale, l'Oratorio dei Disciplini, la Danza Macabra. Clusone assunse un ruolo rilevante come centro urbano soprattutto durante la dominazione Veneziana attraverso un Podestà, coadiuvato dall'Arengo, un'assemblea composta dai capifamiglia locali, e un "Consiglio di Congrega" che amministrava l'intera valle.<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.clusone.bg.it">www.comune.clusone.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.949794000000001,45.883977,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 350 ">
+		<name>CAMERATA CORNELLO - Cornello dei Tasso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/350_Cornello_dei_Tasso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Cornello dei Tasso, situato nel territorio di Camerata Cornello, è stato incluso tra i Borghi più belli d'Italia sia per la struttura urbanistica e architettonica medioevale ancora ben conservati, sia per il ruolo storico detenuto nell'ambito degli scambi commerciali. Anticamente questo borgo era infatti il centro dei commerci che si svolgevano lungo la Via Mercatorum, la strada medievale che collegava l'Alta Val Brembana con la Val Seriana raggiungendo Bergamo. Sul finire del Cinquecento, la costruzione nel fondovalle della via Priula da parte della Repubblica di Venezia, decretò la decadenza del borgo. Il borgo ha dato i natali a Bernardo e Torquato Tasso ed ha rappresentato il primo polo del sistema postale a scala internazionale; la rete postale collegava l'impero tedesco e gli altri stati d'Europa e fu gestito dalla famiglia Tasso fino alla modernità.<br><br>
+<b>Indirizzo: </b>Cornello dei Tasso - Camerata Cornello, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.cameratacornello.com">www.cameratacornello.com</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.654355000000001,45.89281900000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 349 ">
+		<name>GROMO</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/349_Gromo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Gromo è un piccolo paese di montagna di notevole interesse artistico, storico e naturale. Fra i vari riconoscimenti conferiti, il paese vanta la Bandiera Arancione, consegnata dal Touring Club Italiano nel 2008, e l'annoveramento tra "I borghi più belli d'Italia".<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.gromo.eu">www.gromo.eu</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.926743999999999,45.964187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 347 ">
+		<name>VALBONDIONE - Borgo di Maslana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/347_BorgodiMaslana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Maslana è un antico insediamento rurale che si adagia sulle soleggiate pendici meridionali del Pizzo Coca (3052 m), la più alta vetta delle Alpi Orobie. E' raggiungibile esclusivamente a piedi dalle ultime case di Valbondione attraverso un percorso di circa 40 minuti lungo una mulattiera e la sua posizione permette di ammirare il triplice salto delle cascate del Serio.  Maslana comprende quattro distinti gruppi di baite (Polli, Caffi, Ca' Sura e Piccinella) fra i 1.150 m e i 1.200 m; in alcuni casi, i grossi macigni scivolati a valle nel corso dei secoli sono stati utilizzati per costruire le mura e i tetti delle abitazioni.<br><br>
+<b>Indirizzo: </b>Valbondione, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.026843,46.04874300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 344 ">
+		<name>CARONA - Borgo di Pagliari</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/344_BorgodiPagliari.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>ll Borgo di Pagliari si caratterizza per un'architettura rustica, costruita con l'ardesia delle montagne vicine. I rilievi circostanti, che si allargano ad anfiteatro, costituiscono non solo lo spartiacque fra le province limitrofe di Bergamo e di Sondrio, ma anche l'epicentro di un'area culturalmente viva, segnata da numerosi sentieri e tracciati. Queste strade furono utilizzate dal '500, dopo l'apertura della Via Priula, per evadere i controlli daziali e contrabbandare le merci con la Valtellina e i Grigioni svizzeri, evitando la dogana veneta di Ca' San Marco. Pagliari per molto tempo fu l'ultimo insediamento prima dell'attraversamento del confine, e dunque sosta obbligata per viandanti e contrabbandieri. <br><br>
+<b>Indirizzo: </b>Carona, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.805296,46.025356,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 343 ">
+		<name>ISOLA DI FONDRA - Borgo di Pusdosso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/siti_tutelati/borghi_eccellenza/343_BorgodiPusdosso.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Pusdosso si trova a 1038 metri di quota, è la frazione più elevata del Comune di Isola di Fondra. Caratteristica è la disposizione dell'abitato con la chiesetta dei Santi Valentino e Pantaleone, le solide case di pietra addossate le une alle altre e, più distanti, le stalle. La disposizione serrata delle abitazioni è stata causa di frequenti e gravi incendi, in particolare quello che colpì la frazione alla fine del 1800 e che causò la distruzione di alcuni edifici, i cui resti sono ancora visibili nella piazzetta.<br><br>
+<b>Indirizzo: </b>Isola di Fondra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.728968999999999,45.97356500000001,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

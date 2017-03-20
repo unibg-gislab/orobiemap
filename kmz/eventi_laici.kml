@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>eventi_laici</name>
+	<Style id="s_ylw-pushpin32">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/eventi_laici.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl31">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/eventi_laici.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 4 ">
+		<name>VALTORTA - Tradizione della Giubiana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/4_TradizionedellaGiubiana.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La festa della Giubiana si svolge ogni anno il primo giovedì di marzo. Come vuole la tradizione, i ragazzi del paese corrono lungo le vie del centro e i prati circostanti scuotendo dei campanacci per risvegliare la primavera.<br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Primo giovedì di marzo<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.534811,45.97699299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 6 ">
+		<name>VALTORTA - Festa della parentela, cornamusa</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/6_festa_parentela.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Si tratta di una festa che si realizza nelle due domeniche di carnevale in cui si suona la cornamusa.<br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Ultime due domeniche di carnevale<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.534274999999999,45.977748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 11 ">
+		<name>BRANZI - Fiera di San Matteo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/11_FieradiSanMatteo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Le prime notizie dirette relative alla Fiera di Branzi risalgono al Settecento, ma è probabile che nel mese di settembre, al momento dell'abbandono degli alpeggi, Branzi fosse punto d'incontro di malghesi e commercianti già in pieno Medioevo. In origine quella di Branzi era soltanto una fiera di formaggi, ma poiché l'occasione si prestava anche per trattare la compravendita di vitelle, nel 1877 il Comune istituì ufficialmente anche la fiera del bestiame. Dopo un periodo di declino, con il progressivo abbandono degli alpeggi nel Novecento, l'Associazione Fiera di San Matteo si è attivata a partire dal 2007, per la rivitalizzazione di questa manifestazione, per promuovere i saperi e i prodotti locali di Branzi e della Val Brembana, in particolare i formaggi.<br><br>
+<b>Indirizzo: </b> Branzi, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Terza settimana di settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.758279,46.003525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 12 ">
+		<name>SANTA BRIGIDA - Festa della Pisa Egià</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/12_FestadellaPisaEgi%C3%A0.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ogni anno nel comune di Santa Brigida, alla vigilia dell'Epifania, si tiene la tradizionale festa della "Pisa egià". La manifestazione prevede un grande falò incendiato nel campo sportivo, da cui parte un animato corteo di persone con campanacci del bestiame legati ai fianchi.  La manifestazione ricorda un avvenimento storico del 1600, quando i governatori della Valsassina volevano imporre agli abitanti della Valle Averara una nuova unità di misura per il peso delle merci. Nonostante ciò, i commercianti riuscirono a mantenere la vecchia unità di misura, ovvero la Pisa egià<br><br>
+<b>Indirizzo: </b>Santa Brigida, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>5 gennaio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.621452,45.980654,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 13 ">
+		<name>ARDESIO - La Scasada del Zenerù</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/13_La%20ScasadadelZener%C3%B9.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il forte condizionamento climatico a cui i valligiani erano sottoposti nei periodi invernali derivava dalle poche possibilità tecniche possedute per difendersi dal freddo. Ciò si tramanda mediante la festa che la sera del 31 gennaio di ogni anno celebra la "Scasada del Zenerù", ossia la "scacciata" dell'inverno. In occasione dell'appuntamento astronomico che dà il via ai giorni della merla, considerati fin dall'antichità cerniera tra inverno e primavera, la popolazione della Valle Seriana si riunisce in un corteo che sfila  per il centro storico di Ardesio con campanacci, pentole, padelle e tutto ciò con cui si può far rumore, per scacciare il mese più freddo dell'inverno, "Zenerù" (rafforzativo di Zenér, in dialetto Gennaio), rappresentato da un fantoccio, ogni anno con sembianze diverse, bruciato in un falò al culmine della celebrazione. E' questo un rito dalle origini antiche, con una forte rilevanza culturale e di importanza storica che attesta il rapporto che gli abitanti hanno creato con la montagna sfruttandone possibilità e neutralizzandone i vincoli.<br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoardesio.it">www.prolocoardesio.it</a><br>
+<b>Periodo: </b>31 gennaio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.932231,45.93942299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 14 ">
+		<name>OLMO AL BREMBO - Erbe del Casaro - Val Brembana</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/14_ErbedelCasaro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Insieme ad altri dieci comuni della Val Brembana, Piazzatorre ospita la manifestazione "Erbe del Casaro", con l'obiettivo di promuovere i prodotti e le tradizioni gastronomiche della Valle, proponendo iniziative e appuntamenti per valorizzare le erbe spontanee, i formaggi brembani e i vini della bergamasca. Il connubio fra cultura, saperi e tradizioni del territorio che sta alla base di questo evento.<br><br>
+<b>Indirizzo: </b>Via Roma s.n.  Lungo la Strada Provinciale per il Passo San Marco - Olmo al Brembo, BG<br>
+<b>Telefono: </b>3481842781<br>
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.erbedelcasaro.it">www.erbedelcasaro.it</a><br>
+<b>Periodo: </b>Ultima settimana di Maggio e prima di Giugno<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.648892,45.971453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 16 ">
+		<name>SAN GIOVANNI BIANCO - Carnevale Terra di Arlecchino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/16_CarnevalenellaTerradiArlecchino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ogni anno la sfilata di San Giovanni Bianco inaugura il Carnevale nel territorio bergamasco, anticipando le feste degli altri paesi. In omaggio alla maschera bergamasca e al suo interprete originario della frazione Oneta, la manifestazione è intitolata "Carnevale nella Terra di Arlecchino". <br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Tra Febbraio e Marzo. Penultima domenica di carnevale.<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.650544,45.87181700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 17 ">
+		<name>GROMO - Concorso caseario Gromo in Forma</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/17_ConcorsocasearioGromoinForma.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La manifestazione "Gromo in Forma" si tiene a Gromo all'inizio dell'estate e consiste in una piccola fiera enogastronomica dedicata alla degustazione di formaggi e salumi seriani.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.gromo.eu">www.gromo.eu</a><br>
+<b>Periodo: </b>Maggio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.925756,45.96284000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 18 ">
+		<name>ORNICA - Presepe Vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/18_PresepeVivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio le strade del centro storico di Ornica si animano per celebrare la tradizione del presepe vivente.  Le porte delle case rimangono aperte e i numerosi figuranti rievocano le tradizioni popolari. La ricostruzione delle botteghe degli artigiani viene curata nei minimi dettagli, per far rivivere le attività caratteristiche dei paesi dell'alta Valle Brembana, tra cui il fabbro, la tessitura della lana, il ciabattino. Tra gli ambienti ricreati troviamo il lavatoio, le cantine, il forno, la falegnameria.<br><br>
+<b>Indirizzo: </b>Ornica, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Vacanze Natalizie<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.578785,45.988493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 19 ">
+		<name>SCHILPARIO - Via dei Presepi</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/19_ViadeiPresepi.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>A Schilpario nel mese di dicembre ha luogo "La via dei presepi", un concorso organizzato dall'ufficio turistico di Schilpario che premia il presepe più gradito al pubblico, scelto fra oltre 40 presepi esposti in tutto il centro storico. Il presepe più votato viene premiato al termine delle festività natalizie con una cerimonia organizzata presso la sala consiliare del Comune di Schilpario.<br><br>
+<b>Indirizzo: </b>Schilpario, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Fine settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>10.158404,46.00878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 20 ">
+		<name>ARDESIO - Festa del Ritorno del Sole - Valcanale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/20_FestadelRitornodelSole.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il 9 febbraio nella frazione di Valcanale, nel comune di Ardesio si tiene ogni anno una festa particolare per festeggiare il ritorno del sole. La posizione della località, infatti, fa sì che il 2 novembre il sole scompaia dietro la cima Fop, detta anche il Piz de Mèsdì, lasciando Valcanale completamente in ombra fino al 9 Febbraio. <br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>9 febbraio<br>
+<b>Info: </b>Fine settembre<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.859456,45.949658,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 22 ">
+		<name>ARDESIO - Fiera delle Capre</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/22_FieradelleCapre.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>L'allevamento della Valle era rivolto prevalentemente ai caprini, dal momento che erano in grado di affrontare l'asperità del terreno e la pendenza dei versanti per alimentarsi con la vegetazione spontanea. La Fiera delle Capre, che prende origine dal famoso soprannome degli abitanti di Ardesio, i "cavre dè ardés" (le capre di Ardesio), insieme alla Fiera dell'Asinello, che si svolge ogni anno la prima o la seconda domenica di febbraio, lo attesta. Frequenti gli scambi, gli acquisti e le vendite non solamente tra allevatori ma anche tra semplici appassionati che mantengono vivo l'interesse di tale attività anche da parte dei giovani.<br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoardesio.it">www.prolocoardesio.it</a><br>
+<b>Periodo: </b>Prima o seconda domenica di Febbraio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.930407000000001,45.938003,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 23 ">
+		<name>AVERARA - Festa delle Castagne</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/23_FestadelleCastagne.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Dal 1975, nel contesto storico dell'antica Via Mercatorum si tiene in ottobre la Festa delle Castagne, che oltre alle caldarroste averaresi propone altre specialità locali, come trippa e brasato. Per conservare i numerosi castagni del comune di Averara, negli ultimi anni - in concomitanza con la festa tradizionale - è stato promosso un corso di castanicoltura per diffondere l'arte dell'incisione e della pulizia dei castagneti; l'iniziativa si pone il duplice obiettivo di valorizzare la zona sia da un punto di vista turistico che ambientale.<br><br>
+<b>Indirizzo: </b>Averara, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.altobrembo.it">www.altobrembo.it</a><br>
+<b>Periodo: </b>Ottobre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.631924,45.989519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 24 ">
+		<name>ARDESIO - Ardesio DiVino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/24_ArdesioDiVino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ardesio DiVino  Wine & Food è una rassegna enogastronomica che si svolge il primo week-end del mese di Agosto nel centro storico di Ardesio dove vengono selezionati e premiati viticoltori e artigiani del gusto provenienti da tutta Italia nella prospettiva di recuperare il rapporto tra valori locali e sapori. <br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoardesio.it">www.prolocoardesio.it</a><br>
+<b>Periodo: </b>Primo fine settimana di Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.929174,45.93688999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 26 ">
+		<name>GROMO - La penna d&apos;oro - Poesia dialettale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/26_Lapennadoro.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Premio Penna d'Oro, istituito nel 1958 dal poeta Giacinto Gambirasio, nasce con lo scopo di stimolare la produzione letteraria in dialetto bergamasco. Nel 1988 l'ambito del concorso è stato esteso a livello regionale con lo scopo di valorizzare l'incontro tra elaborazioni letterarie nei diversi dialetti lombardi e di affiancare culture storico-linguistiche differenti.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+<b> Sito internet: </b><a href="www.alpdn.org/alp/modules.php?name=News&file=article&sid=40">www.alpdn.org/alp/modules.php?name=News&file=article&sid=40</a><br>
+<b>Periodo: </b>Ultimo sabato di luglio (premiazione)<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.926137000000001,45.966266,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 27 ">
+		<name>PARRE - Festa del Folklore</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/27_FestadelFolklore.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ogni anno, nei primi giorni di agosto, il gruppo Lampiusa di Parre organizza la Festa del Folklore, che prevede l'esibizione di diversi gruppi folkloristici in abbigliamento tipico. L'evento si svolge in concomitanza con  la Sagra del Capù, ricetta tipica a base di polpetta avvolta nella verza. Oltre agli spettacoli di gruppi folk e orchestre, presso l'Angolo Antico è possibile assistere ad alcune dimostrazioni riguardanti arti e mestieri di una volta.<br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.valseriana.eu ">www.valseriana.eu </a><br>
+<b>Periodo: </b>Inizio Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.892621,45.875743,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 29 ">
+		<name>CLUSONE - Estate di San Martino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/29_FestadelVinoNovelloEstatediSanMartino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ogni anno, in novembre, si svolge a Clusone l'Estate di San Martino, conosciuta anche come Festa del Vino Novello. In questa occasione le cantine aprono le porte per le degustazioni, mentre nel centro si svolgono spettacoli di musica, canti e danze popolari. E' possibile inoltre assaggiare prodotti tipici, castagne in particolare, e fare visite guidate gratuite del centro storico.<br><br>
+<b>Indirizzo: </b> Clusone, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Prima quindicina di Novembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.944825,45.889924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 30 ">
+		<name>CASTIONE DELLA PRESOLANA - Pegher Fest</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/30_PegherFest.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Pegher Fest si tiene ogni anno a Castione della Presolana, località Bratto, ed è la tradizionale festa che ricorda la transumanza delle greggi dagli alpeggi alle stalle. L'evento prevede il palio della pecora, con sfilata delle contrade in costumi tradizionali e pecore agghindate. La festa nasce dal forte spirito autoironico della gente del posto che spesso veniva paragonata alle pecore dagli abitanti dei paesi limitrofi, perché dediti quasi esclusivamente alla pastorizia. Nacque quindi l'idea di dedicare alle pecore una festa vera e propria, che celebrasse allo stesso tempo gli animali e gli uomini.<br><br>
+<b>Indirizzo: </b>Bratto - Castione della Presolana, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.presolana.it">www.presolana.it</a><br>
+<b>Periodo: </b>Inizio Ottobre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>10.057267,45.920464,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 31 ">
+		<name>CLUSONE - Camminar con Gusto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/31_CamminarconGusto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La seconda domenica di settembre, si tiene a Clusone l'evento "Camminar con Gusto",  una giornata dedicata alla gastronomia locale, passeggiando sull'Altopiano clusonese nelle Orobie Bergamasche. L'iniziativa combina l'arte, la cultura e la storia del luogo con le tipiche tradizioni enogastronomiche.<br><br>
+<b>Indirizzo: </b>Clusone, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.vivisulserio.itcontentview440210">www.vivisulserio.itcontentview440210</a><br>
+<b>Periodo: </b>Settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.951171,45.884661,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 32 ">
+		<name>GANDELLINO - Incontro con gli Alpini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/32_IncontroconGliAlpini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Festa degli Alpini che si tiene presso la località di Gandellino propone ogni anno un concerto del Coro Orobico del Gruppo ANA Boccaleone. Il Coro è composto da 32 elementi - suddivisi in tenori primi, tenori secondi, baritoni e bassi - e propone i canti di tradizione alpina e popolare che fanno parte del  patrimonio culturale locale, oltre che a canti di carattere religioso e natalizio<br><br>
+<b>Indirizzo: </b>Gandellino, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Seconda domenica di luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.946293000000001,45.991971,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 33 ">
+		<name>OLMO AL BREMBO - Fungolandia</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/33_Fungolandia.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>"Fungolandia" è la Sagra del fungo che ha luogo nei paesi di Altobrembo: Averara, Cassiglio, Cusio, Mezzoldo, Olmo al Brembo, Ornica, Piazza Brembana, Piazzatorre, Piazzolo, Santa Brigida, Valtorta. L'evento ha una durata di otto giorni e prevede mostre micologiche, laboratori, escursioni alla scoperta dei funghi, degustazioni e menù promozionali in ristoranti convenzionati.<br><br>
+<b>Indirizzo: </b>Via Roma s.n.  Lungo la Strada Provinciale per il Passo San Marco - Olmo al Brembo, BG<br>
+<b>Telefono: </b>3481842781<br>
+<b>Mail: </b>info@altobrembo.it<br>
+<b> Sito internet: </b><a href="www.fungolandia.it">www.fungolandia.it</a><br>
+<b>Periodo: </b>Da fine agosto a inizio settembre<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.648892,45.971453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 34 ">
+		<name>VALGOGLIO -  La Ranzada di Sant&apos;Eustacchio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/34_LaRanzadadiSantEustacchio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Ranzada di Sant'Eustachio si svolge nel comune di Valgoglio e consiste in una gara di falciatura d' erba. L'iniziativa, originata da un'idea del parroco Primo Moioli,  rappresenta oggi un momento di socialità importante per la comunità e si svolge in concomitanza con la festa compatronale di Sant'Eustachio.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Metà Luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.912190000000001,45.976208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 35 ">
+		<name>CARONA - Trofeo Parravicini</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/35_TrofeoParravicini.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Trofeo Parravicini rappresenta un riconoscimento nell'ambito dello scialpinismo, istituito nel 1936. Il percorso della gara si sviluppa sulle creste che circondano la conca del Rifugio F.lli Calvi.<br><br>
+<b>Indirizzo: </b>Carona, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.comune.carona.bg.it">www.comune.carona.bg.it</a><br>
+ 
+<b>Info: </b>Periodo: Fine aprile<br>
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.783548,46.02332,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 54 ">
+		<name>SANTA BRIGIDA - Festa della Taragna</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/54_festataragna.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La sagra si tiene la prima domenica di agosto e, oltre alle degustazioni della tipica polenta Taragna, prevede musiche popolari e balli di liscio.<br><br>
+<b>Indirizzo: </b>Santa Brigida, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.625488000000001,45.982467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 55 ">
+		<name>SANTA BRIGIDA - Gara del Boscaiolo</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/55_GaradelBoscaiolo.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa particolare gara amatoriale vede una larga partecipazione degli abitanti di Santa Brigida e premia il primo concorrente che riesce a fare cadere il tronco di un albero a colpi d'ascia.<br><br>
+<b>Indirizzo: </b>Santa Brigida, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Metà agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.622590000000001,45.984747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 288 ">
+		<name>ISOLA DI FONDRA - Presepe Vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/288_PresepeVivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Nel periodo natalizio si svolge, per le vie del comune di Isola di Fondra, il presepe vivente. Questo evento, oltre a ricordare la nascita di Gesù, è anche l'occasione per rivivere i mestieri tipici di una volta - fabbri, falegnami, pastori, fornai e agricoltori - grazie al coinvolgimento degli abitanti del piccolo comune.<br><br>
+<b>Indirizzo: </b>Isola di Fondra, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.74879,45.979648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 325 ">
+		<name>CASSIGLIO - Presepe vivente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/325_Presepevivente.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il presepe vivente è la tradizionale rappresentazione della Natività che si tiene ogni anno nel comune di Cassiglio,  la notte di Natale.  Durante l'evento, nelle vie del paese vengono rievocate le tradizioni e i mestieri antichi, che rappresentano il patrimonio culturale della popolazione locale.<br><br>
+<b>Indirizzo: </b>Cassiglio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.611879,45.966729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 373 ">
+		<name>ARDESIO -  &quot;Come d&apos;incanto&quot; - Festival artisti di strada</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/373_Comedincanto.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Festival di artisti di strada "Come d'incanto" si svolge l'ultimo week end di maggio, attirando ad Ardesio "buskers" - artisti di strada - da tutto il mondo. L'evento ha un forte richiamo turistico. La manifestazione ha come scopo principale la valorizzazione del centro storico come luogo d'incontro, divertimento, confronto, ritrovo e la riscoperta di angoli caratteristici, piazze, vicoli, in cui si svolgono le esibizioni.<br><br>
+<b>Indirizzo: </b>Ardesio, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.prolocoardesio.it">www.prolocoardesio.it</a><br>
+<b>Periodo: </b>ultimo week-end di maggio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.930547000000001,45.93873899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 377 ">
+		<name>CASTIONE DELLA PRESOLANA - Alturalmente</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/377_Notedimezzaestate.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>"Alturalmente. Note di mezza estate" è una rassegna musicale organizzata da Orizzonte Orobie e dall'Associazione culturale Orchestra Salmeggia, che si propone di promuovere le valli bergamasche portando in quota musica di qualità. I concerti vengono allestiti su palcoscenici all'aperto, in scorci suggestivi delle località montane della valle<br><br>
+<b>Indirizzo: </b>Donico - Castione della Presolana, BG<br>
+<b>Telefono: </b>Ufficio Turismo Presolana tel. 0346 60 039<br>
+ 
+<b> Sito internet: </b><a href="www.presolana.it">www.presolana.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>10.036695,45.906778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 396 ">
+		<name>GROMO - Gromo nel XV secolo - Arte e Mestieri</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/396_GromonelXVsecoloArteeMestieri.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questo evento è una rievocazione storica del periodo medievale, quando il piccolo borgo era conosciuto in tutta Europa per la lavorazione del ferro e la produzione di armi bianche, alabarde, scudi e corazze. Durante la manifestazione è possibile assistere a dimostrazioni di antichi mestieri messe in scena lungo le vie del centro storico : la panificazione, il conio della moneta, lo stampatore, le ricamatrici, gli antichi giochi, le fioraie, l'orafo, i musici, gli spadai, gli arcieri, ecc.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+<b> Sito internet: </b><a href="www.gromo.eu">www.gromo.eu</a><br>
+<b>Periodo: </b>18 agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.929010999999999,45.968945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 460 ">
+		<name>SAN GIOVANNI BIANCO - Festa del Ronco</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/460_FestadelRonco.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Ogni anno, la quarta domenica del mese di luglio, il gruppo degli alpini di San Giovanni Bianco e di Camerata Cornello organizzano presso il comune di San Giovanni Bianco la festa del ronco, caratterizzata da una camminata in montagna non competitiva e accompagnata da un pranzo in rifugio e spettacoli di intrattenimento.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.sangiovannibianco.org">www.sangiovannibianco.org</a><br>
+<b>Periodo: </b>luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.638527,45.852898,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 461 ">
+		<name>OLTRESSENDA ALTA - Gara delle torte</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/461_Garadelletorte.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La gara delle torte si svolge nel mese di luglio nella frazione Valzurio di Oltressenda Alta.<br><br>
+<b>Indirizzo: </b>Oltressenda Alta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Luglio<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.971356,45.923859,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 462 ">
+		<name>VALTORTA - Generu</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/462_festageneruvaltorta.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>E' un rito collettivo praticato dagli abitanti di Valtorta per celebrare la fine del rigido mese di gennaio: un malcapitato qualsiasi viene fatto oggetto di burle di ogni genere, con il pretesto di festeggiare la primavera che arriva. <br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+ 
+ 
+<b> Sito internet: </b><a href="www.ecomuseodivaltorta.com/tradizioni.html">www.ecomuseodivaltorta.com/tradizioni.html</a><br>
+<b>Periodo: </b>Fine gennaio, tre settimane dopo la Pisa Egia.<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.531799,45.977724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 466 ">
+		<name>VILLA D&apos;OGNA - Mostra del Fungo e della Natura</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/466_MostradelFungoedellaNatura.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Mostra del Fungo e della Natura si svolge nel mese di agosto, nel Palazzetto dello Sport. Si tratta di un'esposizione che raccoglie centinaia di specie di funghi della Val Seriana; l'evento richiama ogni anno molti appassionati, ma anche turisti interessati a scoprire le risorse territorio circostante.<br><br>
+<b>Indirizzo: </b>Palazzetto Fausto Radici, Largo Europa 70 - Villa d'Ogna, BG<br>
+<b>Telefono: </b>Comune di Villa d'Ogna tel. 035704063<br>
+ 
+<b> Sito internet: </b><a href="www.comune.villadogna.bg.it">www.comune.villadogna.bg.it</a><br>
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.930545,45.90696299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 467 ">
+		<name>SAN GIOVANNI BIANCO - Rogo di Arlecchino</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/467_RogoArlecchino.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Questa ricorrenza viene celebrata la sera del martedì grasso, l'ultimo giorno di Carnevale, in cui la tradizione vuole che vengano dati alle fiamme i panni della miseria, lasciando così posto alle buone aspettative della nuova stagione. Durante questo evento viene bruciata una grande sagoma di Arlecchino:  più le famme sono vivaci, più il futuro sarà promettente.<br><br>
+<b>Indirizzo: </b>San Giovanni Bianco, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Sera del martedì grasso<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.652243,45.875953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 468 ">
+		<name>PARRE - Run-Par - Gara podistica agosto</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/468_RunPar.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La gara podistica Run-Par è inserita nel circuito "Corri nei borghi" che prevede altre 6 tappe (Cerete, Clusone, Valbondione, Sovere, Bratto e Parre) ed è una manifestazione Regionale OPEN di corsa su strada. Prevede 5 competizioni, le categorie baby e ragazzi, la gara non competitiva e gli assoluti maschili e femminili per tesserati FIDAL. La camminata non competitiva e la gara podistica si svolgono lungo le strade del borgo di Parre. <br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+<b>Telefono: </b>Comune di Parre tel. 035701002 <br>
+<b>Mail: </b> info@comune.parre.bg.it<br>
+<b> Sito internet: </b><a href=" www.corrineiborghi.it "> www.corrineiborghi.it </a><br>
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.893134,45.873401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 469 ">
+		<name>PARRE - Sagra del capù</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/469_Sagradelcapu.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Sagra del capù celebra uno dei piatti tipici di questa zona. I "capù", cucinati secondo una ricetta tradizionale dalle donne di Parre, si presentano come una grossa polpetta ricoperta con foglie di verza, ripiene di magro preparato con pangrattato e formaggio stagionato, come gli "scarpinocc", i ravioli tipici di Parre. Durante la manifestazione è inoltre possibile ammirare uomini e donne vestiti con il seicentesco costume tipico del paese, che riproporranno gli antichi mestieri e le antiche ricette. <br><br>
+<b>Indirizzo: </b>Parre, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Prima settimana di agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.889943000000001,45.875199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 470 ">
+		<name>VALGOGLIO - Vertical (Gara podistica in salita)</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/470_Vertical.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il principale evento turistico di Valgoglio è all'insegna della natura e dello sport. Si tratta della celebre "Vertical", gara podistica nazionale molto in salita. La competizione, molto impegnativa, prevede un percorso di tre chilometri su un dislivello di 1.000 metri, che parte dalla centrale Enel di Aviasco, sopra il paese, ad un'altitudine di circa 950 m, attraversa la frazione Bortolotti (1.150 m circa),continuando lungo il sentiero dei 5 laghi fino alla casa dei guardiani Enel località Succotto (1.800 m circa), da qui prosegue in direzione lago Nero per l'ultimo tratto su un ripido sentiero.<br><br>
+<b>Indirizzo: </b>Valgoglio, BG<br>
+<b>Telefono: </b>Comune di Valgoglio tel. 034641053
+<br>
+<b>Mail: </b>info@comune.valgoglio.bg.it<br>
+<b> Sito internet: </b><a href="www.valseriana.eu">www.valseriana.eu</a><br>
+<b>Periodo: </b>Agosto<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.915206,45.976838,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 5 ">
+		<name>VALTORTA - Carnevale</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/eventi/laici/5_Carnevale.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Il Carnevale a Valtorta, come in altri paesi della Valle, segue il calendario del rito ambrosiano: il pittoresco corteo è composto da una serie di figuranti con il volto coperto da maschere e vestiti, preparati dalla stessa comunità. La prima maschera che apre il corteo è il "vècio", che con il bastone comanda il resto delle figure: la "égia", sua consorte, la "pote", la giovane nobile etc. Fanno parte del corteo anche i "diaoi furcheti", figure demoniache in abito rosso che il "vècio" contrasta con il suo bastone.<br><br>
+<b>Indirizzo: </b>Valtorta, BG<br>
+ 
+ 
+ 
+<b>Periodo: </b>Carnevale<br>
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin32</styleUrl>
+		<Point>
+			<coordinates>9.53524,45.977187,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

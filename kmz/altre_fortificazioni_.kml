@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>altre_fortificazioni</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/altre_fortificazioni_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>https://sites.google.com/site/parcoorobieii/iconelegenda/altre_fortificazioni_new.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark id=" 44 ">
+		<name>TALEGGIO - Torre Romanica</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/difensive/alti_edifici_fotificati/44_torreromanica.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Sottochiesa, frazione del comune di Taleggio, è il primo abitato che si incontra entrando in Val Taleggio dopo aver attraversato gli orridi dell'Enna. E' il capoluogo amministrativo del comune, sede degli Uffici Municipali.  
+Caratteristica di questa frazione è la Torre Romanica del '300 (unica rimasta delle sette esistenti), detta anche Torre dei Salvioni, dal nome di un'importante famiglia locale. Notevolmente pendente, la torre campanaria, probabilmente testimonianza di una cappella preesistente, si erge accanto alla Parrocchiale che conserva al suo interno diverse opere d'arte.
+<br><br>
+<b>Indirizzo: </b>Via Roma, Sottochiesa - Taleggio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.567144000000001,45.892372,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 361 ">
+		<name>TALEGGIO - Ruderi del Castello dei Bellaviti</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/difensive/alti_edifici_fotificati/361_castellobellaviti.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La Frazione di Pizzino (970 m) è situata, come dice il nome (pizzo), in posizione sopraelevata sulla falda nord-occidentale della Val Taleggio ed è la più antica località abitata della stessa. Presso la località Corna, i Bellaviti - una delle casate locali più antiche e nobili - eressero attorno al 1200 una rocca detta "Castri Picini", dove, insieme ad altre famiglie di parte Guelfa, si difesero dagli assalti dei Ghibellini di Vedeseta. Sui ruderi del castello è nata una casa privata, ma si riconoscono ancora i tratti medioevali della struttura.<br><br>
+<b>Indirizzo: </b>Pizzino - Taleggio, BG<br>
+ 
+ 
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.568051000000001,45.89704100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 374 ">
+		<name>AZZONE - Torre Civica del 1200</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/difensive/alti_edifici_fotificati/374_TorreCivica.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>Azzone è un piccolo comune della Val di Scalve posto sulla sinistra orografica del fiume Dezzo; a nord-est è delimitato dal Pizzo Camino e dalle alture denominate le Pale (i cui profili compaiono sullo stemma comunale) che lo dividono dalla Val Camonica. La Torre Civica, di origine medievale, è il simbolo del comune, utilizzata anche nello stemma.  La sua meridiana e la sua campanella per secoli hanno scandito il tempo degli abitanti del paese.
+<br><br>
+<b>Indirizzo: </b>Azzone, BG<br>
+<b>Telefono: </b>Comunità Montana di Scalve Tel. 034651133<br>
+<b>Mail: </b>info@cmscalve.bg.it<br>
+<b> Sito internet: </b><a href="www.cmscalve.bg.it">www.cmscalve.bg.it</a><br>
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>10.112655,45.978451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id=" 424 ">
+		<name>GROMO - Torre del Gananderio</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<FONT SIZE="3,5"><br>
+<TD><img src="https://sites.google.com/site/parcoorobieii/risorse_culturali/difensive/alti_edifici_fotificati/424_TorredelGananderio.jpg"WIDTH=330 HEIGHT=240 ALT=></TD><br>
+<body> <div class="box"><br>
+<b></b>La torre del Gananderio si eleva su un poggio dominante la valle. L'edifico ha subito nel corso degli anni varie trasformazioni e attualmente presenta una torre con merlatura e un cortile interno con porticato.<br><br>
+<b>Indirizzo: </b>Gromo, BG<br>
+<b>Telefono: </b>Ufficio turistico - Piazza Dante 034641345<br>
+<b>Mail: </b>ufficioturistico@comune.gromo.bg.it<br>
+ 
+ 
+ 
+<head>
+<style type="text/css">
+.box {
+width:345px;
+height: auto;
+border: 0 px solid;
+color: #000000;
+background: transparent;
+text-align: justify;
+line-height: auto;
+}
+</style>
+</head>
+</div> </body>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.927830999999999,45.967656,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
