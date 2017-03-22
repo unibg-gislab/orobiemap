@@ -18,8 +18,8 @@ function init() {
     app.map = new google.maps.Map(document.getElementById('map'), {
         zoom: 11,
         center: {
-            lat: 41.876,
-            lng: -87.624
+            lat: 46.0267305,
+            lng: 9.7666886,
         }
     });
 
@@ -97,10 +97,10 @@ function failureCallback(errorCode) {}
 
 function toggleKml(file) {
     // remove the old KML object if it exists
-    // if (currentKmlObjects[file]) {
-    // 	ge.getFeatures().removeChild(currentKmlObjects[file]);
-    // 	currentKmlObject = null;
-    // }
+    if (currentKmlObjects[file]) {
+    	currentKmlObjects[file].setMap(null);
+    	currentKmlObject = null;
+    }
     // if the checkbox is checked, fetch the KML and show it on Earth
     var kmlCheckbox = document.getElementById('kml-' + file + '-check');
     if (kmlCheckbox.checked)
