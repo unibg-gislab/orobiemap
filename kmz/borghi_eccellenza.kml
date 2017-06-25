@@ -13,8 +13,6 @@
 		<LabelStyle>
 			<color>00ffffff</color>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
@@ -36,8 +34,6 @@
 		<LabelStyle>
 			<color>00ffffff</color>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Placemark id=" 351 ">
 		<name>CLUSONE</name>

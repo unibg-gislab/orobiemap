@@ -22,7 +22,6 @@ function init() {
             lng: 9.7666886,
         }
     });
-
 }
 
 function initCallback(pluginInstance) {
@@ -109,12 +108,10 @@ function toggleKml(file) {
 }
 
 function loadKml(file) {
-    // var kmlUrl = 'kmz/' + file + '.kml';
-    var kmlUrl = 'http://www.orobiemap.it/kmz/' + file + '.kml';
-    //alert(kmlUrl); DEBUG PER VERIFICARE LINK
-    // fetch the KML
+
     var kmlObject = new google.maps.KmlLayer({
-        url: 'http://www.orobiemap.it/kmz/' + file + '.kml',
+        url: 'https://unibg-gislab.github.io/orobiemap/kmz/' + file + '.kml',
+        preserveViewport: false,
         map: app.map
     });
     // google.earth.fetchKml(ge, kmlUrl, function(kmlObject) {
